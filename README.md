@@ -823,7 +823,7 @@
 - [leptonai/search_with_lepton](https://github.com/leptonai/search_with_lepton) - Building a quick conversation-based search demo with Lepton AI.
 - [sonofmagic/weapp-tailwindcss](https://github.com/sonofmagic/weapp-tailwindcss) - bring tailwindcss to weapp ! 把 `tailwindcss` 原子化思想带入小程序开发吧 ! 原 `weapp-tailwindcss-webpack-plugin`
 - [lvjiaxuan/vscode-eslint-disable](https://github.com/lvjiaxuan/vscode-eslint-disable) - Use hotkeys to insert the corresponding ESLint disabling rules comment.
-- [bilibili/WebAV](https://github.com/bilibili/WebAV) - Process audio/video data in the browser using WebCodecs. 基于 WebCodecs 在浏览器中处理音视频数据。
+- [bilibili/WebAV](https://github.com/bilibili/WebAV) - WebAV is an SDK for creating/editing video files on the web platform. WebAV 是一个在 Web 平台上创建/编辑视频文件的 SDK。
 - [phantomstudios/css-components](https://github.com/phantomstudios/css-components) - CSS Components
 - [TypeStrong/ts-node](https://github.com/TypeStrong/ts-node) - TypeScript execution and REPL for node.js
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
