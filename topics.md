@@ -290,7 +290,7 @@
 - [KingSora/OverlayScrollbars](https://github.com/KingSora/OverlayScrollbars) - A javascript scrollbar plugin that hides the native scrollbars, provides custom styleable overlay scrollbars, and preserves the native functionality and feel.
 - [nrwl/nx](https://github.com/nrwl/nx) - Smart Monorepos · Fast CI
 - [alexjlockwood/ShapeShifter](https://github.com/alexjlockwood/ShapeShifter) - SVG icon animation tool for Android, iOS, and the web
-- [xjh22222228/nav](https://github.com/xjh22222228/nav) - 🔍 发现导航 , 最强静态导航网站
+- [xjh22222228/nav](https://github.com/xjh22222228/nav) - 🔍 发现导航 , 🌏 最强静态导航网站
 - [zhanghuanchong/icon-workshop](https://github.com/zhanghuanchong/icon-workshop) - 图标工场 - 移动应用图标生成工具，一键生成所有尺寸的应用图标和启动图
 - [capricorn86/happy-dom](https://github.com/capricorn86/happy-dom) - A JavaScript implementation of a web browser without its graphical user interface
 - [csxiaoyaojianxian/JavaScriptStudy](https://github.com/csxiaoyaojianxian/JavaScriptStudy) - JavaScript的学习代码总结，高级特性、数据结构、设计模式、typescript、vue、angular、react、node、webpack、weex、小程序、tensorflow…，JavaScript是世界上最好的语言！
@@ -1695,7 +1695,7 @@
 - [svg/svgo](https://github.com/svg/svgo) - ⚙️ Node.js tool for optimizing SVG files
 - [rgrove/parse-xml](https://github.com/rgrove/parse-xml) - A fast, safe, compliant XML parser for Node.js and browsers.
 - [salihozdemir/reddit-clone](https://github.com/salihozdemir/reddit-clone) - Full stack Reddit clone with nodejs and react native.
-- [xjh22222228/nav](https://github.com/xjh22222228/nav) - 🔍 发现导航 , 最强静态导航网站
+- [xjh22222228/nav](https://github.com/xjh22222228/nav) - 🔍 发现导航 , 🌏 最强静态导航网站
 - [typicode/lowdb](https://github.com/typicode/lowdb) - Simple and fast JSON database
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
@@ -2701,7 +2701,7 @@
 - [sonofmagic/weapp-tailwindcss](https://github.com/sonofmagic/weapp-tailwindcss) - bring tailwindcss to weapp ! 把 `tailwindcss` 原子化思想带入小程序开发吧 ! 原 `weapp-tailwindcss-webpack-plugin`
 - [biaochenxuying/blog](https://github.com/biaochenxuying/blog) - 大前端技术为主，读书笔记、随笔、理财为辅，做个终身学习者。
 - [unplugin/unplugin-vue-components](https://github.com/unplugin/unplugin-vue-components) - 📲 On-demand components auto importing for Vue
-- [xjh22222228/nav](https://github.com/xjh22222228/nav) - 🔍 发现导航 , 最强静态导航网站
+- [xjh22222228/nav](https://github.com/xjh22222228/nav) - 🔍 发现导航 , 🌏 最强静态导航网站
 - [web-infra-dev/modern.js](https://github.com/web-infra-dev/modern.js) - Modern.js is a web engineering system, including a web framework and a npm package solution.
 - [xiaoxiaojx/blog](https://github.com/xiaoxiaojx/blog) - Project for records problems solved in my work and study.
 - [lefex/FE](https://github.com/lefex/FE) - 前端 100 天，帮助 10W 人入门并进阶前端。
@@ -2718,7 +2718,7 @@
 
 ## website 
 
-- [xjh22222228/nav](https://github.com/xjh22222228/nav) - 🔍 发现导航 , 最强静态导航网站
+- [xjh22222228/nav](https://github.com/xjh22222228/nav) - 🔍 发现导航 , 🌏 最强静态导航网站
 - [web-infra-dev/modern.js](https://github.com/web-infra-dev/modern.js) - Modern.js is a web engineering system, including a web framework and a npm package solution.
 - [Asabeneh/30-Days-Of-React](https://github.com/Asabeneh/30-Days-Of-React) - 30 Days of  React challenge is a step by step guide to learn React in 30 days.  These videos may help too: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw
 
