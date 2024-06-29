@@ -598,7 +598,7 @@
 
 ## config 
 
-- [antfu/unconfig](https://github.com/antfu/unconfig) - A universal solution for loading configurations.
+- [antfu-collective/unconfig](https://github.com/antfu-collective/unconfig) - A universal solution for loading configurations.
 
 ## continuous-integration 
 
