@@ -131,7 +131,7 @@
 ## Go 
 
 - [chaitin/SafeLine](https://github.com/chaitin/SafeLine) - A web security gateway, serve as a reverse proxy to protect your websites from attacks and exploits.
-- [gvcgo/version-manager](https://github.com/gvcgo/version-manager) - 🔥 A general version manager for 60+ SDKs with TUI inspired by lazygit. No need to remember any commands. Less bugs.
+- [gvcgo/version-manager](https://github.com/gvcgo/version-manager) - 🔥 A general version manager for 70+ SDKs with TUI inspired by lazygit. No need to remember any commands. Less bugs.
 - [anfragment/zen](https://github.com/anfragment/zen) - Simple, free and efficient ad-blocker and privacy guard for Windows, macOS and Linux
 - [huanglishi/GoFlyAdmin](https://github.com/huanglishi/GoFlyAdmin) - Go后台开发框架是GoFly全栈开发社区永久开源可商用框架，是Go语言好用web快速开发框架，能快速搭建应用，框架底层完善，框架插件逐步完善。api文档管理并一键生成api接口代码，一键生成 CRUD前后端代码， GoFly快速开发框架是一款基于Go语言的 Gin和 Vue3的Arco Design的快速后台开发框架，基于JWT接口验证和Auth验证的权限管理系统,附件管理系统，天生支持saas架
 - [version-fox/vfox](https://github.com/version-fox/vfox) - A cross-platform and extendable version manager with support for Java, Node.js, Flutter, .Net & more
@@ -781,6 +781,7 @@
 
 ## TypeScript 
 
+- [tingyuxuan2302/taro3-virtual-list](https://github.com/tingyuxuan2302/taro3-virtual-list) - 基于taro3封装的虚拟列表，对列表节点不等高以及白屏等问题支持友好，无计算量，性能优异，支持各大小程序以及h5页面
 - [mesqueeb/merge-anything](https://github.com/mesqueeb/merge-anything) - Merge objects & other types recursively. A simple & small integration.
 - [OXeu/Rin](https://github.com/OXeu/Rin) - ⚡️Rin 是一个基于 Cloudflare Pages + Workers + D1 + R2 全家桶的博客，无需服务器无需备案，只需要一个解析到 Cloudflare 的域名即可部署。
 - [shikijs/shiki-magic-move](https://github.com/shikijs/shiki-magic-move) - Smoothly animated code blocks with Shiki
@@ -823,7 +824,7 @@
 - [leptonai/search_with_lepton](https://github.com/leptonai/search_with_lepton) - Building a quick conversation-based search demo with Lepton AI.
 - [sonofmagic/weapp-tailwindcss](https://github.com/sonofmagic/weapp-tailwindcss) - bring tailwindcss to weapp ! 把 `tailwindcss` 原子化思想带入小程序开发吧 ! 原 `weapp-tailwindcss-webpack-plugin`
 - [lvjiaxuan/vscode-eslint-disable](https://github.com/lvjiaxuan/vscode-eslint-disable) - Use hotkeys to insert the corresponding ESLint disabling rules comment.
-- [bilibili/WebAV](https://github.com/bilibili/WebAV) - WebAV is an SDK for creating/editing video files on the web platform. WebAV 是一个在 Web 平台上创建/编辑视频文件的 SDK。
+- [bilibili/WebAV](https://github.com/bilibili/WebAV) - WebAV is an SDK built on WebCodecs, designed for creating and editing video files on the web platform. WebAV 是基于 WebCodecs 构建的 SDK，用于在 Web 平台上创建/编辑视频文件。
 - [phantomstudios/css-components](https://github.com/phantomstudios/css-components) - CSS Components
 - [TypeStrong/ts-node](https://github.com/TypeStrong/ts-node) - TypeScript execution and REPL for node.js
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
