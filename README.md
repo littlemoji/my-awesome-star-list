@@ -714,6 +714,7 @@
 
 - [sunface/rust-by-practice](https://github.com/sunface/rust-by-practice) - Learning Rust By Practice,  narrowing the gap between beginner and skilled-dev through challenging examples, exercises and projects.
 - [Canop/bacon](https://github.com/Canop/bacon) - background rust code check
+- [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [YiNNx/cmd-wrapped](https://github.com/YiNNx/cmd-wrapped) - 👩‍💻 Rust-Based Shell History Analyzer
 - [parcel-bundler/lightningcss](https://github.com/parcel-bundler/lightningcss) - An extremely fast CSS parser, transformer, bundler, and minifier written in Rust.
@@ -784,7 +785,7 @@
 - [dianwan/taro-xiaohongshu](https://github.com/dianwan/taro-xiaohongshu) - taro仿小红书demo
 - [tingyuxuan2302/taro3-virtual-list](https://github.com/tingyuxuan2302/taro3-virtual-list) - 基于taro3封装的虚拟列表，对列表节点不等高以及白屏等问题支持友好，无计算量，性能优异，支持各大小程序以及h5页面
 - [mesqueeb/merge-anything](https://github.com/mesqueeb/merge-anything) - Merge objects & other types recursively. A simple & small integration.
-- [OXeu/Rin](https://github.com/OXeu/Rin) - ⚡️Rin 是一个基于 Cloudflare Pages + Workers + D1 + R2 全家桶的博客，无需服务器无需备案，只需要一个解析到 Cloudflare 的域名即可部署。
+- [openRin/Rin](https://github.com/openRin/Rin) - ⚡Dynamic blog based on Cloudflare Pages + Workers + D1 + R2
 - [shikijs/shiki-magic-move](https://github.com/shikijs/shiki-magic-move) - Smoothly animated code blocks with Shiki
 - [Openpanel-dev/openpanel](https://github.com/Openpanel-dev/openpanel) - All the goodies from both Mixpanel and Plausible combined into one tool.
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear and Asana Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
@@ -817,7 +818,6 @@
 - [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - Headless TypeScript ORM with a head. Runs on Node, Bun and Deno. Lives on the Edge and yes, it's a JavaScript ORM too 😅
 - [dzzzzzy/Nestjs-Learning](https://github.com/dzzzzzy/Nestjs-Learning) - nestjs 学习教程 :books:，跟我一起学习 nest 框架~ :muscle:
 - [tsparticles/tsparticles](https://github.com/tsparticles/tsparticles) - tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use component
-- [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
 - [arifszn/gitprofile](https://github.com/arifszn/gitprofile) - 🚀 Create and deploy a dynamic portfolio by just providing your GitHub username.
 - [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀
 - [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) - High-performance In-browser LLM Inference Engine
