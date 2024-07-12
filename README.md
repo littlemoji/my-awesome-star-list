@@ -642,7 +642,7 @@
 
 ## Python 
 
-- [Websoft9/websoft9](https://github.com/Websoft9/websoft9) - Websoft9 is web-based PaaS/Linux Panel for running open source
+- [Websoft9/websoft9](https://github.com/Websoft9/websoft9) - Applications self-hosting platform for running open source, web-based lite PaaS
 - [facebookresearch/AnimatedDrawings](https://github.com/facebookresearch/AnimatedDrawings) - Code to accompany "A Method for Animating Children's Drawings of the Human Figure"
 - [2noise/ChatTTS](https://github.com/2noise/ChatTTS) - A generative speech model for daily dialogue.
 - [Flagsmith/flagsmith](https://github.com/Flagsmith/flagsmith) - Open Source Feature Flagging and Remote Config Service. Host on-prem or use our hosted version at https://flagsmith.com/
