@@ -218,7 +218,6 @@
 - [axios/axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
 - [o0101/-](https://github.com/o0101/-) - Hyphen - An elegant custom element base class
 - [timqian/chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs) - 中文独立博客列表
-- [eduardoleao052/js-pytorch](https://github.com/eduardoleao052/js-pytorch) - A JavaScript library like PyTorch, built from scratch.
 - [VKSRC/Github-Monitor](https://github.com/VKSRC/Github-Monitor) - Github Sensitive Information Leakage Monitor(Github信息泄漏监控系统)
 - [Bistutu/FluentRead](https://github.com/Bistutu/FluentRead) - 拥有基于上下文语境的人工智能翻译引擎，为网站提供更加友好的翻译，让所有人都能够拥有基于母语般的阅读体验。
 - [floccusaddon/floccus](https://github.com/floccusaddon/floccus) - :cloud: Sync your bookmarks privately across browsers and devices
@@ -253,7 +252,7 @@
 - [neocotic/qrious](https://github.com/neocotic/qrious) - Pure JavaScript library for QR code generation using canvas
 - [evanw/glfx.js](https://github.com/evanw/glfx.js) - An image effects library for JavaScript using WebGL
 - [themadcreator/gifler](https://github.com/themadcreator/gifler) - Render GIF frames to canvas
-- [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - Auto-generate impressive commits with AI in 1 second 🤯🔫
+- [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - Generate awesome commits with AI in 1 second 🤯🔫
 - [olado/doT](https://github.com/olado/doT) - The fastest + concise javascript template engine for nodejs and browsers. Partials, custom delimiters and more.
 - [dunwu/nginx-tutorial](https://github.com/dunwu/nginx-tutorial) - 这是一个 Nginx 极简教程，目的在于帮助新手快速入门 Nginx。
 - [automerge/automerge-classic](https://github.com/automerge/automerge-classic) - A JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged again automatically.
@@ -810,6 +809,7 @@
 - [barbajs/barba](https://github.com/barbajs/barba) - Create badass, fluid and smooth transitions between your website’s pages
 - [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) - Build your own second brain with supermemory. It's a ChatGPT for your bookmarks. Import tweets or save websites and content using the chrome extension.
 - [qiweiii/github-custom-notifier](https://github.com/qiweiii/github-custom-notifier) - Web Extension - Allows you to customize GitHub notifications
+- [eduardoleao052/js-pytorch](https://github.com/eduardoleao052/js-pytorch) - A JavaScript library like PyTorch, built from scratch.
 - [atlassian/pragmatic-drag-and-drop](https://github.com/atlassian/pragmatic-drag-and-drop) - Fast drag and drop for any experience on any tech stack
 - [JoshuaKGoldberg/emoji-blast](https://github.com/JoshuaKGoldberg/emoji-blast) - Blasts emoji like fireworks all up in your HTML page. 🎆
 - [hehehai/x-hiring](https://github.com/hehehai/x-hiring) - 🤗 每日最新招聘信息，使用 Google AI 提取摘要
@@ -908,7 +908,7 @@
 - [bestofjs/bestofjs](https://github.com/bestofjs/bestofjs) - :star: A place to find the best components to build amazing web applications. The best of JavaScript!
 - [GeekyAnts/NativeBase](https://github.com/GeekyAnts/NativeBase) - Mobile-first, accessible components for React Native & Web to build consistent UI across Android, iOS and Web.
 - [Raathigesh/majestic](https://github.com/Raathigesh/majestic) - ⚡ Zero config GUI for Jest
-- [xjh22222228/nav](https://github.com/xjh22222228/nav) - 🔍 发现导航 , 🌏 最强静态导航网站
+- [xjh22222228/nav](https://github.com/xjh22222228/nav) - 🔍 发现导航 , 最强轻量级导航网站
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
 - [rubickCenter/rubick](https://github.com/rubickCenter/rubick) - 🔧  Electron based open source toolbox, free integration of rich plug-ins. 基于 electron 的开源工具箱，自由集成丰富插件。
 - [labring/sealos](https://github.com/labring/sealos) - Sealos is a production-ready Kubernetes distribution that provides a one-stop solution for both public and private cloud. You can run any Docker image on sealos, start high availability databases like
