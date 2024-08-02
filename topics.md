@@ -341,7 +341,7 @@
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [jordan-cutler/path-to-senior-engineer-handbook](https://github.com/jordan-cutler/path-to-senior-engineer-handbook) - All the resources you need to get to Senior Engineer and beyond
 - [icopy-site/awesome-cn](https://github.com/icopy-site/awesome-cn) - 超赞列表合集
-- [eryajf/awesome-ops](https://github.com/eryajf/awesome-ops) - 🧰 记录每一个与运维相关的优秀项目，⚗️ 项目内表格通过 GitHub Action 自动生成，📥 当前收录项目 500 个。
+- [eryajf/awesome-ops](https://github.com/eryajf/awesome-ops) - 🧰 记录每一个与运维相关的优秀项目，⚗️ 项目内表格通过 GitHub Action 自动生成，📥 当前收录项目 501 个。
 - [ZiYi0414/handsome-css3-lib](https://github.com/ZiYi0414/handsome-css3-lib) - Amazingly handsome Open-Source UI components made with HTML and CSS. Collection of very handsome CSS animations and special effects on the Internet（在网上收集各种帅气的CSS3特效和动画，按钮标题等各种好玩酷炫的特效组件，网站主旨在于收集网上仅靠 CS
 - [howie6879/weekly](https://github.com/howie6879/weekly) - 老胡的信息技术周刊❤️记录我本周看到的有价值的信息，针对优秀项目、软件、教程资料、网站等。
 - [luban-agi/Awesome-AIGC-Tutorials](https://github.com/luban-agi/Awesome-AIGC-Tutorials) - Curated tutorials and resources for Large Language Models, AI Painting, and more.
@@ -378,7 +378,7 @@
 
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [icopy-site/awesome-cn](https://github.com/icopy-site/awesome-cn) - 超赞列表合集
-- [eryajf/awesome-ops](https://github.com/eryajf/awesome-ops) - 🧰 记录每一个与运维相关的优秀项目，⚗️ 项目内表格通过 GitHub Action 自动生成，📥 当前收录项目 500 个。
+- [eryajf/awesome-ops](https://github.com/eryajf/awesome-ops) - 🧰 记录每一个与运维相关的优秀项目，⚗️ 项目内表格通过 GitHub Action 自动生成，📥 当前收录项目 501 个。
 - [lucasfloriani/awesome-code-streamers](https://github.com/lucasfloriani/awesome-code-streamers) - List of code streamers from multiples plataforms like Twitch, Youtube, etc
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [ossu/computer-science](https://github.com/ossu/computer-science) - :mortar_board: Path to a free self-taught education in Computer Science!
@@ -771,7 +771,7 @@
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear and Asana Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [vvbbnn00/WARP-Clash-API](https://github.com/vvbbnn00/WARP-Clash-API) - 该项目可以让你通过订阅的方式使用Cloudflare WARP+，自动获取流量。This project enables you to use Cloudflare WARP+ through subscription, automatically acquiring traffic.
-- [eryajf/awesome-ops](https://github.com/eryajf/awesome-ops) - 🧰 记录每一个与运维相关的优秀项目，⚗️ 项目内表格通过 GitHub Action 自动生成，📥 当前收录项目 500 个。
+- [eryajf/awesome-ops](https://github.com/eryajf/awesome-ops) - 🧰 记录每一个与运维相关的优秀项目，⚗️ 项目内表格通过 GitHub Action 自动生成，📥 当前收录项目 501 个。
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 Locally hosted web application that allows you to perform various operations on PDF files
 - [msgbyte/tianji](https://github.com/msgbyte/tianji) - Tianji: Insight into everything, Website Analytics + Uptime Monitor + Server Status. not only another GA alternatives
 - [yeasy/docker_practice](https://github.com/yeasy/docker_practice) - Learn and understand Docker&Container technologies, with real DevOps practice!
@@ -1065,7 +1065,6 @@
 
 - [Canop/bacon](https://github.com/Canop/bacon) - background rust code check
 - [Flagsmith/flagsmith](https://github.com/Flagsmith/flagsmith) - Open Source Feature Flagging and Remote Config Service. Host on-prem or use our hosted version at https://flagsmith.com/
-- [mfts/papermark](https://github.com/mfts/papermark) - Papermark is the open-source DocSend alternative with built-in analytics and custom domains.
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [axios/axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
 - [TeamPiped/Piped](https://github.com/TeamPiped/Piped) - An alternative privacy-friendly YouTube frontend which is efficient by design.
@@ -1390,7 +1389,7 @@
 ## kubernetes 
 
 - [Websoft9/websoft9](https://github.com/Websoft9/websoft9) - Applications self-hosting platform for running open source, web-based linux Panel of lite PaaS
-- [eryajf/awesome-ops](https://github.com/eryajf/awesome-ops) - 🧰 记录每一个与运维相关的优秀项目，⚗️ 项目内表格通过 GitHub Action 自动生成，📥 当前收录项目 500 个。
+- [eryajf/awesome-ops](https://github.com/eryajf/awesome-ops) - 🧰 记录每一个与运维相关的优秀项目，⚗️ 项目内表格通过 GitHub Action 自动生成，📥 当前收录项目 501 个。
 - [isno/theByteBook](https://github.com/isno/theByteBook) - ⭐ 【开源书籍】深入讲解内核网络、Kubernetes、ServiceMesh、容器等云原生相关技术。经历实践检验的 DevOps、SRE指南。如发现错误，谢谢提issue
 - [yeasy/docker_practice](https://github.com/yeasy/docker_practice) - Learn and understand Docker&Container technologies, with real DevOps practice!
 - [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods.
@@ -1608,7 +1607,7 @@
 ## mysql 
 
 - [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - Headless TypeScript ORM with a head. Runs on Node, Bun and Deno. Lives on the Edge and yes, it's a JavaScript ORM too 😅
-- [eryajf/awesome-ops](https://github.com/eryajf/awesome-ops) - 🧰 记录每一个与运维相关的优秀项目，⚗️ 项目内表格通过 GitHub Action 自动生成，📥 当前收录项目 500 个。
+- [eryajf/awesome-ops](https://github.com/eryajf/awesome-ops) - 🧰 记录每一个与运维相关的优秀项目，⚗️ 项目内表格通过 GitHub Action 自动生成，📥 当前收录项目 501 个。
 - [koala-coding/goodBlog](https://github.com/koala-coding/goodBlog) - 我是koala, 公众号【程序员成长指北】的作者， 专注Node.js技术栈分享，从前端到Node.js再到后端数据库，帮您成为优秀的Node.js全栈工程师。和我一起进阶全栈吧！
 - [liyupi/codefather](https://github.com/liyupi/codefather) - 程序员鱼皮的编程宝典。原创编程学习路线，包括经验分享、技术知识、学习资源、学习建议、项目等，适用于所有学习编程 & 求职的同学。已完成 Java、前端
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
@@ -1742,6 +1741,7 @@
 
 ## open-source 
 
+- [mfts/papermark](https://github.com/mfts/papermark) - Papermark is the open-source DocSend alternative with built-in analytics and custom domains.
 - [ZiYi0414/handsome-css3-lib](https://github.com/ZiYi0414/handsome-css3-lib) - Amazingly handsome Open-Source UI components made with HTML and CSS. Collection of very handsome CSS animations and special effects on the Internet（在网上收集各种帅气的CSS3特效和动画，按钮标题等各种好玩酷炫的特效组件，网站主旨在于收集网上仅靠 CS
 - [pheralb/svgl](https://github.com/pheralb/svgl) - 🧩 A beautiful library with SVG logos. Built with Sveltekit & Tailwind CSS.
 - [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2024
@@ -2096,6 +2096,7 @@
 ## postgresql 
 
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear and Asana Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
+- [mfts/papermark](https://github.com/mfts/papermark) - Papermark is the open-source DocSend alternative with built-in analytics and custom domains.
 - [teableio/teable](https://github.com/teableio/teable) - ✨ The Next Gen Airtable Alternative: No-Code Postgres
 - [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - Headless TypeScript ORM with a head. Runs on Node, Bun and Deno. Lives on the Edge and yes, it's a JavaScript ORM too 😅
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
@@ -2193,7 +2194,7 @@
 
 - [eduardoleao052/js-pytorch](https://github.com/eduardoleao052/js-pytorch) - A JavaScript library like PyTorch, with GPU acceleration.
 - [stas00/ml-engineering](https://github.com/stas00/ml-engineering) - Machine Learning Engineering Open Book
-- [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) - The most powerful and modular stable diffusion GUI, api and backend with a graph/nodes interface.
+- [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
 - [JeffersonQin/YuzuMarker.FontDetection](https://github.com/JeffersonQin/YuzuMarker.FontDetection) - ✨ 首个CJK（中日韩）字体识别以及样式提取模型 YuzuMarker的字体识别模型与实现 / First-ever CJK (Chinese Japanese Korean) Font Recognition and Style Extractor, side project of YuzuMarker
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - GPT-powered chat for documentation, chat with your documents
 - [carefree0910/carefree-creator](https://github.com/carefree0910/carefree-creator) - AI magics meet Infinite draw board.
@@ -2444,7 +2445,7 @@
 
 ## stable-diffusion 
 
-- [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) - The most powerful and modular stable diffusion GUI, api and backend with a graph/nodes interface.
+- [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
 - [6174/comflowy](https://github.com/6174/comflowy) - Unleash endless possibilities with ComfyUI and Stable Diffusion, committed to crafting refined AI-Gen tools and cultivating a vibrant community for both developers and users.
 - [luban-agi/Awesome-AIGC-Tutorials](https://github.com/luban-agi/Awesome-AIGC-Tutorials) - Curated tutorials and resources for Large Language Models, AI Painting, and more.
 - [carefree0910/carefree-creator](https://github.com/carefree0910/carefree-creator) - AI magics meet Infinite draw board.
