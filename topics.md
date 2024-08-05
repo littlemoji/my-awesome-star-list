@@ -1470,7 +1470,7 @@
 ## llm 
 
 - [2noise/ChatTTS](https://github.com/2noise/ChatTTS) - A generative speech model for daily dialogue.
-- [1Panel-dev/MaxKB](https://github.com/1Panel-dev/MaxKB) - 🚀 基于 LLM 大语言模型的知识库问答系统。开箱即用、模型中立、灵活编排，支持快速嵌入到第三方业务系统，1Panel 官方出品。
+- [1Panel-dev/MaxKB](https://github.com/1Panel-dev/MaxKB) - 🚀 基于 LLM 大语言模型的知识库问答系统。开箱即用、模型中立、灵活编排，支持快速嵌入到第三方业务系统。
 - [cs-lazy-tools/ChatGPT-On-CS](https://github.com/cs-lazy-tools/ChatGPT-On-CS) - 基于大模型的智能对话客服工具，支持微信、拼多多、千牛、哔哩哔哩、抖音企业号、抖音、抖店、微博聊天、小红书专业号运营、小红书、知乎等平台接入，可选择 GPT3.5/GPT4.0/ 懒人百宝箱 （后续会支持更多平台），能处理文本、语音和图片，通过插件访问操作系统和互联网等外部资源，支持基于自有知识库定制企业 AI 应用。
 - [lavague-ai/LaVague](https://github.com/lavague-ai/LaVague) - Large Action Model framework to develop AI Web Agents
 - [liguodongiot/llm-action](https://github.com/liguodongiot/llm-action) - 本项目旨在分享大模型相关技术原理以及实战经验。
