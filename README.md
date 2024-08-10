@@ -832,7 +832,7 @@
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
 - [css-hooks/css-hooks](https://github.com/css-hooks/css-hooks) - Hook into advanced CSS features from native inline styles.
 - [BuilderIO/mitosis](https://github.com/BuilderIO/mitosis) - Write components once, run everywhere. Compiles to React, Vue, Qwik, Solid, Angular, Svelte, and more.
-- [Simon-He95/vscode-common-intellisense](https://github.com/Simon-He95/vscode-common-intellisense) - For a better development experience, shine and shine | 为了更好的开发体验，发光发热
+- [Simon-He95/common-intellisense](https://github.com/Simon-He95/common-intellisense) - For a better development experience, shine and shine | 为了更好的开发体验，发光发热
 - [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
 - [yanggggjie/rising-repo](https://github.com/yanggggjie/rising-repo) - 
 - [iconify/icon-sets](https://github.com/iconify/icon-sets) - 150+ open source icon sets. Icons are validated, cleaned up, optimised, ready to render as SVG. Updated automatically 3 times a week.
