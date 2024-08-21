@@ -2499,7 +2499,7 @@
 
 - [mfts/papermark](https://github.com/mfts/papermark) - Papermark is the open-source DocSend alternative with built-in analytics and custom domains.
 - [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) - Build your own second brain with supermemory. It's a ChatGPT for your bookmarks. Import tweets or save websites and content using the chrome extension.
-- [sonofmagic/weapp-tailwindcss](https://github.com/sonofmagic/weapp-tailwindcss) - bring tailwindcss to weapp ! 把 `tailwindcss` 原子化思想带入小程序开发吧 !
+- [sonofmagic/weapp-tailwindcss](https://github.com/sonofmagic/weapp-tailwindcss) - weapp-tailwindcss - bring tailwindcss to weapp ! 把 tailwindcss 原子化思想带入小程序开发吧 !  weapp-vite 把现代化的开发模式带入小程序开发
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
 - [pheralb/svgl](https://github.com/pheralb/svgl) - 🧩 A beautiful library with SVG logos. Built with Sveltekit & Tailwind CSS.
 - [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
@@ -2715,7 +2715,7 @@
 ## webpack 
 
 - [web-infra-dev/rsdoctor](https://github.com/web-infra-dev/rsdoctor) - A one-stop build analyzer for Rspack and Webpack.
-- [sonofmagic/weapp-tailwindcss](https://github.com/sonofmagic/weapp-tailwindcss) - bring tailwindcss to weapp ! 把 `tailwindcss` 原子化思想带入小程序开发吧 !
+- [sonofmagic/weapp-tailwindcss](https://github.com/sonofmagic/weapp-tailwindcss) - weapp-tailwindcss - bring tailwindcss to weapp ! 把 tailwindcss 原子化思想带入小程序开发吧 !  weapp-vite 把现代化的开发模式带入小程序开发
 - [biaochenxuying/blog](https://github.com/biaochenxuying/blog) - 大前端技术为主，读书笔记、随笔、理财为辅，做个终身学习者。
 - [unplugin/unplugin-vue-components](https://github.com/unplugin/unplugin-vue-components) - 📲 On-demand components auto importing for Vue
 - [web-infra-dev/modern.js](https://github.com/web-infra-dev/modern.js) - Modern.js is a web engineering system, including a web framework and a npm package solution.
