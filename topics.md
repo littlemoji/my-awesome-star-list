@@ -1814,7 +1814,7 @@
 - [HigherOrderCO/HVM](https://github.com/HigherOrderCO/HVM) - A massively parallel, optimal functional runtime in Rust
 - [Brave-peng/books](https://github.com/Brave-peng/books) - 各类闲书分享（equb版本，ipad可直接打开阅读）
 - [nodeshift/opossum](https://github.com/nodeshift/opossum) - Node.js circuit breaker - fails fast  ⚡️
-- [InstantID/InstantID](https://github.com/InstantID/InstantID) - InstantID : Zero-shot Identity-Preserving Generation in Seconds 🔥
+- [instantX-research/InstantID](https://github.com/instantX-research/InstantID) - InstantID: Zero-shot Identity-Preserving Generation in Seconds 🔥
 - [tmikov/hermes](https://github.com/tmikov/hermes) - Hermes is a small and lightweight JavaScript engine optimized for running React Native on Android.
 - [nuxt/devtools](https://github.com/nuxt/devtools) - Unleash Nuxt Developer Experience
 - [w3c/webcodecs](https://github.com/w3c/webcodecs) - WebCodecs is a flexible web API for encoding and decoding audio and video.
