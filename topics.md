@@ -146,6 +146,7 @@
 - [npm](#npm)
 - [objective-c](#objective-c)
 - [open-source](#open-source)
+- [openai](#openai)
 - [opencv](#opencv)
 - [operating-system](#operating-system)
 - [osint](#osint)
@@ -1011,7 +1012,7 @@
 
 ## go 
 
-- [gvcgo/version-manager](https://github.com/gvcgo/version-manager) - 🔥 A general version manager for 70+ SDKs with TUI inspired by lazygit. No need to remember any commands. Less bugs.
+- [gvcgo/version-manager](https://github.com/gvcgo/version-manager) - 🔥 A general version manager for 80+ SDKs with TUI inspired by lazygit. No need to remember any commands. Less bugs.
 - [anfragment/zen](https://github.com/anfragment/zen) - Simple, free and efficient ad-blocker and privacy guard for Windows, macOS and Linux
 - [huanglishi/GoFlyAdmin](https://github.com/huanglishi/GoFlyAdmin) - GoFly快速开发框架基于Gin快速开发框架，能快速搭建应用、框架底层完善、丰富代码仓插件、快速开发数据大屏、物联网平台、OA流程审批、工作流引擎、商城、微信管理后台等。api文档管理并一键生成api接口代码，一键生成 CRUD前后端代码丰富组件，基于 Gin和 Vue3的Arco Design的快速后台开发框架，基于JWT接口验证和Auth验证的权限管理系统,附件管理系统，天生支持saas架构。
 - [Jackpopc/DevWeekly](https://github.com/Jackpopc/DevWeekly) - 每周五发布，精选优质开发者内容，包括开源项目、工具资源、技术文章等方面。
@@ -1025,7 +1026,7 @@
 
 ## golang 
 
-- [gvcgo/version-manager](https://github.com/gvcgo/version-manager) - 🔥 A general version manager for 70+ SDKs with TUI inspired by lazygit. No need to remember any commands. Less bugs.
+- [gvcgo/version-manager](https://github.com/gvcgo/version-manager) - 🔥 A general version manager for 80+ SDKs with TUI inspired by lazygit. No need to remember any commands. Less bugs.
 - [ente-io/ente](https://github.com/ente-io/ente) - Fully open source, End to End Encrypted alternative to Google Photos and Apple Photos
 - [songquanpeng/go-file](https://github.com/songquanpeng/go-file) - 基于 Go 的文件分享工具，仅单可执行文件，开箱即用，内置图床和视频播放页面. File sharing tool based on Go.
 - [huanglishi/GoFlyAdmin](https://github.com/huanglishi/GoFlyAdmin) - GoFly快速开发框架基于Gin快速开发框架，能快速搭建应用、框架底层完善、丰富代码仓插件、快速开发数据大屏、物联网平台、OA流程审批、工作流引擎、商城、微信管理后台等。api文档管理并一键生成api接口代码，一键生成 CRUD前后端代码丰富组件，基于 Gin和 Vue3的Arco Design的快速后台开发框架，基于JWT接口验证和Auth验证的权限管理系统,附件管理系统，天生支持saas架构。
@@ -1417,7 +1418,7 @@
 
 ## languages 
 
-- [gvcgo/version-manager](https://github.com/gvcgo/version-manager) - 🔥 A general version manager for 70+ SDKs with TUI inspired by lazygit. No need to remember any commands. Less bugs.
+- [gvcgo/version-manager](https://github.com/gvcgo/version-manager) - 🔥 A general version manager for 80+ SDKs with TUI inspired by lazygit. No need to remember any commands. Less bugs.
 
 ## laravel 
 
@@ -1451,7 +1452,7 @@
 
 ## linux 
 
-- [gvcgo/version-manager](https://github.com/gvcgo/version-manager) - 🔥 A general version manager for 70+ SDKs with TUI inspired by lazygit. No need to remember any commands. Less bugs.
+- [gvcgo/version-manager](https://github.com/gvcgo/version-manager) - 🔥 A general version manager for 80+ SDKs with TUI inspired by lazygit. No need to remember any commands. Less bugs.
 - [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) - User-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama...)
 - [anfragment/zen](https://github.com/anfragment/zen) - Simple, free and efficient ad-blocker and privacy guard for Windows, macOS and Linux
 - [version-fox/vfox](https://github.com/version-fox/vfox) - A cross-platform and extendable version manager with support for Java, Node.js, Flutter, .Net & more
@@ -1527,7 +1528,7 @@
 
 ## macos 
 
-- [gvcgo/version-manager](https://github.com/gvcgo/version-manager) - 🔥 A general version manager for 70+ SDKs with TUI inspired by lazygit. No need to remember any commands. Less bugs.
+- [gvcgo/version-manager](https://github.com/gvcgo/version-manager) - 🔥 A general version manager for 80+ SDKs with TUI inspired by lazygit. No need to remember any commands. Less bugs.
 - [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) - User-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama...)
 - [milanvarady/Applite](https://github.com/milanvarady/Applite) - User-friendly GUI macOS application for Homebrew Casks
 - [lwouis/alt-tab-macos](https://github.com/lwouis/alt-tab-macos) - Windows alt-tab on macOS
@@ -1760,6 +1761,20 @@
 - [basarat/typescript-book](https://github.com/basarat/typescript-book) - :books: The definitive guide to TypeScript and possibly the best TypeScript book :book:. Free and Open Source 🌹
 - [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
+
+## openai 
+
+- [xcanwin/KeepChatGPT](https://github.com/xcanwin/KeepChatGPT) - 这是一款提高ChatGPT的数据安全能力和效率的插件。并且免费共享大量创新功能，如：自动刷新、保持活跃、数据安全、取消审计、克隆对话、言无不尽、净化页面、展示大屏、拦截跟踪、日新月异、明察秋毫等。让我们的AI体验无比安全、顺畅、丝滑、高效、简洁。
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Azure /  DeepSeek), Knowledge Base (file upload / knowledge management
+- [1Panel-dev/MaxKB](https://github.com/1Panel-dev/MaxKB) - 🚀 基于大语言模型和 RAG 的知识库问答系统。开箱即用、模型中立、灵活编排，支持快速嵌入到第三方业务系统。
+- [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) - User-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama...)
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly WebUI for LLMs (Formerly Ollama WebUI)
+- [sparrow-js/an-codeAI](https://github.com/sparrow-js/an-codeAI) - AI generate code
+- [labring/FastGPT](https://github.com/labring/FastGPT) - FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letti
+- [open-compass/opencompass](https://github.com/open-compass/opencompass) - OpenCompass is an LLM evaluation platform, supporting a wide range of models (Llama3, Mistral, InternLM2,GPT-4,LLaMa2, Qwen,GLM, Claude, etc) over 100+ datasets.
+- [codeacme17/examor](https://github.com/codeacme17/examor) - For students, scholars, interviewees and lifelong learners. Let LLMs assist you in learning 🎓
+- [lvwzhen/law-cn-ai](https://github.com/lvwzhen/law-cn-ai) - ⚖️ AI 法律助手
+- [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 
 ## opencv 
 
@@ -2126,7 +2141,7 @@
 
 ## programming 
 
-- [gvcgo/version-manager](https://github.com/gvcgo/version-manager) - 🔥 A general version manager for 70+ SDKs with TUI inspired by lazygit. No need to remember any commands. Less bugs.
+- [gvcgo/version-manager](https://github.com/gvcgo/version-manager) - 🔥 A general version manager for 80+ SDKs with TUI inspired by lazygit. No need to remember any commands. Less bugs.
 - [susam/fxyt](https://github.com/susam/fxyt) - Tiny, esoteric, stack-based, postfix, canvas colouring language with only 36 simple commands
 - [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version ongoing
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
@@ -2745,7 +2760,7 @@
 
 ## windows 
 
-- [gvcgo/version-manager](https://github.com/gvcgo/version-manager) - 🔥 A general version manager for 70+ SDKs with TUI inspired by lazygit. No need to remember any commands. Less bugs.
+- [gvcgo/version-manager](https://github.com/gvcgo/version-manager) - 🔥 A general version manager for 80+ SDKs with TUI inspired by lazygit. No need to remember any commands. Less bugs.
 - [shion-app/shion](https://github.com/shion-app/shion) - Time tracker | 时间追踪 🍂
 - [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) - User-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama...)
 - [lencx/Noi](https://github.com/lencx/Noi) - 🚀 Power Your World with AI - Explore, Extend, Empower.
