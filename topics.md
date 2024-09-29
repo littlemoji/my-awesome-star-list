@@ -223,6 +223,7 @@
 
 ## ai 
 
+- [petercat-ai/petercat](https://github.com/petercat-ai/petercat) - A conversational Q&A agent configuration system, self-hosted deployment solutions, and a convenient all-in-one application SDK, allowing you to create intelligent Q&A bots for your GitHub repositories
 - [xcanwin/KeepChatGPT](https://github.com/xcanwin/KeepChatGPT) - 这是一款提高ChatGPT的数据安全能力和效率的插件。并且免费共享大量创新功能，如：自动刷新、保持活跃、数据安全、取消审计、克隆对话、言无不尽、净化页面、展示大屏、拦截跟踪、日新月异、明察秋毫等。让我们的AI体验无比安全、顺畅、丝滑、高效、简洁。
 - [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Azure /  DeepSeek), Knowledge Base (file upload / knowledge management
 - [cs-lazy-tools/ChatGPT-On-CS](https://github.com/cs-lazy-tools/ChatGPT-On-CS) - 基于大模型的智能对话客服工具，支持微信、拼多多、千牛、哔哩哔哩、抖音企业号、抖音、抖店、微博聊天、小红书专业号运营、小红书、知乎等平台接入，可选择 GPT3.5/GPT4.0/ 懒人百宝箱 （后续会支持更多平台），能处理文本、语音和图片，通过插件访问操作系统和互联网等外部资源，支持基于自有知识库定制企业 AI 应用。
@@ -265,6 +266,7 @@
 
 ## analytics 
 
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [Openpanel-dev/openpanel](https://github.com/Openpanel-dev/openpanel) - All the goodies from both Mixpanel and Plausible combined into one tool.
 - [msgbyte/tianji](https://github.com/msgbyte/tianji) - Tianji: Insight into everything, Website Analytics + Uptime Monitor + Server Status. not only another GA alternatives
 - [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, unified time series database for metrics, logs and events with SQL/PromQL supported. Available on GreptimeCloud.
@@ -321,6 +323,7 @@
 
 ## artificial-intelligence 
 
+- [FudanSELab/Agent4SE-Paper-List](https://github.com/FudanSELab/Agent4SE-Paper-List) - Repository for the paper "Large Language Model-Based Agents for Software Engineering: A Survey".
 - [LLMBook-zh/LLMBook-zh.github.io](https://github.com/LLMBook-zh/LLMBook-zh.github.io) - 《大语言模型》作者：赵鑫，李军毅，周昆，唐天一，文继荣
 - [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - Generate conventional git commit messages with AI in 1 second 🤯🔫
 - [AMAI-GmbH/AI-Expert-Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap) - Roadmap to becoming an Artificial Intelligence Expert in 2022
@@ -632,6 +635,7 @@
 
 ## css 
 
+- [TheOdinProject/curriculum](https://github.com/TheOdinProject/curriculum) - The open curriculum for learning web development
 - [barbajs/barba](https://github.com/barbajs/barba) - Create badass, fluid and smooth transitions between your website’s pages
 - [argyleink/open-props](https://github.com/argyleink/open-props) - CSS custom properties to help accelerate adaptive and consistent design.
 - [phantomstudios/css-components](https://github.com/phantomstudios/css-components) - CSS Components
@@ -776,6 +780,7 @@
 
 ## docker 
 
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [Websoft9/websoft9](https://github.com/Websoft9/websoft9) - Applications self-hosting platform for running open source, web-based linux Panel of lite PaaS
 - [Flagsmith/flagsmith](https://github.com/Flagsmith/flagsmith) - Open Source Feature Flagging and Remote Config Service. Host on-prem or use our hosted version at https://flagsmith.com/
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
@@ -1072,6 +1077,9 @@
 
 ## hacktoberfest 
 
+- [jcubic/tagger](https://github.com/jcubic/tagger) - Zero Dependency, Vanilla JavaScript Tag Editor
+- [TheOdinProject/curriculum](https://github.com/TheOdinProject/curriculum) - The open curriculum for learning web development
+- [Buzzpy/Dev-Encyclopedia](https://github.com/Buzzpy/Dev-Encyclopedia) - An encyclopedia for everything, Programming.
 - [Canop/bacon](https://github.com/Canop/bacon) - background rust code check
 - [Flagsmith/flagsmith](https://github.com/Flagsmith/flagsmith) - Open Source Feature Flagging and Remote Config Service. Host on-prem or use our hosted version at https://flagsmith.com/
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
@@ -1127,6 +1135,7 @@
 
 ## html 
 
+- [TheOdinProject/curriculum](https://github.com/TheOdinProject/curriculum) - The open curriculum for learning web development
 - [tsparticles/tsparticles](https://github.com/tsparticles/tsparticles) - tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use component
 - [px2code/Figma-to-HTML](https://github.com/px2code/Figma-to-HTML) - Figma to HTML/React/Vue and truly responsive
 - [BuilderIO/figma-html](https://github.com/BuilderIO/figma-html) - Builder.io for Figma: AI generation, export to code, import from web
@@ -1229,6 +1238,8 @@
 
 ## javascript 
 
+- [jcubic/tagger](https://github.com/jcubic/tagger) - Zero Dependency, Vanilla JavaScript Tag Editor
+- [TheOdinProject/curriculum](https://github.com/TheOdinProject/curriculum) - The open curriculum for learning web development
 - [mesqueeb/merge-anything](https://github.com/mesqueeb/merge-anything) - Merge objects & other types recursively. A simple & small integration.
 - [xifangczy/cat-catch](https://github.com/xifangczy/cat-catch) - 猫抓 浏览器资源嗅探扩展 / cat-catch Browser Resource Sniffing Extension
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
@@ -1487,6 +1498,7 @@
 
 ## llm 
 
+- [petercat-ai/petercat](https://github.com/petercat-ai/petercat) - A conversational Q&A agent configuration system, self-hosted deployment solutions, and a convenient all-in-one application SDK, allowing you to create intelligent Q&A bots for your GitHub repositories
 - [2noise/ChatTTS](https://github.com/2noise/ChatTTS) - A generative speech model for daily dialogue.
 - [1Panel-dev/MaxKB](https://github.com/1Panel-dev/MaxKB) - 🚀 基于大语言模型和 RAG 的知识库问答系统。开箱即用、模型中立、灵活编排，支持快速嵌入到第三方业务系统。
 - [cs-lazy-tools/ChatGPT-On-CS](https://github.com/cs-lazy-tools/ChatGPT-On-CS) - 基于大模型的智能对话客服工具，支持微信、拼多多、千牛、哔哩哔哩、抖音企业号、抖音、抖店、微博聊天、小红书专业号运营、小红书、知乎等平台接入，可选择 GPT3.5/GPT4.0/ 懒人百宝箱 （后续会支持更多平台），能处理文本、语音和图片，通过插件访问操作系统和互联网等外部资源，支持基于自有知识库定制企业 AI 应用。
@@ -1602,6 +1614,7 @@
 
 ## mongodb 
 
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [salihozdemir/reddit-clone](https://github.com/salihozdemir/reddit-clone) - Full stack Reddit clone with nodejs and react native.
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
 - [pubdreamcc/Node.js](https://github.com/pubdreamcc/Node.js) - 一步一步学习Node.js，带你从零开始学习Node.js！本仓库是自己总结的Node.js学习图文教程，里面有学习案列和源代码（pubdreamcc原创，欢迎转载，欢迎star）
@@ -1624,6 +1637,7 @@
 
 ## mysql 
 
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - Headless TypeScript ORM with a head. Runs on Node, Bun and Deno. Lives on the Edge and yes, it's a JavaScript ORM too 😅
 - [eryajf/awesome-ops](https://github.com/eryajf/awesome-ops) - 🧰 记录每一个与运维相关的优秀项目，⚗️ 项目内表格通过 GitHub Action 自动生成，📥 当前收录项目 519 个。
 - [koala-coding/goodBlog](https://github.com/koala-coding/goodBlog) - 我是koala, 公众号【程序员成长指北】的作者， 专注Node.js技术栈分享，从前端到Node.js再到后端数据库，帮您成为优秀的Node.js全栈工程师。和我一起进阶全栈吧！
@@ -1653,6 +1667,7 @@
 
 ## nextjs 
 
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
 - [mfts/papermark](https://github.com/mfts/papermark) - Papermark is the open-source DocSend alternative with built-in analytics and custom domains.
 - [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Azure /  DeepSeek), Knowledge Base (file upload / knowledge management
@@ -1680,6 +1695,7 @@
 
 ## node 
 
+- [TheOdinProject/curriculum](https://github.com/TheOdinProject/curriculum) - The open curriculum for learning web development
 - [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀
 - [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Intuitive Vue Framework.
 - [getsentry/sentry-javascript](https://github.com/getsentry/sentry-javascript) - Official Sentry SDKs for JavaScript
@@ -1694,6 +1710,8 @@
 
 ## nodejs 
 
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
+- [TheOdinProject/curriculum](https://github.com/TheOdinProject/curriculum) - The open curriculum for learning web development
 - [taskforcesh/bullmq](https://github.com/taskforcesh/bullmq) - BullMQ - Message Queue and Batch processing for NodeJS and Python based on Redis
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [axios/axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
@@ -1743,6 +1761,7 @@
 
 ## npm 
 
+- [raineorshine/npm-check-updates](https://github.com/raineorshine/npm-check-updates) - Find newer versions of package dependencies than what your package.json allows
 - [honojs/hono](https://github.com/honojs/hono) - Web framework built on Web Standards
 - [tsparticles/tsparticles](https://github.com/tsparticles/tsparticles) - tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use component
 - [jaywcjlove/reference](https://github.com/jaywcjlove/reference) - 为开发人员分享快速参考备忘清单(速查表)
@@ -1760,6 +1779,7 @@
 
 ## open-source 
 
+- [Buzzpy/Dev-Encyclopedia](https://github.com/Buzzpy/Dev-Encyclopedia) - An encyclopedia for everything, Programming.
 - [mfts/papermark](https://github.com/mfts/papermark) - Papermark is the open-source DocSend alternative with built-in analytics and custom domains.
 - [ZiYi0414/handsome-css3-lib](https://github.com/ZiYi0414/handsome-css3-lib) - Amazingly handsome Open-Source UI components made with HTML and CSS. Collection of very handsome CSS animations and special effects on the Internet（在网上收集各种帅气的CSS3特效和动画，按钮标题等各种好玩酷炫的特效组件，网站主旨在于收集网上仅靠 CS
 - [pheralb/svgl](https://github.com/pheralb/svgl) - 🧩 A beautiful library with SVG logos. Built with Sveltekit & Tailwind CSS.
@@ -1798,6 +1818,11 @@
 
 ## others 
 
+- [dreammis/social-auto-upload](https://github.com/dreammis/social-auto-upload) - 自动化上传视频到社交媒体：抖音、小红书、视频号、tiktok、youtube、bilibili
+- [cunzaizhuyi/up-mode-extension](https://github.com/cunzaizhuyi/up-mode-extension) - This is a browser extension that protects the author's privacy by hiding pinned browser extensions.
+- [berryjam/mastering-bitcoin-3rd](https://github.com/berryjam/mastering-bitcoin-3rd) - 《精通比特币》第三版翻译，希望本翻译内容能够为大家带来更新的比特币学习内容和一些技术上的思考，内含比特币java应用开发示例、rust的brc20编程实践，BTC二层详细技术分析，欢迎pr提交与BTC相关的技术知识或者修正优化文中错误不足。
+- [mazzzystar/tinymind](https://github.com/mazzzystar/tinymind) - Tinymind - Write and sync your blog & thoughts with GitHub
+- [ddean2009/MoneyPrinterPlus](https://github.com/ddean2009/MoneyPrinterPlus) - AI一键批量生成各类短视频,自动批量混剪短视频,自动把视频发布到抖音,快手,小红书,视频号上,赚钱从来没有这么容易过! 支持本地语音模型chatTTS,fasterwhisper,GPTSoVITS,支持云语音：Azure,阿里云,腾讯云。支持Stable diffusion,comfyUI直接AI生图。Generate short videos with one click using AI L
 - [GoogleChromeLabs/page-lifecycle](https://github.com/GoogleChromeLabs/page-lifecycle) - PageLifecycle.js is a tiny JavaScript library that allows developers to easily observe Page Lifecycle API state changes cross browser
 - [dianwan/taro-xiaohongshu](https://github.com/dianwan/taro-xiaohongshu) - taro仿小红书demo
 - [tingyuxuan2302/taro3-virtual-list](https://github.com/tingyuxuan2302/taro3-virtual-list) - 基于taro3封装的虚拟列表，对列表节点不等高以及白屏等问题支持友好，无计算量，性能优异，支持各大小程序以及h5页面
@@ -2123,11 +2148,13 @@
 
 ## php 
 
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [luolongfei/freenom](https://github.com/luolongfei/freenom) - Freenom 域名自动续期。Freenom domain name renews automatically.
 - [Bogdan-Lyashenko/codecrumbs](https://github.com/Bogdan-Lyashenko/codecrumbs) - Learn, design or document codebase by putting breadcrumbs in source code. Live updates, multi-language support and more.
 
 ## postgresql 
 
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
 - [mfts/papermark](https://github.com/mfts/papermark) - Papermark is the open-source DocSend alternative with built-in analytics and custom domains.
 - [teableio/teable](https://github.com/teableio/teable) - ✨ The Next Gen Airtable Alternative: No-Code Postgres
@@ -2240,6 +2267,7 @@
 
 ## react 
 
+- [petercat-ai/petercat](https://github.com/petercat-ai/petercat) - A conversational Q&A agent configuration system, self-hosted deployment solutions, and a convenient all-in-one application SDK, allowing you to create intelligent Q&A bots for your GitHub repositories
 - [openRin/Rin](https://github.com/openRin/Rin) - ⚡Dynamic blog based on Cloudflare Pages + Workers + D1 + R2
 - [Flagsmith/flagsmith](https://github.com/Flagsmith/flagsmith) - Open Source Feature Flagging and Remote Config Service. Host on-prem or use our hosted version at https://flagsmith.com/
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
@@ -2327,6 +2355,7 @@
 
 ## reactjs 
 
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [phantomstudios/css-components](https://github.com/phantomstudios/css-components) - CSS Components
 - [px2code/Figma-to-HTML](https://github.com/px2code/Figma-to-HTML) - Figma to HTML/React/Vue and truly responsive
 - [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
@@ -2359,6 +2388,7 @@
 
 ## ruby 
 
+- [TheOdinProject/curriculum](https://github.com/TheOdinProject/curriculum) - The open curriculum for learning web development
 - [grafana/pyroscope](https://github.com/grafana/pyroscope) - Continuous Profiling Platform. Debug performance issues down to a single line of code
 - [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) - :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board:
 
@@ -2497,6 +2527,7 @@
 
 ## svelte 
 
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [tsparticles/tsparticles](https://github.com/tsparticles/tsparticles) - tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use component
 - [BuilderIO/mitosis](https://github.com/BuilderIO/mitosis) - Write components once, run everywhere. Compiles to React, Vue, Qwik, Solid, Angular, Svelte, and more.
 - [BuilderIO/figma-html](https://github.com/BuilderIO/figma-html) - Builder.io for Figma: AI generation, export to code, import from web
@@ -2696,6 +2727,7 @@
 
 ## vuejs 
 
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [TeamPiped/Piped](https://github.com/TeamPiped/Piped) - An alternative privacy-friendly YouTube frontend which is efficient by design.
 - [pages-cms/pages-cms](https://github.com/pages-cms/pages-cms) - A user-friendly CMS for GitHub projects
 - [sudheerj/vuejs-interview-questions](https://github.com/sudheerj/vuejs-interview-questions) - List of 300 VueJS Interview Questions And Answers
@@ -2762,6 +2794,7 @@
 
 ## website 
 
+- [Buzzpy/Dev-Encyclopedia](https://github.com/Buzzpy/Dev-Encyclopedia) - An encyclopedia for everything, Programming.
 - [web-infra-dev/modern.js](https://github.com/web-infra-dev/modern.js) - Modern.js is a web engineering system, including a web framework and a npm package solution.
 - [Asabeneh/30-Days-Of-React](https://github.com/Asabeneh/30-Days-Of-React) - 30 Days of  React challenge is a step by step guide to learn React in 30 days.  These videos may help too: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw
 
