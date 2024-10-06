@@ -87,7 +87,7 @@
 - [kibae/onnxruntime-server](https://github.com/kibae/onnxruntime-server) - ONNX Runtime Server: The ONNX Runtime Server is a server that provides TCP and HTTP/HTTPS REST APIs for ONNX inference.
 - [ValveSoftware/steam-audio](https://github.com/ValveSoftware/steam-audio) - Steam Audio
 - [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
-- [ada-url/ada](https://github.com/ada-url/ada) - WHATWG-compliant and fast URL parser written in modern C++, part of Node.js, Redpanda, Kong, Telegram and Cloudflare Workers.
+- [ada-url/ada](https://github.com/ada-url/ada) - WHATWG-compliant and fast URL parser written in modern C++, part of Node.js, Clickhouse, Redpanda, Kong, Telegram and Cloudflare Workers.
 - [tmikov/hermes](https://github.com/tmikov/hermes) - Hermes is a small and lightweight JavaScript engine optimized for running React Native on Android.
 - [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - LLM inference in C/C++
 - [Tencent/tgfx](https://github.com/Tencent/tgfx) - A lightweight 2D graphics library for rendering texts, geometries, and images with high-performance APIs that work across various platforms.
@@ -765,7 +765,7 @@
 
 ## Smarty 
 
-- [eryajf/awesome-ops](https://github.com/eryajf/awesome-ops) - 🧰 记录每一个与运维相关的优秀项目，⚗️ 项目内表格通过 GitHub Action 自动生成，📥 当前收录项目 523 个。
+- [eryajf/awesome-ops](https://github.com/eryajf/awesome-ops) - 🧰 记录每一个与运维相关的优秀项目，⚗️ 项目内表格通过 GitHub Action 自动生成，📥 当前收录项目 525 个。
 - [opensource-f2f/episode](https://github.com/opensource-f2f/episode) - 开源面对面，连接热爱开源的你！Episodes for the open-source face-to-face talk!
 
 ## Svelte 
