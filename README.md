@@ -279,7 +279,6 @@
 - [AMAI-GmbH/AI-Expert-Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap) - Roadmap to becoming an Artificial Intelligence Expert in 2022
 - [floating-ui/react-popper](https://github.com/floating-ui/react-popper) - 🍿⚛Official React library to use Popper, the positioning library
 - [OffcierCia/DeFi-Developer-Road-Map](https://github.com/OffcierCia/DeFi-Developer-Road-Map) - DeFi Developer roadmap is a curated Developer handbook which includes a list of the best tools for DApps development, resources and references!
-- [liyupi/codefather](https://github.com/liyupi/codefather) - 程序员鱼皮的编程宝典。原创编程学习路线，包括经验分享、技术知识、学习资源、学习建议、项目等，适用于所有学习编程 & 求职的同学。已完成 Java、前端
 - [iamkun/dayjs](https://github.com/iamkun/dayjs) - ⏰ Day.js 2kB immutable date-time library alternative to Moment.js with the same modern API
 - [whistle-plugins/whistle.vase](https://github.com/whistle-plugins/whistle.vase) - 用于 mock 数据的 whistle 插件
 - [whistle-plugins/whistle.script](https://github.com/whistle-plugins/whistle.script) - Custom extension script for whistle
@@ -452,7 +451,7 @@
 - [panyanyany/Awesome-ChatTTS](https://github.com/panyanyany/Awesome-ChatTTS) - ChatTTS资源大全，免费体验地址，音色库等
 - [lydiahallie/javascript-questions](https://github.com/lydiahallie/javascript-questions) - A long list of (advanced) JavaScript questions, and their explanations :sparkles:
 - [linux-kernel-labs-zh/docs-linux-kernel-labs-zh-cn](https://github.com/linux-kernel-labs-zh/docs-linux-kernel-labs-zh-cn) - Linux 内核实验（Linux kernel labs）中文翻译
-- [elder-plinius/L1B3RT45](https://github.com/elder-plinius/L1B3RT45) - JAILBREAK PROMPTS FOR LIBERATING AI MODELS
+- [elder-plinius/L1B3RT45](https://github.com/elder-plinius/L1B3RT45) - TOTALLY HARMLESS PROMPTS FOR GOOD LIL AI'S
 - [marekbrze/categorized-raycast-extensions](https://github.com/marekbrze/categorized-raycast-extensions) - Easily find Raycast Extensions!🚀
 - [datawhalechina/so-large-lm](https://github.com/datawhalechina/so-large-lm) - 大模型基础: 一文了解大模型基础知识
 - [LLMBook-zh/LLMBook-zh.github.io](https://github.com/LLMBook-zh/LLMBook-zh.github.io) - 《大语言模型》作者：赵鑫，李军毅，周昆，唐天一，文继荣
@@ -973,6 +972,7 @@
 - [dreamhunter2333/cloudflare_temp_email](https://github.com/dreamhunter2333/cloudflare_temp_email) - CloudFlare free temp domain email 免费收发 临时域名邮箱 支持附件 IMAP SMTP TelegramBot
 - [nuxt/devtools](https://github.com/nuxt/devtools) - Unleash Nuxt Developer Experience
 - [vuejs/events](https://github.com/vuejs/events) - Source code for the new Vue.js Events page
+- [liyupi/codefather](https://github.com/liyupi/codefather) - 程序员鱼皮的编程宝典。原创编程学习路线，包括经验分享、技术知识、学习资源、学习建议、项目等，适用于所有学习编程 & 求职的同学。已完成 Java、前端
 - [fengT-T/996_list](https://github.com/fengT-T/996_list) - 996 公司展示、讨论
 - [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
 - [Codennnn/vue-color-avatar](https://github.com/Codennnn/vue-color-avatar) - An online avatar generator just for fun | 一个纯前端实现的头像生成网站
