@@ -652,6 +652,8 @@
 
 ## Python 
 
+- [CatchTheTornado/pdf-extract-api](https://github.com/CatchTheTornado/pdf-extract-api) - Document (PDF) extraction and parse API using state of the art modern OCRs + Ollama supported models. Anonymize documents. Remove PII. Convert any document or picture to structured JSON or Markdown
+- [anarchysaiko/academicagentsV2](https://github.com/anarchysaiko/academicagentsV2) - 
 - [OpenCoder-llm/OpenCoder-llm](https://github.com/OpenCoder-llm/OpenCoder-llm) - The Open Cookbook for Top-Tier Code Large Language Model
 - [projecthamster/hamster](https://github.com/projecthamster/hamster) - GNOME time tracker
 - [GNOME/meld](https://github.com/GNOME/meld) - Read-only mirror of https://gitlab.gnome.org/GNOME/meld
@@ -804,7 +806,7 @@
 - [ZuodaoTech/everyone-can-use-english](https://github.com/ZuodaoTech/everyone-can-use-english) - 人人都能用英语
 - [memfreeme/memfree](https://github.com/memfreeme/memfree) - MemFree - Hybrid AI Search Engine & AI Page Generator
 - [nieheyong/logcat-in-devtools](https://github.com/nieheyong/logcat-in-devtools) - View android adb logcat logs in chrome devtools console
-- [RSSNext/Follow](https://github.com/RSSNext/Follow) - 🧡 Next generation information browser.
+- [RSSNext/Follow](https://github.com/RSSNext/Follow) - 🧡 Follow your favorites in one inbox
 - [netlify/cli](https://github.com/netlify/cli) - Netlify Command Line Interface
 - [didi/LogicFlow](https://github.com/didi/LogicFlow) - A flow chart editing framework focusing on business customization.  专注于业务自定义的流程图编辑框架，支持实现脑图、ER图、UML、工作流等各种图编辑场景。
 - [petercat-ai/petercat](https://github.com/petercat-ai/petercat) - A conversational Q&A agent configuration system, self-hosted deployment solutions, and a convenient all-in-one application SDK, allowing you to create intelligent Q&A bots for your GitHub repositories
