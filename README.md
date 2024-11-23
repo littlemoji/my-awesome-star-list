@@ -452,7 +452,7 @@
 ## Others 
 
 - [FudanSELab/Agent4SE-Paper-List](https://github.com/FudanSELab/Agent4SE-Paper-List) - Repository for the paper "Large Language Model-Based Agents for Software Engineering: A Survey". Keep updating.
-- [berryjam/mastering-bitcoin-3rd](https://github.com/berryjam/mastering-bitcoin-3rd) - 《精通比特币》第三版翻译，希望本翻译内容能够为大家带来更新的比特币学习内容和一些技术上的思考，内含比特币java应用开发示例、rust的brc20编程实践，BTC二层详细技术分析，欢迎pr提交与BTC相关的技术知识或者修正优化文中错误不足。
+- [berryjam/mastering-bitcoin-3rd](https://github.com/berryjam/mastering-bitcoin-3rd) - 《精通比特币》第三版翻译，希望本翻译内容能够为大家带来更新的比特币学习内容和一些技术上的思考，内含比特币java应用开发示例、rust的brc20编程实践，使用cpuminer挖矿，BTC二层详细技术分析，欢迎pr提交与BTC相关的技术知识或者修正优化文中错误不足。
 - [panyanyany/Awesome-ChatTTS](https://github.com/panyanyany/Awesome-ChatTTS) - ChatTTS资源大全，免费体验地址，音色库等
 - [lydiahallie/javascript-questions](https://github.com/lydiahallie/javascript-questions) - A long list of (advanced) JavaScript questions, and their explanations :sparkles:
 - [linux-kernel-labs-zh/docs-linux-kernel-labs-zh-cn](https://github.com/linux-kernel-labs-zh/docs-linux-kernel-labs-zh-cn) - Linux 内核实验（Linux kernel labs）中文翻译
