@@ -1243,7 +1243,7 @@
 
 ## javascript 
 
-- [didi/LogicFlow](https://github.com/didi/LogicFlow) - A flow chart editing framework focusing on business customization.  专注于业务自定义的流程图编辑框架，支持实现脑图、ER图、UML、工作流等各种图编辑场景。
+- [didi/LogicFlow](https://github.com/didi/LogicFlow) - A flow chart editing framework focus on business customization.  专注于业务自定义的流程图编辑框架，支持实现脑图、ER图、UML、工作流等各种图编辑场景。
 - [jcubic/tagger](https://github.com/jcubic/tagger) - Zero Dependency, Vanilla JavaScript Tag Editor
 - [TheOdinProject/curriculum](https://github.com/TheOdinProject/curriculum) - The open curriculum for learning web development
 - [mesqueeb/merge-anything](https://github.com/mesqueeb/merge-anything) - Merge objects & other types recursively. A simple & small integration.
@@ -1911,7 +1911,7 @@
 - [vuejs/devtools](https://github.com/vuejs/devtools) - ⚙️ Browser devtools extension for debugging Vue.js applications.
 - [raycast/script-commands](https://github.com/raycast/script-commands) - Script Commands let you tailor Raycast to your needs. Think of them as little productivity boosts throughout your day.
 - [unjs/mlly](https://github.com/unjs/mlly) - 🤝 Common ECMAScript module utils
-- [talebook/talebook](https://github.com/talebook/talebook) - A simple books website. 一个简单的在线版个人书库。
+- [talebook/talebook](https://github.com/talebook/talebook) - 一个简单好用的个人书库
 - [easychen/stack-roadmap](https://github.com/easychen/stack-roadmap) - 方糖全栈路线图2023，为「从螺丝钉到一人企业」补全技能栈
 - [nealmckee/penumbra](https://github.com/nealmckee/penumbra) - Penumbra Color Theme
 - [dai-shi/waku](https://github.com/dai-shi/waku) - ⛩️ The minimal React framework
@@ -2633,7 +2633,7 @@
 
 ## typescript 
 
-- [didi/LogicFlow](https://github.com/didi/LogicFlow) - A flow chart editing framework focusing on business customization.  专注于业务自定义的流程图编辑框架，支持实现脑图、ER图、UML、工作流等各种图编辑场景。
+- [didi/LogicFlow](https://github.com/didi/LogicFlow) - A flow chart editing framework focus on business customization.  专注于业务自定义的流程图编辑框架，支持实现脑图、ER图、UML、工作流等各种图编辑场景。
 - [mesqueeb/merge-anything](https://github.com/mesqueeb/merge-anything) - Merge objects & other types recursively. A simple & small integration.
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
 - [mfts/papermark](https://github.com/mfts/papermark) - Papermark is the open-source DocSend alternative with built-in analytics and custom domains.
