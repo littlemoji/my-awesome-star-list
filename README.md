@@ -338,7 +338,7 @@
 - [kautukkundan/Awesome-Profile-README-templates](https://github.com/kautukkundan/Awesome-Profile-README-templates) - A collection of awesome readme templates to display on your profile
 - [wechatsync/Wechatsync](https://github.com/wechatsync/Wechatsync) - 一键同步文章到多个内容平台，支持今日头条、WordPress、知乎、简书、掘金、CSDN、typecho各大平台，一次发布，多平台同步发布。解放个人生产力
 - [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
-- [ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) - :bathtub: Clean Code concepts adapted for JavaScript
+- [ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) - Clean Code concepts adapted for JavaScript
 - [xb2016/lmgtfy](https://github.com/xb2016/lmgtfy) - 🍢 Let Me Google That For You
 - [jawil/blog](https://github.com/jawil/blog) - Too young, too simple. Sometimes, naive & stupid 🐌
 - [gregsadetsky/chrome-dont-add-custom-search-engines](https://github.com/gregsadetsky/chrome-dont-add-custom-search-engines) - Google Chrome extension that stops sites from adding custom search engines
