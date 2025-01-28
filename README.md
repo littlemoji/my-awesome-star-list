@@ -55,7 +55,6 @@
 
 - [GNOME/libxml2](https://github.com/GNOME/libxml2) - Read-only mirror of https://gitlab.gnome.org/GNOME/libxml2
 - [GNOME/gtk](https://github.com/GNOME/gtk) - Read-only mirror of https://gitlab.gnome.org/GNOME/gtk
-- [GNOME/gnome-shell](https://github.com/GNOME/gnome-shell) - Read-only mirror of https://gitlab.gnome.org/GNOME/gnome-shell
 - [GNOME/glib](https://github.com/GNOME/glib) - Read-only mirror of https://gitlab.gnome.org/GNOME/glib
 - [GNOME/gimp](https://github.com/GNOME/gimp) - Read-only mirror of https://gitlab.gnome.org/GNOME/gimp
 - [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value datastore that is optimized for caching and other realtime workloads.
@@ -215,6 +214,7 @@
 
 ## JavaScript 
 
+- [GNOME/gnome-shell](https://github.com/GNOME/gnome-shell) - Read-only mirror of https://gitlab.gnome.org/GNOME/gnome-shell
 - [jcubic/tagger](https://github.com/jcubic/tagger) - Zero Dependency, Vanilla JavaScript Tag Editor
 - [TheOdinProject/curriculum](https://github.com/TheOdinProject/curriculum) - The open curriculum for learning web development
 - [Buzzpy/Dev-Encyclopedia](https://github.com/Buzzpy/Dev-Encyclopedia) - An encyclopedia for everything, Programming.
