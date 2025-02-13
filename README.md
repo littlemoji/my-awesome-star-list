@@ -539,7 +539,7 @@
 - [wahyd4/work-in-australia](https://github.com/wahyd4/work-in-australia) - Work in Australia as a Developer / 程序员如何申请到澳洲工作
 - [ljjsimon/design-patterns-for-humans](https://github.com/ljjsimon/design-patterns-for-humans) - 我的博客
 - [tuteng/Best-websites-a-programmer-should-visit-zh](https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh) - 程序员应该访问的最佳网站中文版
-- [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series on JavaScript. @YDKJS on twitter.
+- [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series (2 published editions) on the JS language.
 - [kuhung/mindmap](https://github.com/kuhung/mindmap) - 结构化思维导图汇总，包括软件开发、机器学习、演讲、思维方式等领域，Xmind 制作。
 - [iHTCboy/OneMindMap](https://github.com/iHTCboy/OneMindMap) - A mind map for life，有趣的思维导图。與君思一圖，請君喜悅目~
 - [LlamaGenAI/awesome-free-saas](https://github.com/LlamaGenAI/awesome-free-saas) - an awesome list of  free SaaS (software as a service) for you.
