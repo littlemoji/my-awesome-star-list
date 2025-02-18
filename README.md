@@ -821,7 +821,7 @@
 - [ZuodaoTech/everyone-can-use-english](https://github.com/ZuodaoTech/everyone-can-use-english) - 人人都能用英语
 - [memfreeme/memfree](https://github.com/memfreeme/memfree) - MemFree - Hybrid AI Search Engine & AI Page Generator
 - [nieheyong/logcat-in-devtools](https://github.com/nieheyong/logcat-in-devtools) - View android adb logcat logs in chrome devtools console
-- [RSSNext/Follow](https://github.com/RSSNext/Follow) - 🧡 Follow your favorites in one inbox
+- [RSSNext/Follow](https://github.com/RSSNext/Follow) - 🧡 Follow everything in one place
 - [netlify/cli](https://github.com/netlify/cli) - Netlify Command Line Interface
 - [didi/LogicFlow](https://github.com/didi/LogicFlow) - A flow chart editing framework focus on business customization.  专注于业务自定义的流程图编辑框架，支持实现脑图、ER图、UML、工作流等各种图编辑场景。
 - [petercat-ai/petercat](https://github.com/petercat-ai/petercat) - A conversational Q&A agent configuration system, self-hosted deployment solutions, and a convenient all-in-one application SDK, allowing you to create intelligent Q&A bots for your GitHub repositories
