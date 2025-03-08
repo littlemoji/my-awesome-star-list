@@ -871,7 +871,7 @@
 - [leptonai/search_with_lepton](https://github.com/leptonai/search_with_lepton) - Building a quick conversation-based search demo with Lepton AI.
 - [sonofmagic/weapp-tailwindcss](https://github.com/sonofmagic/weapp-tailwindcss) - weapp-tailwindcss - bring tailwindcss to weapp ! 把 tailwindcss 原子化思想带入小程序开发吧 !
 - [lvjiaxuan/vscode-eslint-disable](https://github.com/lvjiaxuan/vscode-eslint-disable) - Intelligently disable ESLint rules for VS Code.
-- [bilibili/WebAV](https://github.com/bilibili/WebAV) - WebAV is an SDK built on WebCodecs, designed for creating and editing video files on the web platform. WebAV 是基于 WebCodecs 构建的 SDK，用于在 Web 平台上创建/编辑视频文件。
+- [WebAV-Tech/WebAV](https://github.com/WebAV-Tech/WebAV) - WebAV is an SDK built on WebCodecs, designed for creating and editing video files on the web platform. WebAV 是基于 WebCodecs 构建的 SDK，用于在 Web 平台上创建/编辑视频文件。
 - [phantomstudios/css-components](https://github.com/phantomstudios/css-components) - CSS Components
 - [TypeStrong/ts-node](https://github.com/TypeStrong/ts-node) - TypeScript execution and REPL for node.js
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
@@ -881,7 +881,7 @@
 - [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
 - [yanggggjie/rising-repo](https://github.com/yanggggjie/rising-repo) - 
 - [iconify/icon-sets](https://github.com/iconify/icon-sets) - 150+ open source icon sets. Icons are validated, cleaned up, optimised, ready to render as SVG. Updated automatically 3 times a week.
-- [BuilderIO/figma-html](https://github.com/BuilderIO/figma-html) - Builder.io for Figma: AI generation, export to code, import from web
+- [BuilderIO/figma-html](https://github.com/BuilderIO/figma-html) - Convert any website to editable Figma designs
 - [pheralb/svgl](https://github.com/pheralb/svgl) - 🧩 A beautiful library with SVG logos. Built with Sveltekit & Tailwind CSS.
 - [vuejs/devtools](https://github.com/vuejs/devtools) - ⚙️ Browser devtools extension for debugging Vue.js applications.
 - [unjs/mlly](https://github.com/unjs/mlly) - 🤝 Common ECMAScript module utils
