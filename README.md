@@ -294,7 +294,7 @@
 - [ecmadao/js-bits-cn](https://github.com/ecmadao/js-bits-cn) - 通过代码解释 JavaScript 的概念
 - [vasanthk/js-bits](https://github.com/vasanthk/js-bits) - ✨ JavaScript concepts with code ✨
 - [mde/ejs](https://github.com/mde/ejs) - Embedded JavaScript templates -- http://ejs.co
-- [GoogTech/blog](https://github.com/GoogTech/blog) - ✍ GoogTech's Daily Blog: share daily life, idea, and experience.
+- [GoogTech/blog](https://github.com/GoogTech/blog) - ✍ 日常博客：分享日常生活、想法、经验...
 - [ivogabe/gulp-typescript](https://github.com/ivogabe/gulp-typescript) - A TypeScript compiler for gulp with incremental compilation support.
 - [rvagg/through2](https://github.com/rvagg/through2) - Tiny wrapper around Node streams2 Transform to avoid explicit subclassing noise
 - [svg/svgo](https://github.com/svg/svgo) - ⚙️ Node.js tool for optimizing SVG files
@@ -887,7 +887,7 @@
 - [unjs/mlly](https://github.com/unjs/mlly) - 🤝 Common ECMAScript module utils
 - [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Intuitive Vue Framework.
 - [msgbyte/tianji](https://github.com/msgbyte/tianji) - Tianji: Insight into everything, Website Analytics + Uptime Monitor + Server Status. not only another GA alternatives
-- [dai-shi/waku](https://github.com/dai-shi/waku) - ⛩️ The minimal React framework
+- [wakujs/waku](https://github.com/wakujs/waku) - ⛩️ The minimal React framework
 - [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler) - Crawl a site to generate knowledge files to create your own custom GPT from a URL
 - [chakra-ui/zag](https://github.com/chakra-ui/zag) - Build your design system in React, Solid, Vue or Svelte. Powered by finite state machines
 - [babaohuang/GeminiProChat](https://github.com/babaohuang/GeminiProChat) - Minimal web UI for GeminiPro.
