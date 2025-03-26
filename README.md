@@ -679,7 +679,7 @@
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [1Panel-dev/MaxKB](https://github.com/1Panel-dev/MaxKB) - 💬 Ready-to-use & flexible RAG Chatbot, supporting mainstream large language models (LLMs) such as DeepSeek-R1, Llama 3.3, Qwen2, OpenAI and more.
 - [kyegomez/Med-PaLM](https://github.com/kyegomez/Med-PaLM) - Towards Generalist Biomedical AI
-- [CrazyBoyM/llama3-Chinese-chat](https://github.com/CrazyBoyM/llama3-Chinese-chat) - Llama3、Llama3.1 中文仓库（随书籍撰写中...  各种网友及厂商微调、魔改版本有趣权重 & 训练、推理、评测、部署教程视频 & 文档）
+- [CrazyBoyM/llama3-Chinese-chat](https://github.com/CrazyBoyM/llama3-Chinese-chat) - Llama3、Llama3.1 中文后训练版仓库（微调、魔改版本有趣权重 & 训练、推理、评测、部署教程视频 & 文档）
 - [timqian/chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs) - 中文独立博客列表
 - [zhaoolee/garss](https://github.com/zhaoolee/garss) - Github Actions采集RSS, 打造无广告内容优质的头版头条超赞宝藏页
 - [KanjiVG/kanjivg](https://github.com/KanjiVG/kanjivg) - Kanji vector graphics
@@ -960,7 +960,7 @@
 - [bestofjs/bestofjs](https://github.com/bestofjs/bestofjs) - :star: A place to find the best components to build amazing web applications. The best of JavaScript!
 - [GeekyAnts/NativeBase](https://github.com/GeekyAnts/NativeBase) - Mobile-first, accessible components for React Native & Web to build consistent UI across Android, iOS and Web.
 - [Raathigesh/majestic](https://github.com/Raathigesh/majestic) - ⚡ Zero config GUI for Jest
-- [xjh22222228/nav](https://github.com/xjh22222228/nav) - 发现导航 , 最强轻量级导航网站
+- [xjh22222228/nav](https://github.com/xjh22222228/nav) - 发现导航 , 最强轻量级导航网站 Discover Navigation, the Strongest Lightweight Navigation Website
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
 - [rubickCenter/rubick](https://github.com/rubickCenter/rubick) - 🔧  Electron based open source toolbox, free integration of rich plug-ins. 基于 electron 的开源工具箱，自由集成丰富插件。
 - [labring/sealos](https://github.com/labring/sealos) - Sealos is a production-ready Kubernetes distribution that makes deployment simple and efficient. Instantly set up development environments for any programming language or framework, deploy high-availa
