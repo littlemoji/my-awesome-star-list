@@ -676,7 +676,7 @@
 - [Flagsmith/flagsmith](https://github.com/Flagsmith/flagsmith) - Flagsmith is an open source feature flagging and remote config service. Self-host, or use our SaaS at https://app.flagsmith.com.
 - [jarun/buku](https://github.com/jarun/buku) - :bookmark: Personal mini-web in text
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
-- [1Panel-dev/MaxKB](https://github.com/1Panel-dev/MaxKB) - 💬 MaxKB is a powerful and easy-to-use AI assistant that integrates RAG pipelines, supports robust workflows, and provides advanced MCP tool-use capabilities.
+- [1Panel-dev/MaxKB](https://github.com/1Panel-dev/MaxKB) - 💬 MaxKB is an open-source AI assistant for enterprise. It seamlessly integrates RAG pipelines, supports robust workflows, and provides MCP tool-use capabilities.
 - [kyegomez/Med-PaLM](https://github.com/kyegomez/Med-PaLM) - Towards Generalist Biomedical AI
 - [LLMBook-zh/LLMBook-zh.github.io](https://github.com/LLMBook-zh/LLMBook-zh.github.io) - 《大语言模型》作者：赵鑫，李军毅，周昆，唐天一，文继荣
 - [CrazyBoyM/llama3-Chinese-chat](https://github.com/CrazyBoyM/llama3-Chinese-chat) - Llama3、Llama3.1 中文后训练版仓库（微调、魔改版本有趣权重 & 训练、推理、评测、部署教程视频 & 文档）
