@@ -305,7 +305,7 @@
 - [KingSora/OverlayScrollbars](https://github.com/KingSora/OverlayScrollbars) - A javascript scrollbar plugin that hides the native scrollbars, provides custom styleable overlay scrollbars, and preserves the native functionality and feel.
 - [nrwl/nx](https://github.com/nrwl/nx) - Build system, optimized for monorepos, with AI-powered architectural awareness and advanced CI capabilities.
 - [alexjlockwood/ShapeShifter](https://github.com/alexjlockwood/ShapeShifter) - SVG icon animation tool for Android, iOS, and the web
-- [xjh22222228/nav](https://github.com/xjh22222228/nav) - 发现导航 , 最强轻量级导航网站 Discover Navigation, the Strongest Lightweight Navigation Website
+- [xjh22222228/nav](https://github.com/xjh22222228/nav) - 发现导航 , 好用强大轻量级导航网站 Discover navigation, easy to use, powerful lightweight navigation website
 - [zhanghuanchong/icon-workshop](https://github.com/zhanghuanchong/icon-workshop) - 图标工场 - 移动应用图标生成工具，一键生成所有尺寸的应用图标和启动图
 - [capricorn86/happy-dom](https://github.com/capricorn86/happy-dom) - A JavaScript implementation of a web browser without its graphical user interface
 - [csxiaoyaojianxian/JavaScriptStudy](https://github.com/csxiaoyaojianxian/JavaScriptStudy) - JavaScript的学习代码总结，高级特性、数据结构、设计模式、typescript、vue、angular、react、node、webpack、weex、小程序、tensorflow…，JavaScript是世界上最好的语言！
@@ -361,7 +361,7 @@
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [jordan-cutler/path-to-senior-engineer-handbook](https://github.com/jordan-cutler/path-to-senior-engineer-handbook) - All the resources you need to get to Senior Engineer and beyond
 - [icopy-site/awesome-cn](https://github.com/icopy-site/awesome-cn) - 超赞列表合集
-- [opsre/awesome-ops](https://github.com/opsre/awesome-ops) - 🧰 记录每一个与运维相关的优秀项目，⚗️ 项目内表格通过 GitHub Action 自动生成，📥 当前收录项目 525 个。
+- [opsre/awesome-ops](https://github.com/opsre/awesome-ops) - 🧰 记录每一个与运维相关的优秀项目，⚗️ 项目内表格通过 GitHub Action 自动生成，📥 当前收录项目 614 个。
 - [ZiYi0414/handsome-css3-lib](https://github.com/ZiYi0414/handsome-css3-lib) - Amazingly handsome Open-Source UI components made with HTML and CSS. Collection of very handsome CSS animations and special effects on the Internet（在网上收集各种帅气的CSS3特效和动画，按钮标题等各种好玩酷炫的特效组件，网站主旨在于收集网上仅靠 CS
 - [howie6879/weekly](https://github.com/howie6879/weekly) - 老胡的信息技术周刊❤️记录我本周看到的有价值的信息，针对优秀项目、软件、教程资料、网站等。
 - [luban-agi/Awesome-AIGC-Tutorials](https://github.com/luban-agi/Awesome-AIGC-Tutorials) - Curated tutorials and resources for Large Language Models, AI Painting, and more.
@@ -399,7 +399,7 @@
 - [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) - 📄 A curated list of awesome .cursorrules files
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [icopy-site/awesome-cn](https://github.com/icopy-site/awesome-cn) - 超赞列表合集
-- [opsre/awesome-ops](https://github.com/opsre/awesome-ops) - 🧰 记录每一个与运维相关的优秀项目，⚗️ 项目内表格通过 GitHub Action 自动生成，📥 当前收录项目 525 个。
+- [opsre/awesome-ops](https://github.com/opsre/awesome-ops) - 🧰 记录每一个与运维相关的优秀项目，⚗️ 项目内表格通过 GitHub Action 自动生成，📥 当前收录项目 614 个。
 - [lucasfloriani/awesome-code-streamers](https://github.com/lucasfloriani/awesome-code-streamers) - List of code streamers from multiples plataforms like Twitch, Youtube, etc
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [ossu/computer-science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science!
@@ -820,7 +820,7 @@
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and cycles the easiest way on the planet.
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [vvbbnn00/WARP-Clash-API](https://github.com/vvbbnn00/WARP-Clash-API) - 该项目可以让你通过订阅的方式使用Cloudflare WARP+，自动获取流量。This project enables you to use Cloudflare WARP+ through subscription, automatically acquiring traffic.
-- [opsre/awesome-ops](https://github.com/opsre/awesome-ops) - 🧰 记录每一个与运维相关的优秀项目，⚗️ 项目内表格通过 GitHub Action 自动生成，📥 当前收录项目 525 个。
+- [opsre/awesome-ops](https://github.com/opsre/awesome-ops) - 🧰 记录每一个与运维相关的优秀项目，⚗️ 项目内表格通过 GitHub Action 自动生成，📥 当前收录项目 614 个。
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 Locally hosted web application that allows you to perform various operations on PDF files
 - [msgbyte/tianji](https://github.com/msgbyte/tianji) - Tianji: Insight into everything, Website Analytics + Uptime Monitor + Server Status. not only another GA alternatives
 - [yeasy/docker_practice](https://github.com/yeasy/docker_practice) - Learn and understand Docker&Container technologies, with real DevOps practice!
@@ -1454,7 +1454,7 @@
 ## kubernetes 
 
 - [Websoft9/websoft9](https://github.com/Websoft9/websoft9) - Applications self-hosting and DevOps platform for running open source, web-based linux Panel of lite PaaS
-- [opsre/awesome-ops](https://github.com/opsre/awesome-ops) - 🧰 记录每一个与运维相关的优秀项目，⚗️ 项目内表格通过 GitHub Action 自动生成，📥 当前收录项目 525 个。
+- [opsre/awesome-ops](https://github.com/opsre/awesome-ops) - 🧰 记录每一个与运维相关的优秀项目，⚗️ 项目内表格通过 GitHub Action 自动生成，📥 当前收录项目 614 个。
 - [isno/theByteBook](https://github.com/isno/theByteBook) - ⭐ 【开源书籍】深入讲解内核网络、Kubernetes、ServiceMesh、容器等云原生相关技术。经历实践检验的 DevOps、SRE指南。如发现错误，谢谢提issue
 - [yeasy/docker_practice](https://github.com/yeasy/docker_practice) - Learn and understand Docker&Container technologies, with real DevOps practice!
 - [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods.
@@ -1680,7 +1680,7 @@
 - [outerbase/studio](https://github.com/outerbase/studio) - A lightweight Database GUI in your browser. It supports connecting to Postgres, MySQL, and SQLite.
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - Headless TypeScript ORM with a head. Runs on Node, Bun and Deno. Lives on the Edge and yes, it's a JavaScript ORM too 😅
-- [opsre/awesome-ops](https://github.com/opsre/awesome-ops) - 🧰 记录每一个与运维相关的优秀项目，⚗️ 项目内表格通过 GitHub Action 自动生成，📥 当前收录项目 525 个。
+- [opsre/awesome-ops](https://github.com/opsre/awesome-ops) - 🧰 记录每一个与运维相关的优秀项目，⚗️ 项目内表格通过 GitHub Action 自动生成，📥 当前收录项目 614 个。
 - [koala-coding/goodBlog](https://github.com/koala-coding/goodBlog) - 我是koala, 公众号【程序员成长指北】的作者， 专注Node.js技术栈分享，从前端到Node.js再到后端数据库，帮您成为优秀的Node.js全栈工程师。和我一起进阶全栈吧！
 - [liyupi/codefather](https://github.com/liyupi/codefather) - 程序员鱼皮的编程宝典。原创编程学习路线，包括经验分享、技术知识、学习资源、学习建议、项目教程、热门面试题、编程自学之路等，适用于所有学习编程 & 求职的同学。
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
@@ -1722,7 +1722,7 @@
 - [getsentry/sentry-javascript](https://github.com/getsentry/sentry-javascript) - Official Sentry SDKs for JavaScript
 - [nrwl/nx](https://github.com/nrwl/nx) - Build system, optimized for monorepos, with AI-powered architectural awareness and advanced CI capabilities.
 - [GeekyAnts/NativeBase](https://github.com/GeekyAnts/NativeBase) - Mobile-first, accessible components for React Native & Web to build consistent UI across Android, iOS and Web.
-- [xjh22222228/nav](https://github.com/xjh22222228/nav) - 发现导航 , 最强轻量级导航网站 Discover Navigation, the Strongest Lightweight Navigation Website
+- [xjh22222228/nav](https://github.com/xjh22222228/nav) - 发现导航 , 好用强大轻量级导航网站 Discover navigation, easy to use, powerful lightweight navigation website
 - [xiaoxiaojx/blog](https://github.com/xiaoxiaojx/blog) - Project for records problems solved in my work and study.
 - [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 
