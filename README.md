@@ -131,6 +131,7 @@
 
 ## Go 
 
+- [mcp-ecosystem/mcp-gateway](https://github.com/mcp-ecosystem/mcp-gateway) - 🧩 MCP Gateway - A lightweight gateway service that instantly transforms existing APIs into MCP servers with zero code changes. Features Docker deployment and management UI, requiring no infrastructure
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
 - [chaitin/SafeLine](https://github.com/chaitin/SafeLine) - SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits.
 - [gvcgo/version-manager](https://github.com/gvcgo/version-manager) - 🔥 A general version manager for thousands of SDKs with TUI inspired by lazygit. No need to remember any commands. Less bugs. Docs: https://gvcgo.github.io/vmrdocs
@@ -453,6 +454,7 @@
 
 ## Others 
 
+- [yzfly/Awesome-MCP-ZH](https://github.com/yzfly/Awesome-MCP-ZH) - MCP 资源精选， MCP指南，Claude MCP，MCP Servers, MCP Clients
 - [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent & VSCode Agent (And other Open Sourced) System Prompts, Tools & AI Models.
 - [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) - 📄 A curated list of awesome .cursorrules files
 - [ZJU-LLMs/Foundations-of-LLMs](https://github.com/ZJU-LLMs/Foundations-of-LLMs) - 
@@ -813,6 +815,7 @@
 
 ## TypeScript 
 
+- [apify/actors-mcp-server](https://github.com/apify/actors-mcp-server) - Model Context Protocol (MCP) Server for Apify's Actors
 - [kern/filepizza](https://github.com/kern/filepizza) - :pizza: Peer-to-peer file transfers in your browser
 - [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica) - Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI
 - [ivan-lednev/obsidian-day-planner](https://github.com/ivan-lednev/obsidian-day-planner) - An Obsidian plugin for day planning with a clean UI and a simple task format
