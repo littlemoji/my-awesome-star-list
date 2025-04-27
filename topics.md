@@ -282,7 +282,7 @@
 
 ## android 
 
-- [ente-io/ente](https://github.com/ente-io/ente) - End-to-end encrypted platform for photos, videos and 2FA secrets.
+- [ente-io/ente](https://github.com/ente-io/ente) - 🔒 End-to-end encrypted platform for photos, videos and 2FA secrets.
 - [richtr/NoSleep.js](https://github.com/richtr/NoSleep.js) - Prevent display sleep and enable wake lock in any Android or iOS web browser.
 - [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
@@ -359,6 +359,7 @@
 
 ## awesome 
 
+- [mcp-ecosystem/mcp-gateway](https://github.com/mcp-ecosystem/mcp-gateway) - 🧩 MCP Gateway - A lightweight gateway service that instantly transforms existing APIs into MCP servers with zero code changes. Features Docker deployment and management UI, requiring no infrastructure
 - [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) - 📄 A curated list of awesome .cursorrules files
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [jordan-cutler/path-to-senior-engineer-handbook](https://github.com/jordan-cutler/path-to-senior-engineer-handbook) - All the resources you need to get to Senior Engineer and beyond
@@ -946,7 +947,7 @@
 
 ## flutter 
 
-- [ente-io/ente](https://github.com/ente-io/ente) - End-to-end encrypted platform for photos, videos and 2FA secrets.
+- [ente-io/ente](https://github.com/ente-io/ente) - 🔒 End-to-end encrypted platform for photos, videos and 2FA secrets.
 - [authpass/authpass](https://github.com/authpass/authpass) - AuthPass - Password Manager based on Flutter for all platforms. Keepass 2.x (kdbx 3.x) compatible.
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
 - [ponkans/F2E](https://github.com/ponkans/F2E) - 🔥 大前端进阶知识扫盲，前端同学必看，后端同学也能看懂，看不懂你加我微信骂我渣男就好了！（欢迎star，持续更新）
@@ -1072,7 +1073,7 @@
 ## golang 
 
 - [gvcgo/version-manager](https://github.com/gvcgo/version-manager) - 🔥 A general version manager for thousands of SDKs with TUI inspired by lazygit. No need to remember any commands. Less bugs. Docs: https://gvcgo.github.io/vmrdocs
-- [ente-io/ente](https://github.com/ente-io/ente) - End-to-end encrypted platform for photos, videos and 2FA secrets.
+- [ente-io/ente](https://github.com/ente-io/ente) - 🔒 End-to-end encrypted platform for photos, videos and 2FA secrets.
 - [songquanpeng/go-file](https://github.com/songquanpeng/go-file) - 基于 Go 的文件分享工具，仅单可执行文件，开箱即用，内置图床和视频播放页面. File sharing tool based on Go.
 - [huanglishi/GoFlyAdmin](https://github.com/huanglishi/GoFlyAdmin) - GoFly快速开发框架基于Gin快速开发框架，能快速搭建应用、框架底层完善、丰富代码仓插件、快速开发数据大屏、物联网平台、OA流程审批、工作流引擎、商城、微信管理后台等。api文档管理并一键生成api接口代码，一键生成 CRUD前后端代码丰富组件，基于 Gin和 Vue3的Arco Design的快速后台开发框架，基于JWT接口验证和Auth验证的权限管理系统,附件管理系统，天生支持saas架构。
 - [version-fox/vfox](https://github.com/version-fox/vfox) - A cross-platform and extendable version manager with support for Java, Node.js, Flutter, .Net & more
@@ -1231,7 +1232,7 @@
 
 ## ios 
 
-- [ente-io/ente](https://github.com/ente-io/ente) - End-to-end encrypted platform for photos, videos and 2FA secrets.
+- [ente-io/ente](https://github.com/ente-io/ente) - 🔒 End-to-end encrypted platform for photos, videos and 2FA secrets.
 - [richtr/NoSleep.js](https://github.com/richtr/NoSleep.js) - Prevent display sleep and enable wake lock in any Android or iOS web browser.
 - [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
 - [tw93/weekly](https://github.com/tw93/weekly) - 🩴 潮流技术周刊，记录我的不枯燥生活，每周一早发布~
@@ -1868,6 +1869,8 @@
 
 ## others 
 
+- [apify/actors-mcp-server](https://github.com/apify/actors-mcp-server) - Model Context Protocol (MCP) Server for Apify's Actors
+- [yzfly/Awesome-MCP-ZH](https://github.com/yzfly/Awesome-MCP-ZH) - MCP 资源精选， MCP指南，Claude MCP，MCP Servers, MCP Clients
 - [xxnuo/serverless-qrcode-hub](https://github.com/xxnuo/serverless-qrcode-hub) - 苦于微信群聊二维码频繁变动，开发这个能生成永久二维码的工具，不需要服务器。也可作为 URL 缩短链接服务使用。
 - [Hoper-J/AI-Guide-and-Demos-zh_CN](https://github.com/Hoper-J/AI-Guide-and-Demos-zh_CN) - 这是一份入门AI/LLM大模型的逐步指南，包含教程和演示代码，带你从API走进本地大模型部署和微调，代码文件会提供Kaggle或Colab在线版本，即便没有显卡也可以进行学习。项目中还开设了一个小型的代码游乐场🎡，你可以尝试在里面实验一些有意思的AI脚本。同时，包含李宏毅 (HUNG-YI LEE）2024生成式人工智能导论课程的完整中文镜像作业。
 - [ZJU-LLMs/Foundations-of-LLMs](https://github.com/ZJU-LLMs/Foundations-of-LLMs) - 
@@ -2241,7 +2244,7 @@
 ## privacy 
 
 - [TeamPiped/Piped](https://github.com/TeamPiped/Piped) - An alternative privacy-friendly YouTube frontend which is efficient by design.
-- [ente-io/ente](https://github.com/ente-io/ente) - End-to-end encrypted platform for photos, videos and 2FA secrets.
+- [ente-io/ente](https://github.com/ente-io/ente) - 🔒 End-to-end encrypted platform for photos, videos and 2FA secrets.
 - [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
 - [ZenPrivacy/zen-desktop](https://github.com/ZenPrivacy/zen-desktop) - Simple, free and efficient ad-blocker and privacy guard for Windows, macOS and Linux
 - [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2024
@@ -2713,7 +2716,7 @@
 - [honojs/hono](https://github.com/honojs/hono) - Web framework built on Web Standards
 - [dromara/newcar](https://github.com/dromara/newcar) - 🖌️ [WIP] Modern JavaScript Canvas Library
 - [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) - Build your own second brain with supermemory. It's a ChatGPT for your bookmarks. Import tweets or save websites and content using the chrome extension.
-- [ente-io/ente](https://github.com/ente-io/ente) - End-to-end encrypted platform for photos, videos and 2FA secrets.
+- [ente-io/ente](https://github.com/ente-io/ente) - 🔒 End-to-end encrypted platform for photos, videos and 2FA secrets.
 - [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - Headless TypeScript ORM with a head. Runs on Node, Bun and Deno. Lives on the Edge and yes, it's a JavaScript ORM too 😅
 - [tsparticles/tsparticles](https://github.com/tsparticles/tsparticles) - tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use component
 - [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀
