@@ -279,7 +279,6 @@
 - [shimohq/chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation) - 中国程序员容易发音错误的单词
 - [su37josephxia/wheel-awesome](https://github.com/su37josephxia/wheel-awesome) - 天天造轮子，手写面试常见源码。
 - [mumuy/relationship](https://github.com/mumuy/relationship) - 中国亲戚关系计算器 - 家庭称谓/亲戚称呼/称呼计算/辈分计算/亲戚关系算法/親戚稱呼計算機_Chinese kinship system.
-- [algorithm-visualizer/algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) - :fireworks:Interactive Online Platform that Visualizes Algorithms from Code
 - [ruyadorno/ntl](https://github.com/ruyadorno/ntl) - Node Task List: Interactive cli to list and run package.json scripts
 - [th0r/npm-upgrade](https://github.com/th0r/npm-upgrade) - Interactive CLI utility to easily update outdated NPM dependencies
 - [pvdz/tenko](https://github.com/pvdz/tenko) - An 100% spec compliant ES2021 JavaScript parser written in JS
