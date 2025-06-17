@@ -233,7 +233,7 @@
 - [o0101/-](https://github.com/o0101/-) - Hyphen - An elegant custom element base class
 - [eduardoleao052/js-pytorch](https://github.com/eduardoleao052/js-pytorch) - A JavaScript library like PyTorch, with GPU acceleration.
 - [VKSRC/Github-Monitor](https://github.com/VKSRC/Github-Monitor) - Github Sensitive Information Leakage Monitor(Github信息泄漏监控系统)
-- [danielmiessler/fabric](https://github.com/danielmiessler/fabric) - fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
+- [danielmiessler/fabric](https://github.com/danielmiessler/fabric) - Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
 - [floccusaddon/floccus](https://github.com/floccusaddon/floccus) - :cloud: Sync your bookmarks privately across browsers and devices
 - [stefanjudis/sparkly-text](https://github.com/stefanjudis/sparkly-text) - A small web component for making your text spark.
 - [mdn/webextensions-examples](https://github.com/mdn/webextensions-examples) - Example Firefox add-ons created using the WebExtensions API
@@ -266,7 +266,7 @@
 - [neocotic/qrious](https://github.com/neocotic/qrious) - Pure JavaScript library for QR code generation using canvas
 - [evanw/glfx.js](https://github.com/evanw/glfx.js) - An image effects library for JavaScript using WebGL
 - [themadcreator/gifler](https://github.com/themadcreator/gifler) - Render GIF frames to canvas
-- [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - GPT wrapper for git — generate commit messages with an LLM in 1 sec — works best with Claude 3.5 — supports local models too
+- [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - GPT wrapper for git — generate commit messages with an LLM in 1 sec — works best with Claude or GPT, supports local models too
 - [olado/doT](https://github.com/olado/doT) - The fastest + concise javascript template engine for nodejs and browsers. Partials, custom delimiters and more.
 - [dunwu/nginx-tutorial](https://github.com/dunwu/nginx-tutorial) - 这是一个 Nginx 极简教程，目的在于帮助新手快速入门 Nginx。
 - [automerge/automerge-classic](https://github.com/automerge/automerge-classic) - A JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged again automatically.
