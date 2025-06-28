@@ -232,7 +232,7 @@
 - [o0101/-](https://github.com/o0101/-) - Hyphen - An elegant custom element base class
 - [eduardoleao052/js-pytorch](https://github.com/eduardoleao052/js-pytorch) - A JavaScript library like PyTorch, with GPU acceleration.
 - [VKSRC/Github-Monitor](https://github.com/VKSRC/Github-Monitor) - Github Sensitive Information Leakage Monitor(Github信息泄漏监控系统)
-- [danielmiessler/fabric](https://github.com/danielmiessler/fabric) - Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
+- [danielmiessler/Fabric](https://github.com/danielmiessler/Fabric) - Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
 - [floccusaddon/floccus](https://github.com/floccusaddon/floccus) - :cloud: Sync your bookmarks privately across browsers and devices
 - [stefanjudis/sparkly-text](https://github.com/stefanjudis/sparkly-text) - A small web component for making your text spark.
 - [mdn/webextensions-examples](https://github.com/mdn/webextensions-examples) - Example Firefox add-ons created using the WebExtensions API
@@ -318,7 +318,6 @@
 - [Leaflet/Leaflet](https://github.com/Leaflet/Leaflet) - 🍃 JavaScript library for mobile-friendly interactive maps 🇺🇦
 - [VincentGarreau/particles.js](https://github.com/VincentGarreau/particles.js) - A lightweight JavaScript library for creating particles
 - [qiniu/js-sdk](https://github.com/qiniu/js-sdk) - Qiniu Cloud JavaScript SDK
-- [Cay-Zhang/RSSBud](https://github.com/Cay-Zhang/RSSBud) - An RSS feed discovery app for iOS/macOS that works particularly well with RSSHub, a popular feed generation service. Available on the App Store.
 - [softvar/enhanced-github](https://github.com/softvar/enhanced-github) - :rocket: Browser extension to display size of each file, download link and copy file contents directly to the clipboard
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
 - [Tencent/cherry-markdown](https://github.com/Tencent/cherry-markdown) - ✨ A Markdown Editor
@@ -817,6 +816,7 @@
 - [keitaoouchi/MarkdownView](https://github.com/keitaoouchi/MarkdownView) - Markdown View for iOS.
 - [JohnSundell/Ink](https://github.com/JohnSundell/Ink) - A fast and flexible Markdown parser written in Swift.
 - [Urinx/SublimeCode](https://github.com/Urinx/SublimeCode) - 一个代码阅读应用 - iOS
+- [Cay-Zhang/RSSBud](https://github.com/Cay-Zhang/RSSBud) - An RSS feed discovery app for iOS/macOS that works particularly well with RSSHub, a popular feed generation service. Available on the App Store.
 - [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar
 - [JohnSundell/Plot](https://github.com/JohnSundell/Plot) - A DSL for writing type-safe HTML, XML and RSS in Swift.
 - [TheWidlarzGroup/react-native-video](https://github.com/TheWidlarzGroup/react-native-video) - A &lt;Video /&gt; component for react-native
