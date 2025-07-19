@@ -36,6 +36,7 @@
 - [chrome-extension](#chrome-extension)
 - [clash](#clash)
 - [cli](#cli)
+- [cms](#cms)
 - [code](#code)
 - [code-review](#code-review)
 - [coding](#coding)
@@ -603,6 +604,10 @@
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for saving a faithful copy of a complete web page in a single HTML file
 - [profclems/glab](https://github.com/profclems/glab) - The GitLab CLI tool. Archived: now officially adopted by GitLab as the official CLI tool and maintained at https://gitlab.com/gitlab-org/cli. See https://github.com/profclems/glab/issues/983
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+
+## cms 
+
+- [pages-cms/pages-cms](https://github.com/pages-cms/pages-cms) - The No-Hassle CMS for Static Sites Generators
 
 ## code 
 
