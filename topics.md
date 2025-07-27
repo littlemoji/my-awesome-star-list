@@ -59,6 +59,7 @@
 - [deep-learning](#deep-learning)
 - [deno](#deno)
 - [design](#design)
+- [developer-tools](#developer-tools)
 - [development](#development)
 - [devops](#devops)
 - [django](#django)
@@ -802,6 +803,17 @@
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [oldratlee/translations](https://github.com/oldratlee/translations) - 🐼  Chinese translations for classic software development resources
 - [a11y-team/awesome-a11y-cn](https://github.com/a11y-team/awesome-a11y-cn) - 无障碍知识库，来自公众号「无障碍设计小组」讨论群，知乎专栏「无障碍，是每个人都被世界善待」https://www.zhihu.com/column/a11y-ux
+
+## developer-tools 
+
+- [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
+- [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
+- [Jackpopc/DevWeekly](https://github.com/Jackpopc/DevWeekly) - 每周五发布，精选优质开发者内容，包括开源项目、工具资源、技术文章等方面。
+- [Pythagora-io/gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) - The first real AI developer
+- [grafana/pyroscope](https://github.com/grafana/pyroscope) - Continuous Profiling Platform. Debug performance issues down to a single line of code
+- [Raathigesh/majestic](https://github.com/Raathigesh/majestic) - ⚡ Zero config GUI for Jest
+- [zhaoqize/puppeteer-api-zh_CN](https://github.com/zhaoqize/puppeteer-api-zh_CN) - 📖 Puppeteer中文文档（官方指定的中文文档）
+- [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
 
 ## development 
 
