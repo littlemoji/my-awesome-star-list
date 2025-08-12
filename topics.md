@@ -569,7 +569,7 @@
 - [jokimina/cbox-chrome-extension](https://github.com/jokimina/cbox-chrome-extension) - Chrome Command Line Panel
 - [interstellard/chatgpt-advanced](https://github.com/interstellard/chatgpt-advanced) - WebChatGPT: A browser extension that augments your ChatGPT prompts with web results.
 - [immersive-translate/immersive-translate](https://github.com/immersive-translate/immersive-translate) - 沉浸式双语网页翻译扩展 , 支持输入框翻译， 鼠标悬停翻译， PDF, Epub, 字幕文件, TXT 文件翻译 - Immersive Dual Web Page Translation Extension
-- [crxjs/chrome-extension-tools](https://github.com/crxjs/chrome-extension-tools) - Bundling Chrome Extensions can be pretty complex. It doesn't have to be.
+- [crxjs/chrome-extension-tools](https://github.com/crxjs/chrome-extension-tools) - Build cross-browser extensions with native HMR and zero-config setup
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for saving a faithful copy of a complete web page in a single HTML file
 - [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
 - [DIYgod/RSSHub-Radar](https://github.com/DIYgod/RSSHub-Radar) - 🧡 Browser extension that simplifies finding and subscribing RSS and RSSHub
@@ -1355,7 +1355,7 @@
 - [tc39/proposals](https://github.com/tc39/proposals) - Tracking ECMAScript Proposals
 - [shfshanyue/blog](https://github.com/shfshanyue/blog) - 在这里写一些工作中遇到的前端，后端以及运维的问题
 - [jaywcjlove/reference](https://github.com/jaywcjlove/reference) - 为开发人员分享快速参考备忘清单(速查表)
-- [crxjs/chrome-extension-tools](https://github.com/crxjs/chrome-extension-tools) - Bundling Chrome Extensions can be pretty complex. It doesn't have to be.
+- [crxjs/chrome-extension-tools](https://github.com/crxjs/chrome-extension-tools) - Build cross-browser extensions with native HMR and zero-config setup
 - [ruyadorno/ntl](https://github.com/ruyadorno/ntl) - Node Task List: Interactive cli to list and run package.json scripts
 - [pvdz/tenko](https://github.com/pvdz/tenko) - An 100% spec compliant ES2021 JavaScript parser written in JS
 - [jd-opensource/micro-app](https://github.com/jd-opensource/micro-app) - A simple, efficient and powerful micro front-end framework. 一款简约、高效、功能强大的微前端框架
@@ -1930,6 +1930,8 @@
 
 ## others 
 
+- [karminski/one-small-step](https://github.com/karminski/one-small-step) - 这是一个简单的技术科普教程项目，主要聚焦于解释一些有趣的，前沿的技术概念和原理。每篇文章都力求在 5 分钟内阅读完成。
+- [itMrBoy/resumePolice](https://github.com/itMrBoy/resumePolice) - 简历警察 🕵️‍♂️ 疯狂逮捕
 - [geosmart/lumma](https://github.com/geosmart/lumma) - A free AI-native journal for your inner reflections.  Journal freely. Reflect deeply. Powered by AI.
 - [huhusmang/Subscription-Management](https://github.com/huhusmang/Subscription-Management) - Manage and track your subscriptions and expenses easily.
 - [naxiaoduo/1000UserGuide](https://github.com/naxiaoduo/1000UserGuide) - 1000UserGuide：对独立开发者和创业者来说，找到前1000个早期用户太关键了。这里精心整理了300多个国内外渠道，适合独立开发者和创业者推广产品的渠道。
@@ -2825,7 +2827,7 @@
 - [jaywcjlove/reference](https://github.com/jaywcjlove/reference) - 为开发人员分享快速参考备忘清单(速查表)
 - [h3poteto/whalebird-desktop](https://github.com/h3poteto/whalebird-desktop) - Single-column Fediverse client for desktop
 - [InhiblabCore/vue-hooks-plus](https://github.com/InhiblabCore/vue-hooks-plus) - High performance  & Simplicity  🧲  Vue 3 Hooks library
-- [crxjs/chrome-extension-tools](https://github.com/crxjs/chrome-extension-tools) - Bundling Chrome Extensions can be pretty complex. It doesn't have to be.
+- [crxjs/chrome-extension-tools](https://github.com/crxjs/chrome-extension-tools) - Build cross-browser extensions with native HMR and zero-config setup
 - [react-hook-form/react-hook-form](https://github.com/react-hook-form/react-hook-form) - 📋 React Hooks for form state management and validation (Web + React Native)
 - [apache/answer](https://github.com/apache/answer) - A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer.
 - [typestack/class-validator](https://github.com/typestack/class-validator) - Decorator-based property validation for classes.
