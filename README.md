@@ -90,7 +90,7 @@
 - [ada-url/ada](https://github.com/ada-url/ada) - WHATWG-compliant and fast URL parser written in modern C++, part of Internet Archive, Node.js, Clickhouse, Redpanda, Kong, Telegram, Adguard, Datadog and Cloudflare Workers.
 - [tmikov/hermes](https://github.com/tmikov/hermes) - Hermes is a small and lightweight JavaScript engine optimized for running React Native on Android.
 - [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) - LLM inference in C/C++
-- [Tencent/tgfx](https://github.com/Tencent/tgfx) - A lightweight 2D graphics library for rendering texts, geometries, and images with high-performance APIs that work across various platforms.
+- [Tencent/tgfx](https://github.com/Tencent/tgfx) - A lightweight 2D graphics library for modern GPUs, delivering high-performance text, image, and vector rendering across major platforms.
 - [v8/v8](https://github.com/v8/v8) - The official mirror of the V8 Git repository
 - [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
 - [xiaoxiaojx/blog](https://github.com/xiaoxiaojx/blog) - Project for records problems solved in my work and study.
