@@ -220,7 +220,7 @@
 ## JavaScript 
 
 - [law-chain-hot/websocket-devtools](https://github.com/law-chain-hot/websocket-devtools) - Complete WebSocket Traffic Control with advanced proxy, simulation, and blocking capabilities｜专业的WebSocket调试工具，提供监控、消息模拟和流量拦截等功能
-- [zumerlab/snapdom](https://github.com/zumerlab/snapdom) - snapDOM captures HTML elements to images with exceptional speed and accuracy.
+- [zumerlab/snapdom](https://github.com/zumerlab/snapdom) - SnapDOM is a next-generation DOM capture engine that transforms HTML into almost any format all powered by a flexible plugin system
 - [akchro/eyesite](https://github.com/akchro/eyesite) - 
 - [francoischalifour/medium-zoom](https://github.com/francoischalifour/medium-zoom) - 🔎🖼 A JavaScript library for zooming images like Medium
 - [didi/mpx](https://github.com/didi/mpx) - Mpx，一款具有优秀开发体验和深度性能优化的增强型跨端小程序框架
@@ -251,7 +251,6 @@
 - [lencx/Noi](https://github.com/lencx/Noi) - 🚀 Power Your World with AI - Explore, Extend, Empower.
 - [wanglin2/mind-map](https://github.com/wanglin2/mind-map) - SimpleMindMap（思绪思维导图）：一个强大的Web思维导图。A powerful web mind map.
 - [nodeshift/opossum](https://github.com/nodeshift/opossum) - Node.js circuit breaker - fails fast  ⚡️
-- [ttttmr/Wechat2RSS](https://github.com/ttttmr/Wechat2RSS) - 微信公众号转RSS
 - [lukeed/clsx](https://github.com/lukeed/clsx) - A tiny (239B) utility for constructing `className` strings conditionally.
 - [shifu-group/inpaint_wechat](https://github.com/shifu-group/inpaint_wechat) - 《照片修复小小助手》是一款基于微信AI能力的微信小程序，实现了图片选定区域的消除修复功能，纯客户端实现，无服务端。Inpaint_wechat is a WeChat mini-program based on the WeChat AI capabilities, implementing the functionality of inpainting and repairing selecte
 - [Liiked/VS-Code-Extension-Doc-ZH](https://github.com/Liiked/VS-Code-Extension-Doc-ZH) - VS Code插件开发文档-中文版
@@ -805,6 +804,7 @@
 - [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Dig deep like a mole to clean you Mac. 像鼹鼠一样深入挖掘来清理你的 Mac
 - [aruhier/gnome-terminal-colors-solarized](https://github.com/aruhier/gnome-terminal-colors-solarized) - Solarized Gnome Terminal colors, based on http://ethanschoonover.com/solarized
 - [xthezealot/npmprune](https://github.com/xthezealot/npmprune) - Prune unnecessary files from node_modules
+- [ttttmr/Wechat2RSS](https://github.com/ttttmr/Wechat2RSS) - 微信公众号转RSS
 - [raycast/script-commands](https://github.com/raycast/script-commands) - Script Commands let you tailor Raycast to your needs. Think of them as little productivity boosts throughout your day.
 - [xiaoluoboding/monthly](https://github.com/xiaoluoboding/monthly) - 📖 聚焦前端，记录过去一个月看到的优秀的文章、工具，丰富前端技术栈。每月28日更新。你可以 Watch 它，相当于订阅。
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
