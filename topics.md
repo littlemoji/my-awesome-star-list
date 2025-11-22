@@ -1652,7 +1652,7 @@
 
 ## mac 
 
-- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Dig deep like a mole to clean you Mac. 像鼹鼠一样深入挖掘来清理你的 Mac
+- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Dig deep like a mole to optimize you Mac. 像鼹鼠一样深入挖掘来优化你的 Mac
 - [PasteBar/PasteBarApp](https://github.com/PasteBar/PasteBarApp) - PasteBar - Limitless, Free Clipboard Manager for Mac and Windows
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 - [johnxnguyen/Down](https://github.com/johnxnguyen/Down) - Blazing fast Markdown / CommonMark rendering in Swift, built upon cmark.
@@ -1675,7 +1675,7 @@
 
 ## macos 
 
-- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Dig deep like a mole to clean you Mac. 像鼹鼠一样深入挖掘来清理你的 Mac
+- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Dig deep like a mole to optimize you Mac. 像鼹鼠一样深入挖掘来优化你的 Mac
 - [WINBIGFOX/TimeScribe](https://github.com/WINBIGFOX/TimeScribe) - This repository offers a modern, flexible time tracking app for capturing and managing personal working hours. It operates offline, requires no sign-up, and is free and open source—ideal for anyone lo
 - [gvcgo/version-manager](https://github.com/gvcgo/version-manager) - 🔥 A general version manager for thousands of SDKs with TUI inspired by lazygit. No need to remember any commands. Less bugs.
 - [milanvarady/Applite](https://github.com/milanvarady/Applite) - User-friendly GUI macOS application for Homebrew Casks
@@ -2693,7 +2693,7 @@
 
 ## shell 
 
-- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Dig deep like a mole to clean you Mac. 像鼹鼠一样深入挖掘来清理你的 Mac
+- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Dig deep like a mole to optimize you Mac. 像鼹鼠一样深入挖掘来优化你的 Mac
 - [YiNNx/cmd-wrapped](https://github.com/YiNNx/cmd-wrapped) - 👩‍💻 A CLI Tool for Command Line Insights
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [liangklfangl/react-article-bucket](https://github.com/liangklfangl/react-article-bucket) - 总结，积累，分享，传播JavaScript各模块核心知识点文章全集，欢迎star,issue(勿fork，内容可能随时修改)。webpack核心内容部分请查看专栏: https://github.com/liangklfangl/webpack-core-usage
