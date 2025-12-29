@@ -1126,6 +1126,7 @@
 
 ## git 
 
+- [skills/introduction-to-github](https://github.com/skills/introduction-to-github) - Get started using GitHub in less than an hour.
 - [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful
 - [yinzhenyu-su/weekly-git-summary](https://github.com/yinzhenyu-su/weekly-git-summary) - 一个跨平台的 CLI 工具，用于生成 Git 提交记录的周报汇总。支持多种输出格式（文本、JSON、Markdown、 HTML），自动扫描项目目录并提取指定时间范围内的提交历史。
 - [Undertone0809/gcop](https://github.com/Undertone0809/gcop) - 🚀 AI-Powered Git Commit Assistant | Automate Commit Messages, Streamline Git Workflow. Help you write better git commit message.
