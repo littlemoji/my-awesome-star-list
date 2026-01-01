@@ -2336,7 +2336,7 @@
 - [andrewiggins/v8-deopt-viewer](https://github.com/andrewiggins/v8-deopt-viewer) - View deoptimizations of your JavaScript in V8
 - [afatcoder/LeetcodeTop](https://github.com/afatcoder/LeetcodeTop) - 汇总各大互联网公司容易考察的高频leetcode题🔥
 - [tide-emergency/yingji](https://github.com/tide-emergency/yingji) - 应急相关内容积累
-- [xiaoweiruby/Thirty-Guide](https://github.com/xiaoweiruby/Thirty-Guide) - 三十而立| 互联网时代的生存指南——帮助你解决三十岁之前的人生困境！
+- [xiaochenwin/Thirty-Guide](https://github.com/xiaochenwin/Thirty-Guide) - 三十而立| 互联网时代的生存指南——帮助你解决三十岁之前的人生困境！
 - [gztchan/design-patterns-in-typescript](https://github.com/gztchan/design-patterns-in-typescript) - :orange_book: Design Patterns in TypeScript
 - [MiYogurt/nodelover-maps](https://github.com/MiYogurt/nodelover-maps) - 📅 如何成为 Node.js 全栈工程师?
 - [matthew-andrews/isomorphic-fetch](https://github.com/matthew-andrews/isomorphic-fetch) - Isomorphic WHATWG Fetch API, for Node & Browserify
