@@ -616,7 +616,7 @@
 - [Escapingbug/awesome-browser-exploit](https://github.com/Escapingbug/awesome-browser-exploit) - awesome list of browser exploitation tutorials
 - [nusr/hacker-laws-zh](https://github.com/nusr/hacker-laws-zh) - 💻📖对开发人员有用的定律、理论、原则和模式。(Laws, Theories, Principles and Patterns that developers will find useful.)
 - [afatcoder/LeetcodeTop](https://github.com/afatcoder/LeetcodeTop) - 汇总各大互联网公司容易考察的高频leetcode题🔥
-- [xiaoweiruby/Thirty-Guide](https://github.com/xiaoweiruby/Thirty-Guide) - 三十而立| 互联网时代的生存指南——帮助你解决三十岁之前的人生困境！
+- [xiaochenwin/Thirty-Guide](https://github.com/xiaochenwin/Thirty-Guide) - 三十而立| 互联网时代的生存指南——帮助你解决三十岁之前的人生困境！
 - [a11y-team/awesome-a11y-cn](https://github.com/a11y-team/awesome-a11y-cn) - 无障碍知识库，来自公众号「无障碍设计小组」讨论群，知乎专栏「无障碍，是每个人都被世界善待」https://www.zhihu.com/column/a11y-ux
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
 - [MiYogurt/nodelover-maps](https://github.com/MiYogurt/nodelover-maps) - 📅 如何成为 Node.js 全栈工程师?
