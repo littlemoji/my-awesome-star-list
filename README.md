@@ -45,7 +45,6 @@
 
 ## Astro 
 
-- [tw93/Weekly](https://github.com/tw93/Weekly) - 🩴 Trendy Weekly records my non-boring life.
 - [bestofjs/javascript-risingstars](https://github.com/bestofjs/javascript-risingstars) - :stars: An overview of the JavaScript landscape in 2025: trends about frontend, Node.js, fullstack frameworks, build tools, testing, Vue.js, React, state management...
 
 ## Bikeshed 
@@ -102,6 +101,7 @@
 ## CSS 
 
 - [hehonghui/awesome-english-ebooks](https://github.com/hehonghui/awesome-english-ebooks) - 经济学人(含音频)、纽约客、卫报、连线、大西洋月刊等英语杂志免费下载,支持epub、mobi、pdf格式, 每周更新
+- [tw93/Weekly](https://github.com/tw93/Weekly) - 🩴 Trendy Weekly records my non-boring life.
 - [lbc-team/solidity-doc-cn](https://github.com/lbc-team/solidity-doc-cn) - 以太坊Solidity语言中文文档
 - [jd-opensource/micro-app](https://github.com/jd-opensource/micro-app) - A simple, efficient and powerful micro front-end framework. 一款简约、高效、功能强大的微前端框架
 - [chokcoco/CSS-Inspiration](https://github.com/chokcoco/CSS-Inspiration) - CSS Inspiration，在这里找到写 CSS 的灵感！
@@ -721,7 +721,7 @@
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [saveweb/review-2023](https://github.com/saveweb/review-2023) - 二〇二三年的年终总结都写好了吗？
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged document management system: scan, index and archive all your documents
-- [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
+- [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
 - [JeffersonQin/YuzuMarker.FontDetection](https://github.com/JeffersonQin/YuzuMarker.FontDetection) - ✨ 首个CJK（中日韩）字体识别以及样式提取模型 YuzuMarker的字体识别模型与实现 / First-ever CJK (Chinese Japanese Korean) Font Recognition and Style Extractor, side project of YuzuMarker
 - [Meekdai/Gmeek](https://github.com/Meekdai/Gmeek) - Gmeek is a Blog All in Github
 - [open-mmlab/Amphion](https://github.com/open-mmlab/Amphion) - Amphion (/æmˈfaɪən/) is a toolkit for Audio, Music, and Speech Generation. Its purpose is to support reproducible research and help junior researchers and engineers get started in the field of audio, 
@@ -732,7 +732,7 @@
 - [d2l-ai/d2l-zh](https://github.com/d2l-ai/d2l-zh) - 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被70多个国家的500多所大学用于教学。
 - [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [Planetary-Computers/autotab-starter](https://github.com/Planetary-Computers/autotab-starter) - Build browser agents for real world tasks
-- [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev) - Create Customized Software using Natural Language Idea (through LLM-powered Multi-Agent Collaboration)
+- [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev) - ChatDev: Dev All through LLM-powered Multi-Agent Collaboration
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [lizrice/ebpf-beginners](https://github.com/lizrice/ebpf-beginners) - The beginner's guide to eBPF
 - [everythingishacked/Semaphore](https://github.com/everythingishacked/Semaphore) - A full-body keyboard using gestures to type through computer vision
@@ -848,6 +848,7 @@
 
 ## TypeScript 
 
+- [rossmoody/svg-gobbler](https://github.com/rossmoody/svg-gobbler) - Open source browser extension for finding, editing, exporting, optimizing, and managing SVG content.
 - [TangSY/edge-next-starter](https://github.com/TangSY/edge-next-starter) - An out‑of‑the‑box Next.js + Cloudflare full‑stack starter integrating Edge Runtime, D1 database, R2 storage, KV cache, Analytics Engine hooks, and a complete CI/CD pipeline.一个开箱即用的 Next.js + Cloudflar
 - [chaterm/Chaterm](https://github.com/chaterm/Chaterm) - Open source AI terminal and SSH Client for EC2, Database and Kubernetes.
 - [ant-design/x](https://github.com/ant-design/x) - Craft AI-driven interface effortlessly🤖
@@ -862,7 +863,7 @@
 - [huhusmang/Subscription-Management](https://github.com/huhusmang/Subscription-Management) - Manage and track your subscriptions and expenses easily.
 - [tailwindlabs/headlessui](https://github.com/tailwindlabs/headlessui) - Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
 - [AmyangXYZ/PoPo](https://github.com/AmyangXYZ/PoPo) - Pose and animate MMD model with LLM
-- [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - Cherry Studio boosts your productivity with unified AI access, Agent capabilities, and 300+ assistants in one desktop application.
+- [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - AI Agent + Coding Agent + 300+ assistants: agentic AI desktop with autonomous coding, intelligent automation, and unified access to frontier LLMs.
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [dahlia/logtape](https://github.com/dahlia/logtape) - Simple logging library with zero dependencies for Deno, Node.js, Bun, browsers, and edge functions
 - [xiao-zaiyi/illa-helper](https://github.com/xiao-zaiyi/illa-helper) - 浸入式学语言助手 (Immersive Language Learning Assistant)
@@ -952,7 +953,7 @@
 - [pheralb/svgl](https://github.com/pheralb/svgl) - 🧩 A beautiful library with SVG logos. Built with Sveltekit & Tailwind CSS.
 - [vuejs/devtools](https://github.com/vuejs/devtools) - ⚙️ Browser devtools extension for debugging Vue.js applications.
 - [unjs/mlly](https://github.com/unjs/mlly) - 🤝 Common ECMAScript module utils
-- [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Progressive Web Framework.
+- [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Full-Stack Vue Framework.
 - [msgbyte/tianji](https://github.com/msgbyte/tianji) - Tianji: Insight into everything, Website Analytics + Uptime Monitor + Server Status. not only another GA alternatives
 - [wakujs/waku](https://github.com/wakujs/waku) - ⛩️ The minimal React framework
 - [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler) - Crawl a site to generate knowledge files to create your own custom GPT from a URL
