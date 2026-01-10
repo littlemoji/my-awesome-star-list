@@ -1650,7 +1650,7 @@
 
 ## linux 
 
-- [gnome-pomodoro/gnome-pomodoro](https://github.com/gnome-pomodoro/gnome-pomodoro) - A time management utility for GNOME based on the pomodoro technique!
+- [focustimerhq/focus-timer](https://github.com/focustimerhq/focus-timer) - A time management utility for GNOME based on the pomodoro technique!
 - [Websoft9/websoft9](https://github.com/Websoft9/websoft9) - Applications self-hosting and DevOps platform for running open source, web-based linux Panel of lite PaaS
 - [gvcgo/version-manager](https://github.com/gvcgo/version-manager) - 🔥 A general version manager for thousands of SDKs with TUI inspired by lazygit. No need to remember any commands. Less bugs.
 - [ZenPrivacy/zen-desktop](https://github.com/ZenPrivacy/zen-desktop) - Simple, free and efficient ad-blocker and privacy guard for Windows, macOS and Linux
@@ -2055,6 +2055,11 @@
 
 ## others 
 
+- [lustan/XApi](https://github.com/lustan/XApi) - 
+- [huifer/Claude-Ally-Health](https://github.com/huifer/Claude-Ally-Health) - Claude-Ally-Health is an intelligent healthcare assistant that combines Claude AI technology with medical expertise. Through natural language interaction, it helps users record symptoms, manage medica
+- [toon-format/spec](https://github.com/toon-format/spec) - Official specification for Token-Oriented Object Notation (TOON)
+- [twwch/DeepDiagram](https://github.com/twwch/DeepDiagram) - An open-source AI visualization tool that transforms natural language into Mind Maps, Mermaid diagrams, and Echarts. Turn your ideas into structured visuals instantly.
+- [bywwcnll/StreamPanel](https://github.com/bywwcnll/StreamPanel) - chrome插件，新增Stream查看面板，支持iframe内部监听，方便查看stream消息
 - [TangSY/edge-next-starter](https://github.com/TangSY/edge-next-starter) - An out‑of‑the‑box Next.js + Cloudflare full‑stack starter integrating Edge Runtime, D1 database, R2 storage, KV cache, Analytics Engine hooks, and a complete CI/CD pipeline.一个开箱即用的 Next.js + Cloudflar
 - [google/A2UI](https://github.com/google/A2UI) - 
 - [WooHooDai/linkding-cn](https://github.com/WooHooDai/linkding-cn) - 基于linkding修改的书签管理器，进行了中文本地化、功能增强、界面优化。支持🎲随机排序、📅日期筛选、🐞自定义快照脚本、♻️回收站等丰富功能，拥有搜索栏&侧边栏随屏滚动、侧边栏折叠、独立滚动条、位置&折叠状态记忆等界面优化。
@@ -2106,7 +2111,7 @@
 - [GoogleChromeLabs/page-lifecycle](https://github.com/GoogleChromeLabs/page-lifecycle) - PageLifecycle.js is a tiny JavaScript library that allows developers to easily observe Page Lifecycle API state changes cross browser
 - [dianwan/taro-xiaohongshu](https://github.com/dianwan/taro-xiaohongshu) - taro仿小红书demo
 - [tingyuxuan2302/taro3-virtual-list](https://github.com/tingyuxuan2302/taro3-virtual-list) - 基于taro3封装的虚拟列表，对列表节点不等高以及白屏等问题支持友好，无计算量，性能优异，支持各大小程序以及h5页面
-- [qdleader/qdleader](https://github.com/qdleader/qdleader) - 前端面试 前端知识点 面试题大全 js vue react node git element typescript ts next 支付 微信公众平台 每日持续更新 前端周刊  vue3 react18 vite redux 前端
+- [qdleader/qdleader](https://github.com/qdleader/qdleader) - 🔥前端面试 前端知识点 面试题大全 js vue react node git element typescript ts next 支付 微信公众平台 每日持续更新 前端周刊  vue3 react18 vite redux 前端
 - [panyanyany/Awesome-ChatTTS](https://github.com/panyanyany/Awesome-ChatTTS) - ChatTTS资源大全，免费体验地址，音色库等
 - [lydiahallie/javascript-questions](https://github.com/lydiahallie/javascript-questions) - A long list of (advanced) JavaScript questions, and their explanations :sparkles:
 - [shikijs/shiki-magic-move](https://github.com/shikijs/shiki-magic-move) - Smoothly animated code blocks with Shiki
@@ -2186,7 +2191,7 @@
 - [macfuse/macfuse](https://github.com/macfuse/macfuse) - macFUSE umbrella repository
 - [Tencent/tgfx](https://github.com/Tencent/tgfx) - A lightweight 2D graphics library for modern GPUs, delivering high-performance text, image, and vector rendering across major platforms.
 - [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
-- [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev) - ChatDev: Dev All through LLM-powered Multi-Agent Collaboration
+- [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev) - ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration
 - [PKU-YuanGroup/ChatLaw](https://github.com/PKU-YuanGroup/ChatLaw) - ChatLaw：A Powerful LLM Tailored for Chinese Legal. 中文法律大模型
 - [qinjx/30min_guides](https://github.com/qinjx/30min_guides) - 覃健祥的学习笔记，各种几十分钟入门的文档
 - [themsaid/ibis](https://github.com/themsaid/ibis) - A PHP tool that helps you write eBooks in markdown and convert to PDF.
