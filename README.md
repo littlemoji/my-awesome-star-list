@@ -339,7 +339,6 @@
 - [lefex/FE](https://github.com/lefex/FE) - 前端 100 天，帮助 10W 人入门并进阶前端。
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [kautukkundan/Awesome-Profile-README-templates](https://github.com/kautukkundan/Awesome-Profile-README-templates) - A collection of awesome readme templates to display on your profile
-- [wechatsync/Wechatsync](https://github.com/wechatsync/Wechatsync) - 一键同步文章到多个内容平台，支持今日头条、WordPress、知乎、简书、掘金、CSDN、typecho各大平台，一次发布，多平台同步发布。解放个人生产力
 - [chokcoco/iCSS](https://github.com/chokcoco/iCSS) - 不止于 CSS
 - [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
 - [ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) - Clean Code concepts adapted for JavaScript
@@ -465,6 +464,7 @@
 
 ## Others 
 
+- [twwch/AI-Tracker](https://github.com/twwch/AI-Tracker) - 本仓库旨在整理关于大语言模型（LLM）底层逻辑、**上下文工程 (Context Engineering)** 以及 **Model Context Protocol (MCP)** 协议的核心学习资源与实战路径。
 - [skills/introduction-to-github](https://github.com/skills/introduction-to-github) - Get started using GitHub in less than an hour.
 - [PicoTrex/Awesome-Nano-Banana-images](https://github.com/PicoTrex/Awesome-Nano-Banana-images) - A curated collection of fun and creative examples generated with Nano Banana & Nano Banana Pro🍌, Gemini-2.5-flash-image based model. We also release Nano-consistent-150K openly to support the communit
 - [steveklabnik/jujutsu-tutorial](https://github.com/steveklabnik/jujutsu-tutorial) - trying to figure out this jujutsu thing
@@ -685,7 +685,7 @@
 
 - [WooHooDai/linkding-cn](https://github.com/WooHooDai/linkding-cn) - 基于linkding修改的书签管理器，进行了中文本地化、功能增强、界面优化。支持🎲随机排序、📅日期筛选、🐞自定义快照脚本、♻️回收站等丰富功能，拥有搜索栏&侧边栏随屏滚动、侧边栏折叠、独立滚动条、位置&折叠状态记忆等界面优化。
 - [google/langextract](https://github.com/google/langextract) - A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.
-- [Usagi-org/ai-goofish-monitor](https://github.com/Usagi-org/ai-goofish-monitor) - 基于 Playwright 和AI过滤的闲鱼多任务实时/定时监控与智能分析工具，配备了功能完善的后台管理界面。帮助用户节省闲鱼商品过滤，能及时找到心仪商品。
+- [Usagi-org/ai-goofish-monitor](https://github.com/Usagi-org/ai-goofish-monitor) - 本项目基于 Playwright 和AI过滤的闲鱼多任务实时/定时监控与智能分析工具，配备了功能完善的后台管理界面。帮助用户节省闲鱼商品过滤，能及时找到心仪商品。
 - [JefferyHcool/BiliNote](https://github.com/JefferyHcool/BiliNote) - AI 视频笔记生成工具 让 AI 为你的视频做笔记
 - [Hoper-J/AI-Guide-and-Demos-zh_CN](https://github.com/Hoper-J/AI-Guide-and-Demos-zh_CN) - 这是一份入门AI/LLM大模型的逐步指南，包含教程和演示代码，带你从API走进本地大模型部署和微调，代码文件会提供Kaggle或Colab在线版本，即便没有显卡也可以进行学习。项目中还开设了一个小型的代码游乐场🎡，你可以尝试在里面实验一些有意思的AI脚本。同时，包含李宏毅 (HUNG-YI LEE）2024生成式人工智能导论课程的完整中文镜像作业。
 - [Undertone0809/gcop](https://github.com/Undertone0809/gcop) - 🚀 AI-Powered Git Commit Assistant | Automate Commit Messages, Streamline Git Workflow. Help you write better git commit message.
@@ -807,7 +807,7 @@
 
 ## Shell 
 
-- [huifer/Claude-Ally-Health](https://github.com/huifer/Claude-Ally-Health) - Claude-Ally-Health is an intelligent healthcare assistant that combines Claude AI technology with medical expertise. Through natural language interaction, it helps users record symptoms, manage medica
+- [huifer/Claude-Ally-Health](https://github.com/huifer/Claude-Ally-Health) - Ally-Health is an intelligent healthcare assistant that combines Claude AI technology with medical expertise. Through natural language interaction, it helps users record symptoms, manage medications, 
 - [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Deep clean and optimize your Mac.
 - [aruhier/gnome-terminal-colors-solarized](https://github.com/aruhier/gnome-terminal-colors-solarized) - Solarized Gnome Terminal colors, based on http://ethanschoonover.com/solarized
 - [xthezealot/npmprune](https://github.com/xthezealot/npmprune) - Prune unnecessary files from node_modules
@@ -858,7 +858,7 @@
 - [chaterm/Chaterm](https://github.com/chaterm/Chaterm) - Open source AI terminal and SSH Client for EC2, Database and Kubernetes.
 - [ant-design/x](https://github.com/ant-design/x) - Craft AI-driven interface effortlessly🤖
 - [google/A2UI](https://github.com/google/A2UI) - 
-- [YouMind-OpenLab/awesome-nano-banana-pro-prompts](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts) - 🍌 1000+ selected Nano Banana Pro prompts with images, multilingual support, and instant gallery preview. Open-source prompt engineering library
+- [YouMind-OpenLab/awesome-nano-banana-pro-prompts](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts) - 🍌 4000+ selected Nano Banana Pro prompts with images, multilingual support, and instant gallery preview. Open-source prompt engineering library
 - [highlight/highlight](https://github.com/highlight/highlight) - highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging, distributed tracing, and more.
 - [Warma10032/VideoAdGuard](https://github.com/Warma10032/VideoAdGuard) - 哔哩哔哩浏览器插件：基于大语言模型，对B站视频中的植入广告进行检测。一键跳过视频中的植入/口播广告。
 - [image-js/image-js](https://github.com/image-js/image-js) - Image processing and manipulation in JavaScript
@@ -1050,6 +1050,7 @@
 - [aykutkardas/regexlearn.com](https://github.com/aykutkardas/regexlearn.com) - Learn RegEx step by step, from zero to advanced.
 - [remix-run/remix](https://github.com/remix-run/remix) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
 - [cuixiaorui/mini-vue](https://github.com/cuixiaorui/mini-vue) - 实现最简 vue3 模型( Help you learn more efficiently vue3 source code )
+- [wechatsync/Wechatsync](https://github.com/wechatsync/Wechatsync) - 一键同步文章到多个内容平台，支持今日头条、WordPress、知乎、简书、掘金、CSDN、typecho各大平台，一次发布，多平台同步发布。解放个人生产力
 - [tonybaloney/vscode-pets](https://github.com/tonybaloney/vscode-pets) - Adds playful pets 🦀🐱🐶 in your VS Code window
 - [javalent/admonitions](https://github.com/javalent/admonitions) - Adds admonition block-styled content to Obsidian.md
 - [7kms/react-illustration-series](https://github.com/7kms/react-illustration-series) - 图解react源码, 用大量配图的方式, 致力于将react原理表述清楚.
