@@ -1655,7 +1655,7 @@
 
 ## linux 
 
-- [focustimerhq/focus-timer](https://github.com/focustimerhq/focus-timer) - A time management utility for GNOME based on the pomodoro technique!
+- [focustimerhq/FocusTimer](https://github.com/focustimerhq/FocusTimer) - A time management utility for GNOME based on the pomodoro technique!
 - [Websoft9/websoft9](https://github.com/Websoft9/websoft9) - Applications self-hosting and DevOps platform for running open source, web-based linux Panel of lite PaaS
 - [gvcgo/version-manager](https://github.com/gvcgo/version-manager) - 🔥 A general version manager for thousands of SDKs with TUI inspired by lazygit. No need to remember any commands. Less bugs.
 - [ZenPrivacy/zen-desktop](https://github.com/ZenPrivacy/zen-desktop) - Simple, free and efficient ad-blocker and privacy guard for Windows, macOS and Linux.
@@ -2062,6 +2062,7 @@
 
 ## others 
 
+- [xai-org/x-algorithm](https://github.com/xai-org/x-algorithm) - Algorithm powering the For You feed on X
 - [crewAIInc/crewAI-examples](https://github.com/crewAIInc/crewAI-examples) - A collection of examples that show how to use CrewAI framework to automate workflows.
 - [nanxiaobei/ai-global](https://github.com/nanxiaobei/ai-global) - Unified configuration manager for AI coding assistants
 - [vercel-labs/json-render](https://github.com/vercel-labs/json-render) - AI → JSON → UI
