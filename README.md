@@ -372,6 +372,7 @@
 - [overnote/over-javascript](https://github.com/overnote/over-javascript) - JavaScript相关：[初稿进度90%]记录JavaScript、Node.js、Vue/React等。文本错误依然很多，会坚持改，抱歉。
 - [carlleton/reactjs101](https://github.com/carlleton/reactjs101) - 从零开始学 ReactJS（ReactJS 101）是一本希望让初学者一看就懂的 ReactJS 中文入门教学书，由浅入深学习 ReactJS 生态系 (Flux, Redux, React Router, ImmutableJS, React Native, Relay/GraphQL etc.)。该分支为转码简体中文版
 - [MriLiuJY/monitorFE](https://github.com/MriLiuJY/monitorFE) - 🍉前端埋点监控，提供前端 JS 执行错误，第三方资源加载异常，Ajax 请求错误监控
+- [ChanceYu/front-end-rss](https://github.com/ChanceYu/front-end-rss) - :orange_book: 根据 RSS 订阅最新前端技术文章并自动分类
 - [csxiaoyaojianxian/JavaScriptStudy](https://github.com/csxiaoyaojianxian/JavaScriptStudy) - JavaScript的学习代码总结，高级特性、数据结构、设计模式、typescript、vue、angular、react、node、webpack、weex、小程序、tensorflow…，JavaScript是世界上最好的语言！
 - [coffe1891/frontend-hard-mode-interview](https://github.com/coffe1891/frontend-hard-mode-interview) - 《前端内参》，有关于JavaScript、编程范式、设计模式、软件开发的艺术等大前端范畴内的知识分享，旨在帮助前端工程师们夯实技术基础以通过一线互联网企业技术面试。
 - [unbug/codelf](https://github.com/unbug/codelf) - A search tool helps dev to solve the naming things problem.
@@ -1113,7 +1114,6 @@
 - [Codennnn/vue-color-avatar](https://github.com/Codennnn/vue-color-avatar) - An online avatar generator just for fun | 一个纯前端实现的头像生成网站
 - [Hanxueqing/Douban-Movie](https://github.com/Hanxueqing/Douban-Movie) - 使用Vue全家桶+Node.js搭建的小型全栈项目，项目文档：https://hanxueqing.github.io/Douban-Movie/
 - [zhangyuang/vite-design](https://github.com/zhangyuang/vite-design) - 下一代构建工具 vite 文档翻译 源码解析
-- [ChanceYu/front-end-rss](https://github.com/ChanceYu/front-end-rss) - :orange_book: 根据 RSS 订阅最新前端技术文章并自动分类
 - [zhangyuang/fe-dev-playbook](https://github.com/zhangyuang/fe-dev-playbook) - 教你如何打造舒适、高效、时尚的前端开发环境
 - [hujiulong/vue-3d-model](https://github.com/hujiulong/vue-3d-model) - 📷 vue.js 3D model viewer component
 - [ElemeFE/element](https://github.com/ElemeFE/element) - A Vue.js 2.0 UI Toolkit for Web
