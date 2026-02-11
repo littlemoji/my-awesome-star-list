@@ -233,6 +233,7 @@
 - [typescript](#typescript)
 - [ui](#ui)
 - [userscript](#userscript)
+- [v2ray](#v2ray)
 - [video](#video)
 - [vim](#vim)
 - [visual-studio-code](#visual-studio-code)
@@ -343,7 +344,7 @@
 
 ## analytics 
 
-- [Openpanel-dev/openpanel](https://github.com/Openpanel-dev/openpanel) - Openpanel is an open-source web and product analytics platform that combines the power of Mixpanel with the ease of Plausible and one of the best Google Analytics replacements.
+- [Openpanel-dev/openpanel](https://github.com/Openpanel-dev/openpanel) - OpenPanel is an open-source web and product analytics platform, an open-source alternative to Mixpanel with optional self-hosting.
 - [msgbyte/tianji](https://github.com/msgbyte/tianji) - Tianji: Insight into everything, Website Analytics + Uptime Monitor + Server Status. not only another GA alternatives
 - [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - Open-source, cloud-native, unified observability database for metrics, logs and traces, supporting SQL/PromQL/Streaming.
 
@@ -2048,7 +2049,7 @@
 - [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, V
 - [n4ze3m/page-assist](https://github.com/n4ze3m/page-assist) - Use your locally running AI models to assist you in your web browsing
 - [Buzzpy/Dev-Encyclopedia](https://github.com/Buzzpy/Dev-Encyclopedia) - An encyclopedia for everything, Programming.
-- [Openpanel-dev/openpanel](https://github.com/Openpanel-dev/openpanel) - Openpanel is an open-source web and product analytics platform that combines the power of Mixpanel with the ease of Plausible and one of the best Google Analytics replacements.
+- [Openpanel-dev/openpanel](https://github.com/Openpanel-dev/openpanel) - OpenPanel is an open-source web and product analytics platform, an open-source alternative to Mixpanel with optional self-hosting.
 - [mfts/papermark](https://github.com/mfts/papermark) - Papermark is the open-source DocSend alternative with built-in analytics and custom domains.
 - [ZiYi0414/handsome-css3-lib](https://github.com/ZiYi0414/handsome-css3-lib) - Amazingly handsome Open-Source UI components made with HTML and CSS. Collection of very handsome CSS animations and special effects on the Internet（在网上收集各种帅气的CSS3特效和动画，按钮标题等各种好玩酷炫的特效组件，网站主旨在于收集网上仅靠 CS
 - [pheralb/svgl](https://github.com/pheralb/svgl) - 🧩 A beautiful library with SVG logos. Built with Sveltekit & Tailwind CSS.
@@ -2494,6 +2495,7 @@
 
 ## privacy 
 
+- [Openpanel-dev/openpanel](https://github.com/Openpanel-dev/openpanel) - OpenPanel is an open-source web and product analytics platform, an open-source alternative to Mixpanel with optional self-hosting.
 - [TeamPiped/Piped](https://github.com/TeamPiped/Piped) - An alternative privacy-friendly YouTube frontend which is efficient by design.
 - [ente-io/ente](https://github.com/ente-io/ente) - 💚 End-to-end encrypted cloud for everything.
 - [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
@@ -3097,6 +3099,11 @@
 - [xcanwin/KeepChatGPT](https://github.com/xcanwin/KeepChatGPT) - 这是一款提高ChatGPT的数据安全能力和效率的插件。并且免费共享大量创新功能，如：自动刷新、保持活跃、数据安全、取消审计、克隆对话、言无不尽、净化页面、展示大屏、拦截跟踪、日新月异、明察秋毫等。让我们的AI体验无比安全、顺畅、丝滑、高效、简洁。
 - [XIU2/UserScript](https://github.com/XIU2/UserScript) - 🐵 自用的一些乱七八糟 油猴脚本~
 - [immersive-translate/immersive-translate](https://github.com/immersive-translate/immersive-translate) - 沉浸式双语网页翻译扩展 , 支持输入框翻译， 鼠标悬停翻译， PDF, Epub, 字幕文件, TXT 文件翻译 - Immersive Dual Web Page Translation Extension
+
+## v2ray 
+
+- [selierlin/Share-SSR-V2ray](https://github.com/selierlin/Share-SSR-V2ray) - 机场推荐/SSR V2ray节点订阅机场/镜像直连/工具推荐
+- [freefq/free](https://github.com/freefq/free) - 翻墙、免费翻墙、免费科学上网、免费节点、免费梯子、免费ss/v2ray/trojan节点、蓝灯、谷歌商店、翻墙梯子
 
 ## video 
 
