@@ -2098,7 +2098,7 @@
 - [xai-org/x-algorithm](https://github.com/xai-org/x-algorithm) - Algorithm powering the For You feed on X
 - [crewAIInc/crewAI-examples](https://github.com/crewAIInc/crewAI-examples) - A collection of examples that show how to use CrewAI framework to automate workflows.
 - [nanxiaobei/ai-global](https://github.com/nanxiaobei/ai-global) - Unified AI Tools Configuration Manager
-- [vercel-labs/json-render](https://github.com/vercel-labs/json-render) - The framework for User-Generated Interfaces
+- [vercel-labs/json-render](https://github.com/vercel-labs/json-render) - The Generative UI framework
 - [twwch/AI-Tracker](https://github.com/twwch/AI-Tracker) - 本仓库旨在整理关于大语言模型（LLM）底层逻辑、**上下文工程 (Context Engineering)** 以及 **Model Context Protocol (MCP)** 协议的核心学习资源与实战路径。
 - [lustan/XApi](https://github.com/lustan/XApi) - 
 - [huifer/WellAlly-health](https://github.com/huifer/WellAlly-health) - Ally-Health is an intelligent healthcare assistant that combines Claude AI technology with medical expertise. Through natural language interaction, it helps users record symptoms, manage medications, 
