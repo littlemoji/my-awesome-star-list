@@ -875,7 +875,7 @@
 - [Chance-fyi/mouse-gestures](https://github.com/Chance-fyi/mouse-gestures) - A lightweight yet powerful browser extension that enhances your browsing efficiency through intuitive mouse gestures, drag-and-drop actions, and cloud-synchronized settings.
 - [baotlake/office-website](https://github.com/baotlake/office-website) - Serverless Office: Edit Word, Excel, and PowerPoint entirely in-browser via WebAssembly. 100% Client-side, No Backend, Maximum Privacy. 纯浏览器版 Office 套件： 基于 WebAssembly 技术，支持 Word、Excel、PPT 及 PDF 编辑。数据
 - [upstash/context7](https://github.com/upstash/context7) - Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors
-- [vercel-labs/json-render](https://github.com/vercel-labs/json-render) - The framework for User-Generated Interfaces
+- [vercel-labs/json-render](https://github.com/vercel-labs/json-render) - The Generative UI framework
 - [vercel/streamdown](https://github.com/vercel/streamdown) - A drop-in replacement for react-markdown, designed for AI-powered streaming.
 - [lustan/XApi](https://github.com/lustan/XApi) - 
 - [twwch/DeepDiagram](https://github.com/twwch/DeepDiagram) - An open-source AI visualization tool that transforms natural language into Mind Maps, Mermaid diagrams, and Echarts. Turn your ideas into structured visuals instantly.
