@@ -227,7 +227,7 @@
 
 - [krisk/Fuse](https://github.com/krisk/Fuse) - Lightweight fuzzy-search, in JavaScript
 - [nextapps-de/flexsearch](https://github.com/nextapps-de/flexsearch) - Next-generation full-text search library for Browser and Node.js
-- [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) - Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner.
+- [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Cowork, and beyond.
 - [toon-format/spec](https://github.com/toon-format/spec) - Official specification for Token-Oriented Object Notation (TOON)
 - [bywwcnll/StreamPanel](https://github.com/bywwcnll/StreamPanel) - Stream Panel 是一个 Chrome DevTools 扩展，允许开发者实时监控和检查流式请求。它支持 服务器发送事件 (SSE) 和 基于 Fetch 的流式连接，是调试流式 API 和查看实时数据推送的必备工具。
 - [u-Sir/peek-pop](https://github.com/u-Sir/peek-pop) - A lightweight, open-source browser extension lets you preview, search, and save pages to read later.
@@ -441,6 +441,7 @@
 
 ## Kotlin 
 
+- [HarlonWang/TrendingAI](https://github.com/HarlonWang/TrendingAI) - Understand GitHub Trending projects quickly with AI.（用 AI 快速读懂 GitHub Trending 项目）
 - [svga/SVGAPlayer-Android](https://github.com/svga/SVGAPlayer-Android) - Similar to Lottie. Render After Effects / Animate CC (Flash) animations natively on Android and iOS, Web.  使用 SVGAPlayer 在 Android、iOS、Web中播放 After Effects / Animate CC (Flash) 动画。
 - [TheWidlarzGroup/react-native-video](https://github.com/TheWidlarzGroup/react-native-video) - A &lt;Video /&gt; component for react-native
 
@@ -464,7 +465,7 @@
 
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [jaywcjlove/linux-command](https://github.com/jaywcjlove/linux-command) - Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux
-- [labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm) - 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.
+- [labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm) - Crack LeetCode, not only how, but also why.
 
 ## Nunjucks 
 
@@ -477,6 +478,7 @@
 
 ## Others 
 
+- [KimYx0207/Claude-Code-x-OpenClaw-Guide-Zh](https://github.com/KimYx0207/Claude-Code-x-OpenClaw-Guide-Zh) - 从零到企业实战：Claude Code 官方编程神器 + OpenClaw 224K Stars 开源AI助手 | 双顶流中文教程 | 21篇教程 130000+字
 - [GBSOSS/skill-from-masters](https://github.com/GBSOSS/skill-from-masters) - Stand on the shoulders of giants — Create AI skills built on proven methodologies from domain experts.
 - [op7418/Humanizer-zh](https://github.com/op7418/Humanizer-zh) - Humanizer 的汉化版本，Claude Code Skills，旨在消除文本中 AI 生成的痕迹。
 - [twwch/AI-Tracker](https://github.com/twwch/AI-Tracker) - 本仓库旨在整理关于大语言模型（LLM）底层逻辑、**上下文工程 (Context Engineering)** 以及 **Model Context Protocol (MCP)** 协议的核心学习资源与实战路径。
