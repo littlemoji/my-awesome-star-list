@@ -478,7 +478,6 @@
 
 ## Others 
 
-- [KimYx0207/Claude-Code-x-OpenClaw-Guide-Zh](https://github.com/KimYx0207/Claude-Code-x-OpenClaw-Guide-Zh) - 从零到企业实战：Claude Code 官方编程神器 + OpenClaw 224K Stars 开源AI助手 | 双顶流中文教程 | 21篇教程 130000+字
 - [GBSOSS/skill-from-masters](https://github.com/GBSOSS/skill-from-masters) - Stand on the shoulders of giants — Create AI skills built on proven methodologies from domain experts.
 - [op7418/Humanizer-zh](https://github.com/op7418/Humanizer-zh) - Humanizer 的汉化版本，Claude Code Skills，旨在消除文本中 AI 生成的痕迹。
 - [twwch/AI-Tracker](https://github.com/twwch/AI-Tracker) - 本仓库旨在整理关于大语言模型（LLM）底层逻辑、**上下文工程 (Context Engineering)** 以及 **Model Context Protocol (MCP)** 协议的核心学习资源与实战路径。
@@ -722,7 +721,7 @@
 - [2noise/ChatTTS](https://github.com/2noise/ChatTTS) - A generative speech model for daily dialogue.
 - [Flagsmith/flagsmith](https://github.com/Flagsmith/flagsmith) - Flagsmith is an open source feature flagging and remote config service. Self-host or use our hosted version at https://app.flagsmith.com.
 - [jarun/buku](https://github.com/jarun/buku) - :bookmark: Personal mini-web in text
-- [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
+- [maguowei/starred](https://github.com/maguowei/starred) - Create and maintain your own Awesome-style list from GitHub stars!
 - [1Panel-dev/MaxKB](https://github.com/1Panel-dev/MaxKB) - 🔥 MaxKB is an open-source platform for building enterprise-grade agents.  强大易用的开源企业级智能体平台。
 - [kyegomez/Med-PaLM](https://github.com/kyegomez/Med-PaLM) - Towards Generalist Biomedical AI
 - [LLMBook-zh/LLMBook-zh.github.io](https://github.com/LLMBook-zh/LLMBook-zh.github.io) - 《大语言模型》作者：赵鑫，李军毅，周昆，唐天一，文继荣
@@ -1042,7 +1041,7 @@
 - [Unleash/unleash](https://github.com/Unleash/unleash) - Open-source feature management platform
 - [ReactiveX/rxjs](https://github.com/ReactiveX/rxjs) - A reactive programming library for JavaScript
 - [liyupi/codefather](https://github.com/liyupi/codefather) - 程序员鱼皮的编程宝典 ⭐️ 2026年最全编程学习路线图！包含Java学习路线、前端学习路线、Python学习路线、C++学习路线、算法学习路线、计算机基础学习路线等。提供编程入门教程、技术知识分享、学习资源推荐、项目实战教程、热门面试题、求职经验、简历优化、编程自学指南等内容，适用于所有零基础学编程、转行程序员、计算机专业学生、求职找工作的同学 💎 编程学习，就来编程导航！
-- [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2024
+- [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2026
 - [pmndrs/valtio](https://github.com/pmndrs/valtio) - 🧙 Valtio makes proxy-state simple  for React and Vanilla
 - [typestack/class-validator](https://github.com/typestack/class-validator) - Decorator-based property validation for classes.
 - [alibaba/lightproxy](https://github.com/alibaba/lightproxy) - 💎 Cross platform Web debugging proxy
