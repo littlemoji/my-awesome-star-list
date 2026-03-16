@@ -261,6 +261,7 @@
 
 ## agent 
 
+- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with explicit control over retrieval, routing, m
 - [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) - Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behind the $2B acquisition.
 - [alibaba/page-agent](https://github.com/alibaba/page-agent) - JavaScript in-page GUI agent. Control web interfaces with natural language.
 - [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents) - 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程
@@ -274,6 +275,7 @@
 
 ## ai 
 
+- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with explicit control over retrieval, routing, m
 - [alibaba/page-agent](https://github.com/alibaba/page-agent) - JavaScript in-page GUI agent. Control web interfaces with natural language.
 - [twwch/JadeAI](https://github.com/twwch/JadeAI) - AI-Powered Smart Resume Builder — 50+ professional templates, PDF/image parsing, AI optimization, JD match analysis, multi-format export. Open source & free, one-click Docker deployment.
 - [HarlonWang/TrendingAI](https://github.com/HarlonWang/TrendingAI) - Understand GitHub Trending projects quickly with AI.（用 AI 快速读懂 GitHub Trending 项目）
@@ -641,7 +643,7 @@
 - [u-Sir/peek-pop](https://github.com/u-Sir/peek-pop) - A lightweight, open-source browser extension lets you preview, search, and save pages to read later.
 - [n4ze3m/page-assist](https://github.com/n4ze3m/page-assist) - Use your locally running AI models to assist you in your web browsing
 - [xifangczy/cat-catch](https://github.com/xifangczy/cat-catch) - 猫抓 浏览器资源嗅探扩展 / cat-catch Browser Resource Sniffing Extension
-- [extension-js/extension.js](https://github.com/extension-js/extension.js) - 🧩 The cross-browser extension framework
+- [extension-js/extension.js](https://github.com/extension-js/extension.js) - Create, develop, build, and preview browser extensions for Chrome, Firefox, Edge, and Safari.
 - [floccusaddon/floccus](https://github.com/floccusaddon/floccus) - :cloud: Sync your bookmarks privately across browsers and devices
 - [harshjv/github-repo-size](https://github.com/harshjv/github-repo-size) - 🚀 Chrome extension to display repository size on GitHub
 - [BuilderIO/figma-html](https://github.com/BuilderIO/figma-html) - Convert any website to editable Figma designs
@@ -679,7 +681,7 @@
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
 - [netlify/cli](https://github.com/netlify/cli) - Netlify Command Line Interface
 - [jarun/buku](https://github.com/jarun/buku) - :bookmark: Personal mini-web in text
-- [extension-js/extension.js](https://github.com/extension-js/extension.js) - 🧩 The cross-browser extension framework
+- [extension-js/extension.js](https://github.com/extension-js/extension.js) - Create, develop, build, and preview browser extensions for Chrome, Firefox, Edge, and Safari.
 - [version-fox/vfox](https://github.com/version-fox/vfox) - A cross-platform and extendable version manager with support for Java, Node.js, Golang, Python, Flutter, .NET & more
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
@@ -941,7 +943,7 @@
 
 ## devops 
 
-- [chaterm/Chaterm](https://github.com/chaterm/Chaterm) - AI native terminal for Cloud and Infrastructure
+- [chaterm/Chaterm](https://github.com/chaterm/Chaterm) - Open source AI native terminal for Cloud and Infrastructure
 - [Websoft9/websoft9](https://github.com/Websoft9/websoft9) - Applications self-hosting and DevOps platform for running open source, web-based linux Panel of lite PaaS
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [isno/theByteBook](https://github.com/isno/theByteBook) - ⭐ 【出版书籍】京东购买链接 https://item.jd.com/14531549.html  深入讲解内核网络、Kubernetes、ServiceMesh、容器等云原生相关技术。经历实践检验的 DevOps、SRE指南。
@@ -1169,6 +1171,7 @@
 
 ## generative-ai 
 
+- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with explicit control over retrieval, routing, m
 - [saturndec/waoowaoo](https://github.com/saturndec/waoowaoo) - 首家工业级全流程 AI 影视生产平台。Industry-first professional AI Agent platform for controllable film & video production. From shorts to live-action with Hollywood-standard workflows.
 - [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI
 
@@ -1741,6 +1744,7 @@
 
 ## llm 
 
+- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with explicit control over retrieval, routing, m
 - [cft0808/edict](https://github.com/cft0808/edict) - 🏛️ 三省六部制 · OpenClaw Multi-Agent Orchestration System — 9 specialized AI agents with real-time dashboard, model config, and full audit trails
 - [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 - [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents) - 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程
@@ -1789,6 +1793,7 @@
 
 ## machine-learning 
 
+- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with explicit control over retrieval, routing, m
 - [ItzCrazyKns/Vane](https://github.com/ItzCrazyKns/Vane) - Vane is an AI-powered answering engine.
 - [kibae/onnxruntime-server](https://github.com/kibae/onnxruntime-server) - ONNX Runtime Server: The ONNX Runtime Server is a server that provides TCP and HTTP/HTTPS REST APIs for ONNX inference.
 - [stas00/ml-engineering](https://github.com/stas00/ml-engineering) - Machine Learning Engineering Open Book
@@ -1860,6 +1865,7 @@
 
 ## mcp 
 
+- [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) - Official, Anthropic-managed directory of high quality Claude Code Plugins.
 - [sentrux/sentrux](https://github.com/sentrux/sentrux) - See what your AI agent is building. Real-time architecture visualization + structural quality scoring for AI-generated code. Pure Rust.
 - [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode, openclaw & Gemini CLI.
 - [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
@@ -1964,6 +1970,7 @@
 
 ## nlp 
 
+- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with explicit control over retrieval, routing, m
 - [google/langextract](https://github.com/google/langextract) - A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.
 - [LLMBook-zh/LLMBook-zh.github.io](https://github.com/LLMBook-zh/LLMBook-zh.github.io) - 《大语言模型》作者：赵鑫，李军毅，周昆，唐天一，文继荣
 - [luban-agi/Awesome-AIGC-Tutorials](https://github.com/luban-agi/Awesome-AIGC-Tutorials) - Curated tutorials and resources for Large Language Models, AI Painting, and more.
@@ -2133,6 +2140,7 @@
 
 ## others 
 
+- [vercel-labs/skills](https://github.com/vercel-labs/skills) - The open agent skills tool - npx skills
 - [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Agent Skills
 - [MrQianjinsi/agentic-metric](https://github.com/MrQianjinsi/agentic-metric) - A local-only monitoring tool for AI coding agents.
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
@@ -2607,6 +2615,7 @@
 
 ## python 
 
+- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with explicit control over retrieval, routing, m
 - [cft0808/edict](https://github.com/cft0808/edict) - 🏛️ 三省六部制 · OpenClaw Multi-Agent Orchestration System — 9 specialized AI agents with real-time dashboard, model config, and full audit trails
 - [google/langextract](https://github.com/google/langextract) - A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.
 - [PDFMathTranslate/PDFMathTranslate](https://github.com/PDFMathTranslate/PDFMathTranslate) - [EMNLP 2025 Demo] PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/MCP/Docker/Zotero
@@ -2660,6 +2669,7 @@
 
 ## pytorch 
 
+- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with explicit control over retrieval, routing, m
 - [eduardoleao052/js-pytorch](https://github.com/eduardoleao052/js-pytorch) - A JavaScript library like PyTorch, with GPU acceleration.
 - [stas00/ml-engineering](https://github.com/stas00/ml-engineering) - Machine Learning Engineering Open Book
 - [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
@@ -2675,6 +2685,7 @@
 
 ## rag 
 
+- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with explicit control over retrieval, routing, m
 - [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents) - 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程
 - [ItzCrazyKns/Vane](https://github.com/ItzCrazyKns/Vane) - Vane is an AI-powered answering engine.
 - [neovateai/petercat](https://github.com/neovateai/petercat) - A conversational Q&A agent configuration system, self-hosted deployment solutions, and a convenient all-in-one application SDK, allowing you to create intelligent Q&A bots for your GitHub repositories
@@ -2702,7 +2713,7 @@
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.
 - [carlosjorger/fluid-dnd](https://github.com/carlosjorger/fluid-dnd) - A drag and drop🤜🫳library for Vue🌿, React⚛️ and Svelte🚘
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
-- [extension-js/extension.js](https://github.com/extension-js/extension.js) - 🧩 The cross-browser extension framework
+- [extension-js/extension.js](https://github.com/extension-js/extension.js) - Create, develop, build, and preview browser extensions for Chrome, Firefox, Edge, and Safari.
 - [tsparticles/tsparticles](https://github.com/tsparticles/tsparticles) - tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use component
 - [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
 - [zh-lx/code-inspector](https://github.com/zh-lx/code-inspector) - 🚀 Click the dom to open your IDE and position the cursor at dom's source code location! 点击页面 dom 来打开 IDE 并将光标自动定位到源代码位置!
@@ -2857,7 +2868,7 @@
 ## security 
 
 - [sheeki03/tirith](https://github.com/sheeki03/tirith) - Your browser catches homograph attacks. Your terminal doesn't. Tirith guards the gate and intercepts suspicious URLs, ANSI injection, and pipe-to-shell attacks before they execute.
-- [chaterm/Chaterm](https://github.com/chaterm/Chaterm) - AI native terminal for Cloud and Infrastructure
+- [chaterm/Chaterm](https://github.com/chaterm/Chaterm) - Open source AI native terminal for Cloud and Infrastructure
 - [chaitin/SafeLine](https://github.com/chaitin/SafeLine) - SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits.
 - [VKSRC/Github-Monitor](https://github.com/VKSRC/Github-Monitor) - Github Sensitive Information Leakage Monitor(Github信息泄漏监控系统)
 - [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
@@ -2978,7 +2989,7 @@
 
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
 - [carlosjorger/fluid-dnd](https://github.com/carlosjorger/fluid-dnd) - A drag and drop🤜🫳library for Vue🌿, React⚛️ and Svelte🚘
-- [extension-js/extension.js](https://github.com/extension-js/extension.js) - 🧩 The cross-browser extension framework
+- [extension-js/extension.js](https://github.com/extension-js/extension.js) - Create, develop, build, and preview browser extensions for Chrome, Firefox, Edge, and Safari.
 - [tsparticles/tsparticles](https://github.com/tsparticles/tsparticles) - tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use component
 - [BuilderIO/mitosis](https://github.com/BuilderIO/mitosis) - Write components once, run everywhere. Compiles to React, Vue, Qwik, Solid, Angular, Svelte, and more.
 - [BuilderIO/figma-html](https://github.com/BuilderIO/figma-html) - Convert any website to editable Figma designs
@@ -3045,7 +3056,7 @@
 
 - [surge-downloader/Surge](https://github.com/surge-downloader/Surge) - Blazing fast TUI download manager built in Go for power users
 - [sheeki03/tirith](https://github.com/sheeki03/tirith) - Your browser catches homograph attacks. Your terminal doesn't. Tirith guards the gate and intercepts suspicious URLs, ANSI injection, and pipe-to-shell attacks before they execute.
-- [chaterm/Chaterm](https://github.com/chaterm/Chaterm) - AI native terminal for Cloud and Infrastructure
+- [chaterm/Chaterm](https://github.com/chaterm/Chaterm) - Open source AI native terminal for Cloud and Infrastructure
 - [Guake/guake](https://github.com/Guake/guake) - Drop-down terminal for GNOME
 - [Canop/bacon](https://github.com/Canop/bacon) - background code checker
 - [jarun/buku](https://github.com/jarun/buku) - :bookmark: Personal mini-web in text
@@ -3097,7 +3108,7 @@
 - [mfts/papermark](https://github.com/mfts/papermark) - Papermark is the open-source DocSend alternative with built-in analytics and custom domains.
 - [carlosjorger/fluid-dnd](https://github.com/carlosjorger/fluid-dnd) - A drag and drop🤜🫳library for Vue🌿, React⚛️ and Svelte🚘
 - [taskforcesh/bullmq](https://github.com/taskforcesh/bullmq) - BullMQ - Message Queue and Batch processing for NodeJS, Python, Elixir and PHP based on Redis
-- [extension-js/extension.js](https://github.com/extension-js/extension.js) - 🧩 The cross-browser extension framework
+- [extension-js/extension.js](https://github.com/extension-js/extension.js) - Create, develop, build, and preview browser extensions for Chrome, Firefox, Edge, and Safari.
 - [elysiajs/elysia](https://github.com/elysiajs/elysia) - Ergonomic Framework for Humans
 - [honojs/hono](https://github.com/honojs/hono) - Web framework built on Web Standards
 - [dromara/newcar](https://github.com/dromara/newcar) - 🖌️ [WIP] Modern JavaScript Canvas Library
@@ -3212,7 +3223,7 @@
 - [didi/mpx](https://github.com/didi/mpx) - Mpx，一款具有优秀开发体验和深度性能优化的增强型跨端小程序框架
 - [simonwep/viselect](https://github.com/simonwep/viselect) - ✨ Viselect - A high performance and lightweight library to add a visual way of selecting elements, just like on your Desktop. Zero dependencies, super small. Support for major frameworks!
 - [carlosjorger/fluid-dnd](https://github.com/carlosjorger/fluid-dnd) - A drag and drop🤜🫳library for Vue🌿, React⚛️ and Svelte🚘
-- [extension-js/extension.js](https://github.com/extension-js/extension.js) - 🧩 The cross-browser extension framework
+- [extension-js/extension.js](https://github.com/extension-js/extension.js) - Create, develop, build, and preview browser extensions for Chrome, Firefox, Edge, and Safari.
 - [tsparticles/tsparticles](https://github.com/tsparticles/tsparticles) - tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use component
 - [pages-cms/pages-cms](https://github.com/pages-cms/pages-cms) - The No-Hassle CMS for Static Sites Generators
 - [zh-lx/code-inspector](https://github.com/zh-lx/code-inspector) - 🚀 Click the dom to open your IDE and position the cursor at dom's source code location! 点击页面 dom 来打开 IDE 并将光标自动定位到源代码位置!
