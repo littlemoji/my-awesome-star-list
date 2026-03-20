@@ -698,7 +698,7 @@
 
 ## cms 
 
-- [pages-cms/pages-cms](https://github.com/pages-cms/pages-cms) - The No-Hassle CMS for Static Sites Generators
+- [pages-cms/pages-cms](https://github.com/pages-cms/pages-cms) - The simplest CMS you'll ever need. Manage content and media right in your GitHub repository.
 
 ## code 
 
@@ -1293,6 +1293,7 @@
 
 ## hacktoberfest 
 
+- [surge-downloader/Surge](https://github.com/surge-downloader/Surge) - Blazing fast TUI download manager built in Go for power users
 - [TheOdinProject/css-exercises](https://github.com/TheOdinProject/css-exercises) - 
 - [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
 - [Guake/guake](https://github.com/Guake/guake) - Drop-down terminal for GNOME
@@ -1608,7 +1609,7 @@
 
 ## jekyll 
 
-- [pages-cms/pages-cms](https://github.com/pages-cms/pages-cms) - The No-Hassle CMS for Static Sites Generators
+- [pages-cms/pages-cms](https://github.com/pages-cms/pages-cms) - The simplest CMS you'll ever need. Manage content and media right in your GitHub repository.
 
 ## jenkins 
 
@@ -1958,7 +1959,7 @@
 - [mfts/papermark](https://github.com/mfts/papermark) - Papermark is the open-source DocSend alternative with built-in analytics and custom domains.
 - [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 - [hehehai/x-hiring](https://github.com/hehehai/x-hiring) - 🤗 每日最新招聘信息，使用 Google AI 提取摘要
-- [pages-cms/pages-cms](https://github.com/pages-cms/pages-cms) - The No-Hassle CMS for Static Sites Generators
+- [pages-cms/pages-cms](https://github.com/pages-cms/pages-cms) - The simplest CMS you'll ever need. Manage content and media right in your GitHub repository.
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
 - [sparrow-js/an-codeAI](https://github.com/sparrow-js/an-codeAI) - AI generate code
 - [ZiYi0414/handsome-css3-lib](https://github.com/ZiYi0414/handsome-css3-lib) - Amazingly handsome Open-Source UI components made with HTML and CSS. Collection of very handsome CSS animations and special effects on the Internet（在网上收集各种帅气的CSS3特效和动画，按钮标题等各种好玩酷炫的特效组件，网站主旨在于收集网上仅靠 CS
@@ -2141,6 +2142,7 @@
 
 ## others 
 
+- [Sobranier/openclaw-cli](https://github.com/Sobranier/openclaw-cli) - 
 - [vercel-labs/skills](https://github.com/vercel-labs/skills) - The open agent skills tool - npx skills
 - [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Agent Skills
 - [MrQianjinsi/agentic-metric](https://github.com/MrQianjinsi/agentic-metric) - A local-only monitoring tool for AI coding agents.
@@ -3226,7 +3228,7 @@
 - [carlosjorger/fluid-dnd](https://github.com/carlosjorger/fluid-dnd) - A drag and drop🤜🫳library for Vue🌿, React⚛️ and Svelte🚘
 - [extension-js/extension.js](https://github.com/extension-js/extension.js) - The cross-browser extension framework.
 - [tsparticles/tsparticles](https://github.com/tsparticles/tsparticles) - tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use component
-- [pages-cms/pages-cms](https://github.com/pages-cms/pages-cms) - The No-Hassle CMS for Static Sites Generators
+- [pages-cms/pages-cms](https://github.com/pages-cms/pages-cms) - The simplest CMS you'll ever need. Manage content and media right in your GitHub repository.
 - [zh-lx/code-inspector](https://github.com/zh-lx/code-inspector) - 🚀 Click the dom to open your IDE and position the cursor at dom's source code location! 点击页面 dom 来打开 IDE 并将光标自动定位到源代码位置!
 - [huanglishi/GoFlyAdmin](https://github.com/huanglishi/GoFlyAdmin) - GoFly快速开发框架基于Gin快速开发框架，能快速搭建应用、框架底层完善、丰富代码仓插件、快速开发数据大屏、物联网平台、OA流程审批、工作流引擎、商城、微信管理后台等。api文档管理并一键生成api接口代码，一键生成 CRUD前后端代码丰富组件，基于 Gin和 Vue3的Arco Design的快速后台开发框架，基于JWT接口验证和Auth验证的权限管理系统,附件管理系统，天生支持saas架构。
 - [BuilderIO/mitosis](https://github.com/BuilderIO/mitosis) - Write components once, run everywhere. Compiles to React, Vue, Qwik, Solid, Angular, Svelte, and more.
@@ -3280,7 +3282,7 @@
 
 - [WINBIGFOX/TimeScribe](https://github.com/WINBIGFOX/TimeScribe) - Modern & private time tracking for macOS & Windows. No cloud, no registration, no paywall. Just download and track your work hours 100% offline.
 - [TeamPiped/Piped](https://github.com/TeamPiped/Piped) - An alternative privacy-friendly YouTube frontend which is efficient by design.
-- [pages-cms/pages-cms](https://github.com/pages-cms/pages-cms) - The No-Hassle CMS for Static Sites Generators
+- [pages-cms/pages-cms](https://github.com/pages-cms/pages-cms) - The simplest CMS you'll ever need. Manage content and media right in your GitHub repository.
 - [sudheerj/vuejs-interview-questions](https://github.com/sudheerj/vuejs-interview-questions) - List of 300 VueJS Interview Questions And Answers
 - [jaywcjlove/reference](https://github.com/jaywcjlove/reference) - 面向开发者的技术速查清单（Cheat Sheets）集合，整理常见技术、工具与开发流程，帮助快速查阅关键信息，提高开发效率。
 - [vuejs/babel-plugin-jsx](https://github.com/vuejs/babel-plugin-jsx) - JSX for Vue 3
