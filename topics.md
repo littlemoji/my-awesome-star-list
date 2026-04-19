@@ -2319,7 +2319,7 @@
 - [sisterAn/blog](https://github.com/sisterAn/blog) - 瓶博：每日更新，前端前进
 - [devv-ai/devv](https://github.com/devv-ai/devv) - An AI-powered search engine for developers.
 - [saveweb/review-2023](https://github.com/saveweb/review-2023) - 二〇二三年的年终总结都写好了吗？
-- [css-hooks/css-hooks](https://github.com/css-hooks/css-hooks) - Hook into advanced CSS features from native inline styles.
+- [css-hooks/css-hooks](https://github.com/css-hooks/css-hooks) - The styling system that gives native inline styles pseudo-classes, media queries, container queries, feature queries, and selector logic.
 - [lukeed/clsx](https://github.com/lukeed/clsx) - A tiny (239B) utility for constructing `className` strings conditionally.
 - [Simon-He95/common-intellisense](https://github.com/Simon-He95/common-intellisense) - Universal Component Intellisense for Any Frameworks
 - [yanggggjie/rising-repo](https://github.com/yanggggjie/rising-repo) - 
