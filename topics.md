@@ -679,6 +679,7 @@
 
 ## claude-code 
 
+- [tw93/Waza](https://github.com/tw93/Waza) - 🥷 Engineering habits you already know, turned into skills Claude can run.
 - [openedclaude/claude-reviews-claude](https://github.com/openedclaude/claude-reviews-claude) - Claude reads its own source code — 17-chapter architectural deep-dive  into Claude Code v2.1.88. EN/ZH bilingual.
 - [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) - Official, Anthropic-managed directory of high quality Claude Code Plugins.
 - [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms
@@ -935,6 +936,7 @@
 
 ## design 
 
+- [tw93/Waza](https://github.com/tw93/Waza) - 🥷 Engineering habits you already know, turned into skills Claude can run.
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [oldratlee/translations](https://github.com/oldratlee/translations) - 🐼  Chinese translations for classic software development resources
 - [a11y-team/awesome-a11y-cn](https://github.com/a11y-team/awesome-a11y-cn) - 无障碍知识库，来自公众号「无障碍设计小组」讨论群，知乎专栏「无障碍，是每个人都被世界善待」https://www.zhihu.com/column/a11y-ux
@@ -2181,6 +2183,7 @@
 
 ## others 
 
+- [debugtheworldbot/msync](https://github.com/debugtheworldbot/msync) - Sync Claude Code memories to Claude clients (claude.ai / Claude App)
 - [Lebski/Claude-Code-Controller](https://github.com/Lebski/Claude-Code-Controller) - 
 - [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc) - Use Codex from Claude Code to review code or delegate tasks.
 - [wxtsky/CodeIsland](https://github.com/wxtsky/CodeIsland) - 
@@ -2491,7 +2494,7 @@
 - [stephentian/33-js-concepts](https://github.com/stephentian/33-js-concepts) - :scroll: 每个 JavaScript 工程师都应懂的33个概念 @leonardomso
 - [DIYgod/Resume](https://github.com/DIYgod/Resume) - :cake: Simple resume
 - [carlleton/reactjs101](https://github.com/carlleton/reactjs101) - 从零开始学 ReactJS（ReactJS 101）是一本希望让初学者一看就懂的 ReactJS 中文入门教学书，由浅入深学习 ReactJS 生态系 (Flux, Redux, React Router, ImmutableJS, React Native, Relay/GraphQL etc.)。该分支为转码简体中文版
-- [ringcrl/node-point](https://github.com/ringcrl/node-point) - 构建自己的 NodeJS 知识体系
+- [saga-playground/node-point](https://github.com/saga-playground/node-point) - 构建自己的 NodeJS 知识体系
 - [HIT-Alibaba/interview](https://github.com/HIT-Alibaba/interview) - 笔试面试知识整理
 - [iv-web/ppts](https://github.com/iv-web/ppts) - 团队对外分享ppt
 - [chinanf-boy/react-from-zero](https://github.com/chinanf-boy/react-from-zero) - 🇨🇳翻译: React 简单 (至少99% ES2015 ) 例子🌰 ❤ 校对 ✔
