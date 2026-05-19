@@ -234,7 +234,7 @@
 - [xstongxue/best-skills](https://github.com/xstongxue/best-skills) - 通用高质量 Skills 合集🔥
 - [krisk/Fuse](https://github.com/krisk/Fuse) - Lightweight fuzzy-search, in JavaScript
 - [nextapps-de/flexsearch](https://github.com/nextapps-de/flexsearch) - Next-generation full-text search library for Browser and Node.js
-- [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+- [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 - [toon-format/spec](https://github.com/toon-format/spec) - Official specification for Token-Oriented Object Notation (TOON)
 - [bywwcnll/StreamPanel](https://github.com/bywwcnll/StreamPanel) - Stream Panel 是一个 Chrome DevTools 扩展，允许开发者实时监控和检查流式请求。它支持 服务器发送事件 (SSE) 和 基于 Fetch 的流式连接，是调试流式 API 和查看实时数据推送的必备工具。
 - [u-Sir/peek-pop](https://github.com/u-Sir/peek-pop) - Instantly preview links with a simple double-click, without breaking your workflow.
