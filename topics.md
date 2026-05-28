@@ -1510,6 +1510,7 @@
 
 ## javascript 
 
+- [chengzuopeng/stock-sdk](https://github.com/chengzuopeng/stock-sdk) - 为前端设计的无需 Python、无需后端服务的获取股票数据 JavaScript SDK。
 - [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless rich text editor framework for web artisans.
 - [Milkdown/milkdown](https://github.com/Milkdown/milkdown) - 🍼 Plugin driven WYSIWYG  markdown editor framework.
 - [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
@@ -2423,7 +2424,6 @@
 - [justinyhuang/Functional-Programming-For-The-Rest-of-Us-Cn](https://github.com/justinyhuang/Functional-Programming-For-The-Rest-of-Us-Cn) - 文章《Functional Programming For The Rest of Us》的中文翻译
 - [DeathKing/Learning-SICP](https://github.com/DeathKing/Learning-SICP) - MIT视频公开课《计算机程序的构造和解释》中文化项目及课程学习资料搜集。
 - [jwasham/computer-science-flash-cards](https://github.com/jwasham/computer-science-flash-cards) - Mini website for testing both general CS knowledge and enforce coding practice and common algorithm/data structure memorization.
-- [lTbgykio/Books-Free-Books](https://github.com/lTbgykio/Books-Free-Books) - 免费书籍汇总。　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
 - [iamkun/dayjs](https://github.com/iamkun/dayjs) - ⏰ Day.js 2kB immutable date-time library alternative to Moment.js with the same modern API
 - [whistle-plugins/whistle.vase](https://github.com/whistle-plugins/whistle.vase) - 用于 mock 数据的 whistle 插件
 - [whistle-plugins/whistle.script](https://github.com/whistle-plugins/whistle.script) - Custom extension script for whistle
