@@ -227,7 +227,6 @@
 - [Anuken/Mindustry](https://github.com/Anuken/Mindustry) - The automation tower defense RTS
 - [SonarSource/sonar-java](https://github.com/SonarSource/sonar-java) - :coffee: SonarSource Static Analyzer for Java Code Quality and Security
 - [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现
-- [GrowingGit/GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts) - :cn: GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。
 - [giuseppeangri/steganographyWebApp](https://github.com/giuseppeangri/steganographyWebApp) - Web Application for Image Steganography using F5 or LSB algorithms
 
 ## JavaScript 
@@ -718,7 +717,7 @@
 
 - [opensquilla/opensquilla](https://github.com/opensquilla/opensquilla) - OpenSquilla — Token-Efficient AI Agent with same budget, higher intelligence density
 - [modelscope/FunASR](https://github.com/modelscope/FunASR) - Industrial-grade speech recognition toolkit: 170x realtime, 50+ languages, speaker diarization, emotion detection, streaming, and OpenAI-compatible API.
-- [modelscope/FunClip](https://github.com/modelscope/FunClip) - Open-source, accurate and easy-to-use video speech recognition & clipping tool. LLM-based AI clipping integrated.
+- [modelscope/FunClip](https://github.com/modelscope/FunClip) - FunASR-powered video transcription, subtitle generation, and LLM-assisted clipping tool with a local Gradio UI.
 - [kyegomez/OpenMythos](https://github.com/kyegomez/OpenMythos) - A theoretical reconstruction of the Claude Mythos architecture, built from first principles using the available research literature.
 - [FlagOpen/FlagEmbedding](https://github.com/FlagOpen/FlagEmbedding) - Retrieval and Retrieval-augmented LLMs
 - [tw93/Waza](https://github.com/tw93/Waza) - 🥷 Engineering habits you already know, turned into skills Claude can run.
@@ -1125,7 +1124,7 @@
 - [Oxygem/Kanmail](https://github.com/Oxygem/Kanmail) - 📥 Turn your inbox into a kanban board.
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
 - [rubickCenter/rubick](https://github.com/rubickCenter/rubick) - 🔧  Electron based open source toolbox, free integration of rich plug-ins. 基于 electron 的开源工具箱，自由集成丰富插件。
-- [labring/sealos](https://github.com/labring/sealos) - Sealos is an AI-native Cloud Operating System built on Kubernetes that unifies the entire application lifecycle, from development in cloud IDEs to production deployment and management. It is perfect f
+- [labring/sealos](https://github.com/labring/sealos) - Sealos is an AI-native Cloud Operating System that unifies the entire application lifecycle, from development in cloud IDEs to production deployment and management. It is perfect for building and scal
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
 - [joethei/obsidian-link-favicon](https://github.com/joethei/obsidian-link-favicon) - See the favicon for a linked website.
 - [web-infra-dev/modern.js](https://github.com/web-infra-dev/modern.js) - A progressive web framework based on React and Rsbuild.
