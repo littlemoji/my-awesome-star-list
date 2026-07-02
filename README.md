@@ -732,7 +732,7 @@
 - [ylxmf2005/swcc](https://github.com/ylxmf2005/swcc) - 🇨🇳 SWCC — Democratic Centralism Multi-Agent Orchestration for Claude Code (民主集中制多智能体编排)
 - [cft0808/edict](https://github.com/cft0808/edict) - 🏛️ 三省六部制 · OpenClaw Multi-Agent Orchestration System — 9 specialized AI agents with real-time dashboard, model config, and full audit trails
 - [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents) - 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程
-- [WooHooDai/linkding-cn](https://github.com/WooHooDai/linkding-cn) - 基于 linkding 二次开发增强的自托管书签管理器。内置简体中文🇨🇳/English支持，提供收藏数据看板（热力图🔥/日历图📅）、回收站♻️、自定义元数据&快照爬取脚本🐞等功能，对界面、搜索、筛选、排序、过滤器等进行了大量优化。
+- [WooHooDai/linkding-cn](https://github.com/WooHooDai/linkding-cn) - 开源、自托管的网页管理&阅读工具（书签管理器 + 稍后读工具），基于 linkding 二次开发。支持高亮批注、收藏数据看板、随机列表、自定义快照爬取脚本等特有功能。
 - [google/langextract](https://github.com/google/langextract) - A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.
 - [Usagi-org/ai-goofish-monitor](https://github.com/Usagi-org/ai-goofish-monitor) - 基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。
 - [karminski/one-small-step](https://github.com/karminski/one-small-step) - 这是一个简单的技术科普教程项目，主要聚焦于解释一些有趣的，前沿的技术概念和原理。每篇文章都力求在 5 分钟内阅读完成。
