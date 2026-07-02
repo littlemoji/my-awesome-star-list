@@ -136,6 +136,7 @@
 - [languages](#languages)
 - [laravel](#laravel)
 - [latex](#latex)
+- [learn-to-code](#learn-to-code)
 - [learning](#learning)
 - [library](#library)
 - [linux](#linux)
@@ -1770,6 +1771,14 @@
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 - [dyweb/awesome-resume-for-chinese](https://github.com/dyweb/awesome-resume-for-chinese) - :page_facing_up: 适合中文的简历模板收集（LaTeX，HTML/JS and so on）由 @hoochanlon 维护
 
+## learn-to-code 
+
+- [icopy-site/awesome-cn](https://github.com/icopy-site/awesome-cn) - 超赞列表合集
+- [inancgumus/learngo](https://github.com/inancgumus/learngo) - ❤️ 1000+ Hand-Crafted Go Examples, Exercises, and Quizzes. 🚀 Learn Go by fixing 1000+ tiny programs.
+- [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
+- [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series (2 published editions) on the JS language.
+- [Chalarangelo/30-seconds-of-css](https://github.com/Chalarangelo/30-seconds-of-css) - Short CSS code snippets for all your development needs
+
 ## learning 
 
 - [sunface/rust-by-practice](https://github.com/sunface/rust-by-practice) - Learning Rust By Practice,  narrowing the gap between beginner and skilled-dev through challenging examples, exercises and projects.
@@ -2279,7 +2288,7 @@
 - [LingyiChen-AI/DeepDiagram](https://github.com/LingyiChen-AI/DeepDiagram) - An open-source AI visualization tool that transforms natural language into Mind Maps, Mermaid diagrams, and Echarts. Turn your ideas into structured visuals instantly.
 - [TangSY/edge-next-starter](https://github.com/TangSY/edge-next-starter) - An out‑of‑the‑box Next.js + Cloudflare full‑stack starter integrating Edge Runtime, D1 database, R2 storage, KV cache, Analytics Engine hooks, and a complete CI/CD pipeline.一个开箱即用的 Next.js + Cloudflar
 - [a2ui-project/a2ui](https://github.com/a2ui-project/a2ui) - 
-- [WooHooDai/linkding-cn](https://github.com/WooHooDai/linkding-cn) - 基于 linkding 二次开发增强的自托管书签管理器。内置简体中文🇨🇳/English支持，提供收藏数据看板（热力图🔥/日历图📅）、回收站♻️、自定义元数据&快照爬取脚本🐞等功能，对界面、搜索、筛选、排序、过滤器等进行了大量优化。
+- [WooHooDai/linkding-cn](https://github.com/WooHooDai/linkding-cn) - 开源、自托管的网页管理&阅读工具（书签管理器 + 稍后读工具），基于 linkding 二次开发。支持高亮批注、收藏数据看板、随机列表、自定义快照爬取脚本等特有功能。
 - [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful
 - [steveklabnik/jujutsu-tutorial](https://github.com/steveklabnik/jujutsu-tutorial) - trying to figure out this jujutsu thing
 - [fenxer/llm-things](https://github.com/fenxer/llm-things) - A collection of LLM memes
