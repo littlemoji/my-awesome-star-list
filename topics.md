@@ -492,6 +492,7 @@
 - [ZiYi0414/handsome-css3-lib](https://github.com/ZiYi0414/handsome-css3-lib) - Amazingly handsome Open-Source UI components made with HTML and CSS. Collection of very handsome CSS animations and special effects on the Internet（在网上收集各种帅气的CSS3特效和动画，按钮标题等各种好玩酷炫的特效组件，网站主旨在于收集网上仅靠 CS
 - [howie6879/weekly](https://github.com/howie6879/weekly) - 老胡的信息技术周刊❤️记录我本周看到的有价值的信息，针对优秀项目、软件、教程资料、网站等。
 - [luban-agi/Awesome-AIGC-Tutorials](https://github.com/luban-agi/Awesome-AIGC-Tutorials) - Curated tutorials and resources for Large Language Models, AI Painting, and more.
+- [yudataguy/awesome-japanese](https://github.com/yudataguy/awesome-japanese) - Awesome Japanese Learning Resources
 - [dlepaux/realtime-bpm-analyzer](https://github.com/dlepaux/realtime-bpm-analyzer) - Library using WebAudioAPI to analyse BPM from files, audionodes. It's also able to compute BPM from streams as well as realtime using a microphone. This tool might be useful for music producers and DJ
 - [lucasfloriani/awesome-code-streamers](https://github.com/lucasfloriani/awesome-code-streamers) - List of code streamers from multiples plataforms like Twitch, Youtube, etc
 - [taowen/awesome-lowcode](https://github.com/taowen/awesome-lowcode) - 国内低代码平台从业者交流
@@ -531,6 +532,7 @@
 - [maguowei/starred](https://github.com/maguowei/starred) - Create and maintain your own Awesome-style list from GitHub stars!
 - [icopy-site/awesome-cn](https://github.com/icopy-site/awesome-cn) - 超赞列表合集
 - [opsre/awesome-ops](https://github.com/opsre/awesome-ops) - 🧰 记录每一个与运维相关的优秀项目，⚗️ 项目内表格通过 GitHub Action 自动生成，📥 当前收录项目 652 个。
+- [yudataguy/awesome-japanese](https://github.com/yudataguy/awesome-japanese) - Awesome Japanese Learning Resources
 - [lucasfloriani/awesome-code-streamers](https://github.com/lucasfloriani/awesome-code-streamers) - List of code streamers from multiples plataforms like Twitch, Youtube, etc
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [ossu/computer-science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science!
@@ -2440,7 +2442,6 @@
 - [qinjx/30min_guides](https://github.com/qinjx/30min_guides) - 覃健祥的学习笔记，各种几十分钟入门的文档
 - [themsaid/ibis](https://github.com/themsaid/ibis) - A PHP tool that helps you write eBooks in markdown and convert to PDF.
 - [lizrice/ebpf-beginners](https://github.com/lizrice/ebpf-beginners) - The beginner's guide to eBPF
-- [yudataguy/Awesome-Japanese](https://github.com/yudataguy/Awesome-Japanese) - Awesome Japanese Learning Resources
 - [wizicer/LearnJapan](https://github.com/wizicer/LearnJapan) - Notebook of my learning of Japanese based on 新版中日交流标准日本语教程（标日）
 - [glennsantos/senior-developer-roadmap](https://github.com/glennsantos/senior-developer-roadmap) - Senior Developer Roadmap, skills and traits developers need to advance to a senior position.
 - [initml/clipdrop-api-samples](https://github.com/initml/clipdrop-api-samples) - Public samples using the ClipDrop API
