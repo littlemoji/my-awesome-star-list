@@ -261,6 +261,7 @@
 - [webpack](#webpack)
 - [website](#website)
 - [windows](#windows)
+- [workflow](#workflow)
 - [xcode](#xcode)
 - [xml](#xml)
 - [youtube](#youtube)
@@ -3568,6 +3569,13 @@
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows) - A node.js version management utility for Windows. Ironically written in Go.
 - [rabbitstack/fibratus](https://github.com/rabbitstack/fibratus) - Adversary tradecraft detection, protection, and hunting
+
+## workflow 
+
+- [labring/FastGPT](https://github.com/labring/FastGPT) - FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letti
+- [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) - Connect APIs, remarkably fast.  Free for developers.
+- [ruyadorno/ntl](https://github.com/ruyadorno/ntl) - Node Task List: Interactive cli to list and run package.json scripts
+- [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
 
 ## xcode 
 
