@@ -328,6 +328,7 @@
 - [GoogTech/blog](https://github.com/GoogTech/blog) - ✍ 日常博客：分享日常生活、想法、经验...
 - [ivogabe/gulp-typescript](https://github.com/ivogabe/gulp-typescript) - A TypeScript compiler for gulp with incremental compilation support.
 - [rvagg/through2](https://github.com/rvagg/through2) - Tiny wrapper around Node streams2 Transform to avoid explicit subclassing noise
+- [svg/svgo](https://github.com/svg/svgo) - SVG Optimizer for Node.js and CLI. ⚙️
 - [rgrove/parse-xml](https://github.com/rgrove/parse-xml) - A fast, safe, compliant XML parser for Node.js and browsers.
 - [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic SVG, font, and CSS toolkit
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for saving a faithful copy of a complete web page in a single HTML file
