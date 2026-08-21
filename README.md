@@ -678,7 +678,6 @@
 - [justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) - :books: 免费的计算机编程类中文书籍，欢迎投稿
 - [izackwu/TeachYourselfCS-CN](https://github.com/izackwu/TeachYourselfCS-CN) - TeachYourselfCS 的中文翻译 |  A Chinese translation of TeachYourselfCS
 - [liuyubobobo/ai-learning-roadmap](https://github.com/liuyubobobo/ai-learning-roadmap) - Ai Learning Roadmap based on lots of open course sources and book materials. 我总结的 AI 学习路径。
-- [selierlin/Share-SSR-V2ray](https://github.com/selierlin/Share-SSR-V2ray) - 机场推荐/SSR V2ray节点订阅机场/镜像直连/工具推荐
 - [amdjs/amdjs-api](https://github.com/amdjs/amdjs-api) - Houses the Asynchronous Module Definition API
 - [datawhalechina/pumpkin-book](https://github.com/datawhalechina/pumpkin-book) - 南瓜书：《机器学习》（西瓜书）公式详解
 - [freefq/free](https://github.com/freefq/free) - 翻墙、免费翻墙、免费科学上网、免费节点、免费梯子、免费ss/v2ray/trojan节点、蓝灯、谷歌商店、翻墙梯子
@@ -814,6 +813,7 @@
 - [0voice/interview_internal_reference](https://github.com/0voice/interview_internal_reference) - 2025年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总。
 - [gregmalcolm/python_koans](https://github.com/gregmalcolm/python_koans) - Python Koans - Learn Python through TDD
 - [rmax/scrapy-redis](https://github.com/rmax/scrapy-redis) - Redis-based components for Scrapy.
+- [selierlin/Share-SSR-V2ray](https://github.com/selierlin/Share-SSR-V2ray) - 机场推荐、Clash / V2ray 客户端配置与代理工具指南
 - [Kr1s77/Python-crawler-tutorial-starts-from-zero](https://github.com/Kr1s77/Python-crawler-tutorial-starts-from-zero) - python爬虫教程，带你从零到一，包含js逆向，selenium, tesseract OCR识别,mongodb的使用，以及scrapy框架
 - [Kr1s77/awesome-python-login-model](https://github.com/Kr1s77/awesome-python-login-model) - 😮python模拟登陆一些大型网站，还有一些简单的爬虫，希望对你们有所帮助❤️，如果喜欢记得给个star哦🌟
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - The definitive list that answers "I want to do X in Python, which tool should I use?"
