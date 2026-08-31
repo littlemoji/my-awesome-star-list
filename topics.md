@@ -2601,7 +2601,6 @@
 - [qiniu/js-sdk](https://github.com/qiniu/js-sdk) - Qiniu Cloud JavaScript SDK
 - [homerchen19/github-file-icons](https://github.com/homerchen19/github-file-icons) - 🌈 🗂 A browser extension which gives different filetypes different icons to GitHub, GitLab, gitea and gogs.
 - [aykutkardas/regexlearn.com](https://github.com/aykutkardas/regexlearn.com) - Learn RegEx step by step, from zero to advanced.
-- [remix-run/remix](https://github.com/remix-run/remix) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
 - [Rob--W/cors-anywhere](https://github.com/Rob--W/cors-anywhere) - CORS Anywhere is a NodeJS reverse proxy which adds CORS headers to the proxied request.
 - [huihongxiao/MIT6.S081](https://github.com/huihongxiao/MIT6.S081) - 
 - [TheWidlarzGroup/react-native-video](https://github.com/TheWidlarzGroup/react-native-video) - A &lt;Video /&gt; component for react-native
@@ -3563,6 +3562,7 @@
 - [authpass/authpass](https://github.com/authpass/authpass) - AuthPass - Password Manager based on Flutter for all platforms. Keepass 2.x (KDBX 3 and KDBX 4) compatible.
 - [web-infra-dev/modern.js](https://github.com/web-infra-dev/modern.js) - A progressive web framework based on React and Rsbuild.
 - [UniKylin/FrontendWeekly](https://github.com/UniKylin/FrontendWeekly) - Frontend Weekly
+- [remix-run/remix](https://github.com/remix-run/remix) - The fully-stacked web framework
 - [zhaoqize/puppeteer-api-zh_CN](https://github.com/zhaoqize/puppeteer-api-zh_CN) - 📖 Puppeteer中文文档（官方指定的中文文档）
 - [aliyunfe/weekly](https://github.com/aliyunfe/weekly) - 《阿里云前端技术周刊》
 - [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
@@ -3579,6 +3579,7 @@
 ## web-development 
 
 - [thedaviddias/Front-End-Performance-Checklist](https://github.com/thedaviddias/Front-End-Performance-Checklist) - 🎮 The only Front-End Performance Checklist that runs faster than the others
+- [remix-run/remix](https://github.com/remix-run/remix) - The fully-stacked web framework
 - [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The essential checklist for modern web development, for humans and AI agents
 
 ## webapp 
