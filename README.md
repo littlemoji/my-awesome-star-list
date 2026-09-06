@@ -968,7 +968,7 @@
 - [a2ui-project/a2ui](https://github.com/a2ui-project/a2ui) - 
 - [YouMind-OpenLab/awesome-nano-banana-pro-prompts](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts) - 🍌 World's largest Nano Banana Pro prompt library — 10,000+ curated prompts with preview images, 16 languages. Google Gemini AI image generation. Free & open source.
 - [highlight/highlight](https://github.com/highlight/highlight) - highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging, distributed tracing, and more.
-- [Warma10032/VideoAdGuard](https://github.com/Warma10032/VideoAdGuard) - 哔哩哔哩浏览器插件：基于大语言模型，对B站视频中的植入广告进行检测。一键跳过视频中的植入/口播广告。
+- [ZeroTang05/VideoAdGuard](https://github.com/ZeroTang05/VideoAdGuard) - 哔哩哔哩浏览器插件：基于大语言模型，对B站视频中的植入广告进行检测。一键跳过视频中的植入/口播广告。
 - [image-js/image-js](https://github.com/image-js/image-js) - Image processing and manipulation in JavaScript
 - [sindresorhus/type-fest](https://github.com/sindresorhus/type-fest) - A collection of essential TypeScript types
 - [sindresorhus/ky](https://github.com/sindresorhus/ky) - 🌳 Tiny & elegant JavaScript HTTP client based on the Fetch API
@@ -1041,7 +1041,7 @@
 - [hacxy/l2d-widget](https://github.com/hacxy/l2d-widget) - Drop a Live2D character onto any web page. One function call, zero framework dependencies.
 - [web-infra-dev/rsdoctor](https://github.com/web-infra-dev/rsdoctor) - AI-friendly build analyzer for Rspack
 - [lissy93/web-check](https://github.com/lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
-- [FluentRead/FluentRead](https://github.com/FluentRead/FluentRead) - An open-source browser extension for bilingual webpages, instant selection translation, and flexible translation services. 一款开源浏览器翻译插件，提供网页双语阅读、即时划词翻译和灵活的翻译服务配置。
+- [FluentRead/FluentRead](https://github.com/FluentRead/FluentRead) - An open-source browser extension for bilingual translation. 一款开源的浏览器双语翻译插件。
 - [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - ORM
 - [dzzzzzy/Nestjs-Learning](https://github.com/dzzzzzy/Nestjs-Learning) - 【已停更】nestjs 学习教程 :books:，跟我一起学习 nest 框架~ :muscle:
 - [tsparticles/tsparticles](https://github.com/tsparticles/tsparticles) - tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use component
