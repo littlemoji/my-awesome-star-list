@@ -932,7 +932,7 @@
 - [makecindy/cindy](https://github.com/makecindy/cindy) - Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。
 - [openchamber/openchamber](https://github.com/openchamber/openchamber) - Agentic Development Environment based on OpenCode AI agent
 - [earendil-works/pi](https://github.com/earendil-works/pi) - AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
-- [langfuse/langfuse-cli](https://github.com/langfuse/langfuse-cli) - use the langfuse API from your CLI
+- [langfuse/langfuse-cli](https://github.com/langfuse/langfuse-cli) - Interact with the full Langfuse API from the command line. Built for AI agents and power users.
 - [pocket-stack/pocketjs](https://github.com/pocket-stack/pocketjs) - PocketJS is a portable application runtime that turns modern component code into native pixels across radically different hardware.
 - [microsoft/flint-chart](https://github.com/microsoft/flint-chart) - 🪄 Flint is a visualization language that lets AI agents reliably create expressive, good-looking charts from simple, human-editable chart specs.
 - [fzlzjerry/ohmyhf](https://github.com/fzlzjerry/ohmyhf) - Unofficial cross-platform desktop client for the Hugging Face Hub
@@ -1167,7 +1167,7 @@
 - [tonybaloney/vscode-pets](https://github.com/tonybaloney/vscode-pets) - Adds playful pets 🦀🐱🐶 in your VS Code window
 - [ebullient/obsidian-admonition](https://github.com/ebullient/obsidian-admonition) - Adds admonition block-styled content to Obsidian.md
 - [7kms/react-illustration-series](https://github.com/7kms/react-illustration-series) - 图解react源码, 用大量配图的方式, 致力于将react原理表述清楚.
-- [amruthpillai/reactive-resume](https://github.com/amruthpillai/reactive-resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
+- [reactive-resume/app](https://github.com/reactive-resume/app) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [any86/my](https://github.com/any86/my) - 🌱常用函数, 都小于1k, 方便看源码学ts
 - [20chan/github-now](https://github.com/20chan/github-now) - Generate Github profile with current listening music as a web browser extension for chrome
 - [s-panferov/awesome-typescript-loader](https://github.com/s-panferov/awesome-typescript-loader) - Awesome TypeScript loader for webpack
@@ -1190,6 +1190,7 @@
 
 ## Vue 
 
+- [misenhower/splatoon3.ink](https://github.com/misenhower/splatoon3.ink) - 🦑 Splatoon 3 map rotations, Salmon Run schedules, SplatNet gear, and more
 - [Simon-He95/markstream-vue](https://github.com/Simon-He95/markstream-vue) - Multi-framework streaming Markdown renderers for AI apps: Vue/Nuxt, React/Next.js, Svelte, and Angular, with Mermaid, KaTeX, stream-diffs code blocks, safe HTML, and low-jitter updates.
 - [shion-app/shion](https://github.com/shion-app/shion) - Time tracker | 时间追踪 🍂
 - [TeamPiped/Piped](https://github.com/TeamPiped/Piped) - An alternative privacy-friendly YouTube frontend which is efficient by design.
