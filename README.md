@@ -512,7 +512,6 @@
 - [jiji262/build-code-agent](https://github.com/jiji262/build-code-agent) - 从零构建 Code Agent：Claude Code 源码深度解析 | Build a Code Agent from Scratch: Deep Dive into Claude Code Source
 - [Fokkyp/claude-skills](https://github.com/Fokkyp/claude-skills) - 自建的产品经理可用的 Claude skills 仓库，Skills 均已在商业环境下测试。竞品分析Skill、需求文档Skill ……
 - [LingyiChen-AI/vibe-coding](https://github.com/LingyiChen-AI/vibe-coding) - AI 时代的 Vibe Coding 实践：使用 Claude Code 从零开发 AI 漫剧生成平台的完整记录，涵盖技术选型、AI 驱动开发、UI 优化与功能迭代全流程。
-- [KimYx0207/AI-Coding-Guide-Zh](https://github.com/KimYx0207/AI-Coding-Guide-Zh) - Claude Code + OpenClaw + Codex + WorkBuddy 中文教程 | 50篇完整教程 + 1张速查卡 | 80万+内容量 | 1500+实操示例 | AI Coding / Agent 四线学习路径（编程+助手+Agent+办公）
 - [GBSOSS/skill-from-masters](https://github.com/GBSOSS/skill-from-masters) - Stand on the shoulders of giants — Create AI skills built on proven methodologies from domain experts.
 - [LingyiChen-AI/AI-Tracker](https://github.com/LingyiChen-AI/AI-Tracker) - 本仓库追踪 AI 领域最新动态，推荐优秀的 AI 工具、Skills、开源项目，分享大模型前沿资讯与实战教程。
 - [skills/introduction-to-github](https://github.com/skills/introduction-to-github) - Get started using GitHub in less than an hour.
@@ -746,6 +745,7 @@
 - [ylxmf2005/swcc](https://github.com/ylxmf2005/swcc) - 🇨🇳 SWCC — Democratic Centralism Multi-Agent Orchestration for Claude Code (民主集中制多智能体编排)
 - [xstongxue/best-skills](https://github.com/xstongxue/best-skills) - 通用高质量 Skills 合集🔥
 - [cft0808/edict](https://github.com/cft0808/edict) - 🏛️ 三省六部制 · OpenClaw Multi-Agent Orchestration System — 9 specialized AI agents with real-time dashboard, model config, and full audit trails
+- [KimYx0207/AI-Coding-Guide-Zh](https://github.com/KimYx0207/AI-Coding-Guide-Zh) - Claude Code + OpenClaw + Codex + WorkBuddy 中文教程 | 50篇完整教程 + 1张速查卡 | 80万+内容量 | 1500+实操示例 | AI Coding / Agent 四线学习路径（编程+助手+Agent+办公）
 - [op7418/Humanizer-zh](https://github.com/op7418/Humanizer-zh) - Humanizer 的汉化版本，Claude Code Skills，旨在消除文本中 AI 生成的痕迹。
 - [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents) - 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程
 - [WooHooDai/linkding-cn](https://github.com/WooHooDai/linkding-cn) - 开源、自托管的网页管理&阅读工具（书签管理器 + 稍后读工具），基于 linkding 二次开发。支持高亮批注、收藏数据看板、随机列表、自定义快照爬取脚本等特有功能。
@@ -1069,7 +1069,7 @@
 - [phantomstudios/css-components](https://github.com/phantomstudios/css-components) - CSS Components
 - [TypeStrong/ts-node](https://github.com/TypeStrong/ts-node) - TypeScript execution and REPL for node.js
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Composable, accessible components with thoughtful defaults. Build your own component library with code you can customize, extend, and make your own.
-- [css-hooks/css-hooks](https://github.com/css-hooks/css-hooks) - The styling system that supercharges native inline styles with pseudo-classes, responsive queries, and advanced selector logic.
+- [css-hooks/css-hooks](https://github.com/css-hooks/css-hooks) - CSS-driven user interaction, layout context, and inherited state, all in the style prop.
 - [BuilderIO/mitosis](https://github.com/BuilderIO/mitosis) - Write components once, run everywhere. Compiles to React, Vue, Qwik, Solid, Angular, Svelte, and more.
 - [sparrow-js/an-codeAI](https://github.com/sparrow-js/an-codeAI) - AI generate code
 - [Simon-He95/common-intellisense](https://github.com/Simon-He95/common-intellisense) - Universal Component Intellisense for Any Frameworks
