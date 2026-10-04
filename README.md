@@ -272,6 +272,7 @@
 - [lana-k/sqliteviz](https://github.com/lana-k/sqliteviz) - Instant offline SQL-powered data visualisation in your browser
 - [axios/axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
 - [crisdosaygo/-](https://github.com/crisdosaygo/-) - Hyphen - An elegant custom element base class
+- [timqian/chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs) - 中文独立博客列表
 - [eduardoleao052/js-pytorch](https://github.com/eduardoleao052/js-pytorch) - A JavaScript library like PyTorch, with GPU acceleration.
 - [VKSRC/Github-Monitor](https://github.com/VKSRC/Github-Monitor) - Github Sensitive Information Leakage Monitor(Github信息泄漏监控系统)
 - [stefanjudis/sparkly-text](https://github.com/stefanjudis/sparkly-text) - A small web component for making your text spark.
@@ -774,7 +775,6 @@
 - [kyegomez/Med-PaLM](https://github.com/kyegomez/Med-PaLM) - Towards Generalist Biomedical AI
 - [LLMBook-zh/LLMBook-zh.github.io](https://github.com/LLMBook-zh/LLMBook-zh.github.io) - 《大语言模型》作者：赵鑫，李军毅，周昆，唐天一，文继荣
 - [CrazyBoyM/llama3-Chinese-chat](https://github.com/CrazyBoyM/llama3-Chinese-chat) - Llama3-中文后训练版
-- [timqian/chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs) - 中文独立博客列表
 - [KanjiVG/kanjivg](https://github.com/KanjiVG/kanjivg) - Kanji vector graphics
 - [lavague-ai/LaVague](https://github.com/lavague-ai/LaVague) - Large Action Model framework to develop AI Web Agents
 - [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) - 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.
@@ -937,7 +937,7 @@
 - [openchamber/openchamber](https://github.com/openchamber/openchamber) - Agentic Development Environment based on OpenCode AI agent
 - [earendil-works/pi](https://github.com/earendil-works/pi) - AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
 - [langfuse/langfuse-cli](https://github.com/langfuse/langfuse-cli) - Interact with the full Langfuse API from the command line. Built for AI agents and power users.
-- [pocket-nexus/pocketjs](https://github.com/pocket-nexus/pocketjs) - PocketJS is a portable application runtime that turns modern component code into native pixels across radically different hardware.
+- [pocket-nexus/pocketjs](https://github.com/pocket-nexus/pocketjs) - PocketJS is a portable application runtime that turns modern component code into native pixels across radically different hardware. This repository is also the home of Pocket3D, a hardware-native 3D s
 - [microsoft/flint-chart](https://github.com/microsoft/flint-chart) - 🪄 Flint is a visualization language that lets AI agents reliably create expressive, good-looking charts from simple, human-editable chart specs.
 - [fzlzjerry/ohmyhf](https://github.com/fzlzjerry/ohmyhf) - Unofficial cross-platform desktop client for the Hugging Face Hub
 - [chengzuopeng/stock-sdk](https://github.com/chengzuopeng/stock-sdk) - 为前端设计的无需 Python、无需后端服务、零依赖的获取股票数据 JavaScript SDK。
@@ -1108,7 +1108,7 @@
 - [interstellard/chatgpt-advanced](https://github.com/interstellard/chatgpt-advanced) - WebChatGPT: A browser extension that augments your ChatGPT prompts with web results.
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [QwikDev/qwik](https://github.com/QwikDev/qwik) - Instant-loading web apps, without effort
-- [unadlib/mutative](https://github.com/unadlib/mutative) - Efficient immutable updates, 2-6x faster than naive handcrafted reducer, and more than 10x faster than Immer.
+- [unadlib/mutative](https://github.com/unadlib/mutative) - Efficient immutable updates, about 3-6x faster than Immer.
 - [Thinkmill/manypkg](https://github.com/Thinkmill/manypkg) - ☔️ An umbrella for your monorepo
 - [niieani/nesity](https://github.com/niieani/nesity) - Monorepo of various JavaScript tools and utilities
 - [dlepaux/realtime-bpm-analyzer](https://github.com/dlepaux/realtime-bpm-analyzer) - Library using WebAudioAPI to analyse BPM from files, audionodes. It's also able to compute BPM from streams as well as realtime using a microphone. This tool might be useful for music producers and DJ
