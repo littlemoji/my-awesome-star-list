@@ -642,7 +642,7 @@
 
 ## bioinformatics 
 
-- [openbiox/weekly](https://github.com/openbiox/weekly) - 生信爱好者周刊（每周日发布）
+- [openbiox/weekly](https://github.com/openbiox/weekly) - 本项目已经完成历史想法与期待，停止更新，感谢所有的读者！
 
 ## bitcoin 
 
