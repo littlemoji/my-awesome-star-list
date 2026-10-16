@@ -1188,7 +1188,7 @@
 - [typicode/lowdb](https://github.com/typicode/lowdb) - Simple and fast JSON database
 - [rubickCenter/rubick](https://github.com/rubickCenter/rubick) - 🔧  Electron based open source toolbox, free integration of rich plug-ins. 基于 electron 的开源工具箱，自由集成丰富插件。
 - [pojala/electrino](https://github.com/pojala/electrino) - Desktop runtime for apps built on web technologies, using the system's own web browser engine
-- [overnote/over-javascript](https://github.com/overnote/over-javascript) - JavaScript相关：[初稿进度90%]记录JavaScript、Node.js、Vue/React等。文本错误依然很多，会坚持改，抱歉。
+- [overnote/over-javascript](https://github.com/overnote/over-javascript) - JavaScript相关：[初稿进度90%]记录JavaScript、Node.js、Vue/React等。笔误会坚持改，抱歉。
 - [f2e-awesome/knowledge](https://github.com/f2e-awesome/knowledge) - 文档着重构建一个完整的「前端技术架构图谱」，方便 F2E(Front End Engineering又称FEE、F2E) 学习与进阶。
 - [keeweb/keeweb](https://github.com/keeweb/keeweb) - Free cross-platform password manager compatible with KeePass
 
@@ -1218,7 +1218,7 @@
 - [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
 - [jawil/blog](https://github.com/jawil/blog) - Too young, too simple. Sometimes, naive & stupid 🐌
 - [pubdreamcc/Node.js](https://github.com/pubdreamcc/Node.js) - 一步一步学习Node.js，带你从零开始学习Node.js！本仓库是自己总结的Node.js学习图文教程，里面有学习案列和源代码（pubdreamcc原创，欢迎转载，欢迎star）
-- [overnote/over-javascript](https://github.com/overnote/over-javascript) - JavaScript相关：[初稿进度90%]记录JavaScript、Node.js、Vue/React等。文本错误依然很多，会坚持改，抱歉。
+- [overnote/over-javascript](https://github.com/overnote/over-javascript) - JavaScript相关：[初稿进度90%]记录JavaScript、Node.js、Vue/React等。笔误会坚持改，抱歉。
 - [mgbq/front-end-Doc](https://github.com/mgbq/front-end-Doc) - 前端文档汇总（觉得对您有用的话，别忘了star收藏哦^_^ ！）
 - [csxiaoyaojianxian/JavaScriptStudy](https://github.com/csxiaoyaojianxian/JavaScriptStudy) - JavaScript的学习代码总结，高级特性、数据结构、设计模式、typescript、vue、angular、react、node、webpack、weex、小程序、tensorflow…，JavaScript是世界上最好的语言！
 - [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - ✅ The Node.js best practices list (July 2026)
@@ -1758,7 +1758,7 @@
 - [ganqqwerty/123-Essential-JavaScript-Interview-Questions](https://github.com/ganqqwerty/123-Essential-JavaScript-Interview-Questions) - JavaScript interview Questions
 - [aliyunfe/weekly](https://github.com/aliyunfe/weekly) - 《阿里云前端技术周刊》
 - [tc39/proposal-pipeline-operator](https://github.com/tc39/proposal-pipeline-operator) - A proposal for adding a useful pipe operator to JavaScript.
-- [overnote/over-javascript](https://github.com/overnote/over-javascript) - JavaScript相关：[初稿进度90%]记录JavaScript、Node.js、Vue/React等。文本错误依然很多，会坚持改，抱歉。
+- [overnote/over-javascript](https://github.com/overnote/over-javascript) - JavaScript相关：[初稿进度90%]记录JavaScript、Node.js、Vue/React等。笔误会坚持改，抱歉。
 - [ChanceYu/front-end-rss](https://github.com/ChanceYu/front-end-rss) - :orange_book: 根据 RSS 订阅最新前端技术文章并自动分类
 - [csxiaoyaojianxian/JavaScriptStudy](https://github.com/csxiaoyaojianxian/JavaScriptStudy) - JavaScript的学习代码总结，高级特性、数据结构、设计模式、typescript、vue、angular、react、node、webpack、weex、小程序、tensorflow…，JavaScript是世界上最好的语言！
 - [coffe1891/frontend-hard-mode-interview](https://github.com/coffe1891/frontend-hard-mode-interview) - 《前端内参》，有关于JavaScript、编程范式、设计模式、软件开发的艺术等大前端范畴内的知识分享，旨在帮助前端工程师们夯实技术基础以通过一线互联网企业技术面试。
@@ -2235,7 +2235,7 @@
 - [xiaoxiaojx/blog](https://github.com/xiaoxiaojx/blog) - Project for records problems solved in my work and study.
 - [haizlin/fe-interview](https://github.com/haizlin/fe-interview) - 前端面试每日 3+1，以面试题来驱动学习，提倡每日学习与思考，每天进步一点！每天早上5点纯手工发布面试题（死磕自己，愉悦大家），6000+道前端面试题全面覆盖，HTML/CSS/JavaScript/Vue/React/Nodejs/TypeScript/ECMAScritpt/Webpack/Jquery/小程序/软技能……
 - [zhaoqize/puppeteer-api-zh_CN](https://github.com/zhaoqize/puppeteer-api-zh_CN) - 📖 Puppeteer中文文档（官方指定的中文文档）
-- [overnote/over-javascript](https://github.com/overnote/over-javascript) - JavaScript相关：[初稿进度90%]记录JavaScript、Node.js、Vue/React等。文本错误依然很多，会坚持改，抱歉。
+- [overnote/over-javascript](https://github.com/overnote/over-javascript) - JavaScript相关：[初稿进度90%]记录JavaScript、Node.js、Vue/React等。笔误会坚持改，抱歉。
 - [nswbmw/node-in-debugging](https://github.com/nswbmw/node-in-debugging) - 《Node.js 调试指南》
 - [nvm-windows/nvm](https://github.com/nvm-windows/nvm) - The Node.js version manager for Windows.
 
@@ -3473,7 +3473,7 @@
 - [reactive-resume/reactive-resume](https://github.com/reactive-resume/reactive-resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [any86/my](https://github.com/any86/my) - 🌱常用函数, 都小于1k, 方便看源码学ts
 - [s-panferov/awesome-typescript-loader](https://github.com/s-panferov/awesome-typescript-loader) - Awesome TypeScript loader for webpack
-- [overnote/over-javascript](https://github.com/overnote/over-javascript) - JavaScript相关：[初稿进度90%]记录JavaScript、Node.js、Vue/React等。文本错误依然很多，会坚持改，抱歉。
+- [overnote/over-javascript](https://github.com/overnote/over-javascript) - JavaScript相关：[初稿进度90%]记录JavaScript、Node.js、Vue/React等。笔误会坚持改，抱歉。
 - [csxiaoyaojianxian/JavaScriptStudy](https://github.com/csxiaoyaojianxian/JavaScriptStudy) - JavaScript的学习代码总结，高级特性、数据结构、设计模式、typescript、vue、angular、react、node、webpack、weex、小程序、tensorflow…，JavaScript是世界上最好的语言！
 - [CodecrumbsIO/codecrumbs](https://github.com/CodecrumbsIO/codecrumbs) - Learn, design or document codebase by putting breadcrumbs in source code. Live updates, multi-language support and more.
 - [jkchao/typescript-book-chinese](https://github.com/jkchao/typescript-book-chinese) - TypeScript Deep Dive 中文版
@@ -3564,7 +3564,6 @@
 - [getsentry/sentry-javascript](https://github.com/getsentry/sentry-javascript) - Official Sentry SDKs for JavaScript
 - [SortableJS/Vue.Draggable](https://github.com/SortableJS/Vue.Draggable) - Vue drag-and-drop component based on Sortable.js
 - [KingSora/OverlayScrollbars](https://github.com/KingSora/OverlayScrollbars) - A javascript scrollbar plugin that hides the native scrollbars, provides custom styleable overlay scrollbars, and preserves the native functionality and feel.
-- [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 - [biaochenxuying/blog](https://github.com/biaochenxuying/blog) - 大前端技术为主，读书笔记、随笔、理财为辅，做个终身学习者。
 - [CodeDredd/pinia-orm](https://github.com/CodeDredd/pinia-orm) - The Pinia plugin to enable Object-Relational Mapping access to the Pinia Store.
 - [vuejs/vue](https://github.com/vuejs/vue) - This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core
@@ -3584,7 +3583,7 @@
 - [fastCreator/MVVM](https://github.com/fastCreator/MVVM) - vue 源码解析及实现
 - [liangklfangl/react-article-bucket](https://github.com/liangklfangl/react-article-bucket) - 总结，积累，分享，传播JavaScript各模块核心知识点文章全集，欢迎star,issue(勿fork，内容可能随时修改)。webpack核心内容部分请查看专栏: https://github.com/liangklfangl/webpack-core-usage
 - [aliyunfe/weekly](https://github.com/aliyunfe/weekly) - 《阿里云前端技术周刊》
-- [overnote/over-javascript](https://github.com/overnote/over-javascript) - JavaScript相关：[初稿进度90%]记录JavaScript、Node.js、Vue/React等。文本错误依然很多，会坚持改，抱歉。
+- [overnote/over-javascript](https://github.com/overnote/over-javascript) - JavaScript相关：[初稿进度90%]记录JavaScript、Node.js、Vue/React等。笔误会坚持改，抱歉。
 - [mgbq/front-end-Doc](https://github.com/mgbq/front-end-Doc) - 前端文档汇总（觉得对您有用的话，别忘了star收藏哦^_^ ！）
 - [ponkans/F2E](https://github.com/ponkans/F2E) - 🔥 大前端进阶知识扫盲，前端同学必看，后端同学也能看懂，看不懂你加我微信骂我渣男就好了！（欢迎star，持续更新）
 - [csxiaoyaojianxian/JavaScriptStudy](https://github.com/csxiaoyaojianxian/JavaScriptStudy) - JavaScript的学习代码总结，高级特性、数据结构、设计模式、typescript、vue、angular、react、node、webpack、weex、小程序、tensorflow…，JavaScript是世界上最好的语言！
