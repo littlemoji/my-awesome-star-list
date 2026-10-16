@@ -391,7 +391,6 @@
 - [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) - 24 Lessons, 12 Weeks, Get Started as a Web Developer
 - [GoogleChromeLabs/critters](https://github.com/GoogleChromeLabs/critters) - 🦔 A Webpack plugin to inline your critical CSS and lazy-load the rest.
 - [stephentian/33-js-concepts](https://github.com/stephentian/33-js-concepts) - :scroll: 每个 JavaScript 工程师都应懂的33个概念 @leonardomso
-- [overnote/over-javascript](https://github.com/overnote/over-javascript) - JavaScript相关：[初稿进度90%]记录JavaScript、Node.js、Vue/React等。文本错误依然很多，会坚持改，抱歉。
 - [carlleton/reactjs101](https://github.com/carlleton/reactjs101) - 从零开始学 ReactJS（ReactJS 101）是一本希望让初学者一看就懂的 ReactJS 中文入门教学书，由浅入深学习 ReactJS 生态系 (Flux, Redux, React Router, ImmutableJS, React Native, Relay/GraphQL etc.)。该分支为转码简体中文版
 - [MriLiuJY/monitorFE](https://github.com/MriLiuJY/monitorFE) - 🍉前端埋点监控，提供前端 JS 执行错误，第三方资源加载异常，Ajax 请求错误监控
 - [ChanceYu/front-end-rss](https://github.com/ChanceYu/front-end-rss) - :orange_book: 根据 RSS 订阅最新前端技术文章并自动分类
@@ -635,6 +634,7 @@
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [ganqqwerty/123-Essential-JavaScript-Interview-Questions](https://github.com/ganqqwerty/123-Essential-JavaScript-Interview-Questions) - JavaScript interview Questions
 - [aliyunfe/weekly](https://github.com/aliyunfe/weekly) - 《阿里云前端技术周刊》
+- [overnote/over-javascript](https://github.com/overnote/over-javascript) - JavaScript相关：[初稿进度90%]记录JavaScript、Node.js、Vue/React等。笔误会坚持改，抱歉。
 - [mgbq/front-end-Doc](https://github.com/mgbq/front-end-Doc) - 前端文档汇总（觉得对您有用的话，别忘了star收藏哦^_^ ！）
 - [saga-playground/node-point](https://github.com/saga-playground/node-point) - 构建自己的 NodeJS 知识体系
 - [chinanf-boy/react-from-zero](https://github.com/chinanf-boy/react-from-zero) - 🇨🇳翻译: React 简单 (至少99% ES2015 ) 例子🌰 ❤ 校对 ✔
@@ -735,7 +735,7 @@
 - [modelscope/FunClip](https://github.com/modelscope/FunClip) - FunASR-powered video transcription, subtitle generation, and LLM-assisted clipping tool with a local Gradio UI.
 - [kyegomez/OpenMythos](https://github.com/kyegomez/OpenMythos) - A theoretical reconstruction of the Claude Mythos architecture, built from first principles using the available research literature.
 - [FlagOpen/FlagEmbedding](https://github.com/FlagOpen/FlagEmbedding) - Retrieval and Retrieval-augmented LLMs
-- [tw93/Waza](https://github.com/tw93/Waza) - 🥷 Engineering habits you already know, turned into skills AI assistants can run.
+- [tw93/Waza](https://github.com/tw93/Waza) - 🥷 Engineering habits you already know, turned into skills AI assistants like Claude Code, Codex and Cursor can run.
 - [drona23/claude-token-efficient](https://github.com/drona23/claude-token-efficient) - One CLAUDE.md file. Keeps Claude responses terse. Reduces output verbosity on heavy workflows. Drop-in, no code changes.
 - [xuanjixiao/onerec](https://github.com/xuanjixiao/onerec) - 在常规推荐系统算法和系统双优化的范式下，一线公司针对单个任务或单个业务的效果挖掘几乎达到极限。从2019年我们开始关注多种信息的萃取融合，提出了OneRec算法，希望通过平台或外部各种各样的信息来进行知识集成，打破数据孤岛，极大扩充推荐的“Extra World Knowledge”。 已实践的算法包括行为数据，内容描述，社交信息，知识图谱等。在OneRec，每种信息和整体算法的集成是可插拔的，这
 - [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) - "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/
@@ -891,7 +891,7 @@
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 - [nanxiaobei/ai-global](https://github.com/nanxiaobei/ai-global) - Unified Config Manager for AI Coding Tools
 - [huifer/WellAlly-health](https://github.com/huifer/WellAlly-health) - Ally-Health is an intelligent healthcare assistant that harnesses advanced AI technology and medical expertise to transform personal health management. Through natural language interaction, it helps u
-- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Keep your Mac clean, light, and running like new. Fast open-source CLI, plus a native Mac app.
+- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Keep your Mac and PC clean, light, and running like new. Fast open-source CLI, plus native Mac and Windows apps.
 - [aruhier/gnome-terminal-colors-solarized](https://github.com/aruhier/gnome-terminal-colors-solarized) - Solarized Gnome Terminal colors, based on http://ethanschoonover.com/solarized
 - [xthezealot/npmprune](https://github.com/xthezealot/npmprune) - Prune unnecessary files from node_modules
 - [ttttmr/Wechat2RSS](https://github.com/ttttmr/Wechat2RSS) - 微信公众号转RSS
@@ -964,7 +964,7 @@
 - [mindfold-ai/Trellis](https://github.com/mindfold-ai/Trellis) - The best agent harness.
 - [Chance-fyi/mouse-gestures](https://github.com/Chance-fyi/mouse-gestures) - A lightweight yet powerful browser extension that enhances your browsing efficiency through intuitive mouse gestures, drag-and-drop actions, and cloud-synchronized settings.
 - [baotlake/office-website](https://github.com/baotlake/office-website) - Web Office: Local-First & Private. Professional-grade Word, Excel, and PowerPoint editing powered by WebAssembly. Zero data uploads, 100% client-side for uncompromising privacy. 🛡️ 纯本地浏览器 Office，数据零上传
-- [upstash/context7](https://github.com/upstash/context7) - Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors
+- [upstash/context7](https://github.com/upstash/context7) - Context7 Platform -- Up-to-date docs for AI agents
 - [vercel-labs/json-render](https://github.com/vercel-labs/json-render) - The Generative UI framework
 - [vercel/streamdown](https://github.com/vercel/streamdown) - A drop-in replacement for react-markdown, designed for AI-powered streaming.
 - [lustan/XApi](https://github.com/lustan/XApi) - 
