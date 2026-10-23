@@ -766,6 +766,7 @@
 - [salesforce/ja3](https://github.com/salesforce/ja3) - JA3 is a standard for creating SSL client fingerprints in an easy to produce and shareable way.
 - [dreammis/social-auto-upload](https://github.com/dreammis/social-auto-upload) - 自动化上传视频到社交媒体：抖音、小红书、视频号、tiktok、youtube、bilibili
 - [ddean2009/MoneyPrinterPlus](https://github.com/ddean2009/MoneyPrinterPlus) - AI一键批量生成各类短视频,自动批量混剪短视频,自动把视频发布到抖音,快手,小红书,视频号上,赚钱从来没有这么容易过! 支持本地语音模型chatTTS,fasterwhisper,GPTSoVITS,支持云语音：Azure,阿里云,腾讯云。支持Stable diffusion,comfyUI直接AI生图。Generate short videos with one click using AI L
+- [Websoft9/websoft9](https://github.com/Websoft9/websoft9) - Applications self-hosting and DevOps platform for running open source, web-based linux Panel of lite PaaS
 - [facebookresearch/AnimatedDrawings](https://github.com/facebookresearch/AnimatedDrawings) - Code to accompany "A Method for Animating Children's Drawings of the Human Figure"
 - [2noise/ChatTTS](https://github.com/2noise/ChatTTS) - A generative speech model for daily dialogue.
 - [Flagsmith/flagsmith](https://github.com/Flagsmith/flagsmith) - Flagsmith is an open-source feature flag platform with remote config, experimentation, and self-hosted or cloud deployment options.
@@ -1014,7 +1015,6 @@
 - [mazzzystar/tinymind](https://github.com/mazzzystar/tinymind) - Tinymind - Write and sync your blog & thoughts with GitHub
 - [dianwan/taro-xiaohongshu](https://github.com/dianwan/taro-xiaohongshu) - taro仿小红书demo
 - [tingyuxuan2302/taro3-virtual-list](https://github.com/tingyuxuan2302/taro3-virtual-list) - 基于taro3封装的虚拟列表，对列表节点不等高以及白屏等问题支持友好，无计算量，性能优异，支持各大小程序以及h5页面
-- [Websoft9/websoft9](https://github.com/Websoft9/websoft9) - Applications self-hosting and DevOps platform for running open source, web-based linux Panel of lite PaaS
 - [mesqueeb/merge-anything](https://github.com/mesqueeb/merge-anything) - Merge objects & other types recursively. A simple & small integration.
 - [openRin/Rin](https://github.com/openRin/Rin) - 🌸Publish faster with an edge-native blog powered by Cloudflare Workers, D1, and R2
 - [shikijs/shiki-magic-move](https://github.com/shikijs/shiki-magic-move) - Smoothly animated code blocks with Shiki
