@@ -1978,6 +1978,7 @@
 - [upstash/context7](https://github.com/upstash/context7) - Context7 Platform -- Up-to-date docs for AI agents
 - [Simon-He95/markstream-vue](https://github.com/Simon-He95/markstream-vue) - Multi-framework streaming Markdown renderers for AI apps: Vue/Nuxt, React/Next.js, Svelte, and Angular, with Mermaid, KaTeX, stream-diffs code blocks, safe HTML, and low-jitter updates.
 - [google/langextract](https://github.com/google/langextract) - A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.
+- [ZeroTang05/VideoAdGuard](https://github.com/ZeroTang05/VideoAdGuard) - 哔哩哔哩浏览器插件：基于大语言模型，对B站视频中的植入广告进行检测。一键跳过视频中的植入/口播广告。
 - [fenxer/llm-things](https://github.com/fenxer/llm-things) - A collection of LLM memes
 - [Blushyes/coro-code](https://github.com/Blushyes/coro-code) - Open-source CLI coding agent, a free alternative to Claude Code. Generate, debug, and manage code seamlessly.
 - [AmyangXYZ/PoPo](https://github.com/AmyangXYZ/PoPo) - Pose and animate MMD model with LLM and MPL code
@@ -2390,6 +2391,7 @@
 
 ## others 
 
+- [PAICNI/CFNext](https://github.com/PAICNI/CFNext) - CFNext —— 部署在 Cloudflare Workers / Pages 的多功能代理订阅管理面板
 - [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) - A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
 - [kyrolabs/awesome-agents](https://github.com/kyrolabs/awesome-agents) - 🤖 Awesome list of AI Agents
 - [cordiverse/paper](https://github.com/cordiverse/paper) - A Programming Paradigm for Spatiotemporal Composability
