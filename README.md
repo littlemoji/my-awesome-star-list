@@ -65,7 +65,7 @@
 - [jerryscript-project/jerryscript](https://github.com/jerryscript-project/jerryscript) - Ultra-lightweight JavaScript engine for the Internet of Things.
 - [veracrypt/VeraCrypt](https://github.com/veracrypt/VeraCrypt) - Disk encryption with strong security based on TrueCrypt
 - [turingH/fishhook_analysis](https://github.com/turingH/fishhook_analysis) - 简单分析了facebook的fishhook源码，结合介绍动态绑定的一篇文章阅读，可以更好的理解这一块的内容
-- [facebook/fishhook](https://github.com/facebook/fishhook) - A library that enables dynamically rebinding symbols in Mach-O binaries running on iOS.
+- [meta/fishhook](https://github.com/meta/fishhook) - A library that enables dynamically rebinding symbols in Mach-O binaries running on iOS.
 - [johnxnguyen/Down](https://github.com/johnxnguyen/Down) - Blazing fast Markdown / CommonMark rendering in Swift, built upon cmark.
 - [jhallen/joes-sandbox](https://github.com/jhallen/joes-sandbox) - 
 - [wg/wrk](https://github.com/wg/wrk) - Modern HTTP benchmarking tool
@@ -267,6 +267,7 @@
 - [jcubic/tagger](https://github.com/jcubic/tagger) - Zero Dependency, Vanilla JavaScript Tag Editor
 - [TheOdinProject/curriculum](https://github.com/TheOdinProject/curriculum) - The open curriculum for learning web development
 - [GoogleChromeLabs/page-lifecycle](https://github.com/GoogleChromeLabs/page-lifecycle) - PageLifecycle.js is a tiny JavaScript library that allows developers to easily observe Page Lifecycle API state changes cross browser
+- [qdleader/qdleader](https://github.com/qdleader/qdleader) - 🔥前端面试 前端知识点 面试题大全 js vue react node git element typescript ts next 支付 微信公众平台 每日持续更新 前端周刊  vue3 react18 vite redux 前端
 - [xcanwin/KeepChatGPT](https://github.com/xcanwin/KeepChatGPT) - 这是一款提高ChatGPT的数据安全能力和效率的插件。并且免费共享大量创新功能，如：自动刷新、保持活跃、数据安全、取消审计、克隆对话、言无不尽、净化页面、展示大屏、拦截跟踪、日新月异、明察秋毫等。让我们的AI体验无比安全、顺畅、丝滑、高效、简洁。
 - [xifangczy/cat-catch](https://github.com/xifangczy/cat-catch) - 猫抓 浏览器资源嗅探扩展 / cat-catch Browser Resource Sniffing Extension
 - [lana-k/sqliteviz](https://github.com/lana-k/sqliteviz) - Instant offline SQL-powered data visualisation in your browser
@@ -295,7 +296,7 @@
 - [svaarala/duktape](https://github.com/svaarala/duktape) - Duktape - embeddable Javascript engine with a focus on portability and compact footprint
 - [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) - Connect APIs, remarkably fast.  Free for developers.
 - [ImCa0/just-laws](https://github.com/ImCa0/just-laws) - 一个简洁、便捷的中国法律文库 | A Simple and Convenient Laws Library of China.
-- [facebook/stylex](https://github.com/facebook/stylex) - StyleX is the styling system for ambitious user interfaces.
+- [meta/stylex](https://github.com/meta/stylex) - StyleX is the styling system for ambitious user interfaces.
 - [SortableJS/Vue.Draggable](https://github.com/SortableJS/Vue.Draggable) - Vue drag-and-drop component based on Sortable.js
 - [XIU2/UserScript](https://github.com/XIU2/UserScript) - 🐵 自用的一些乱七八糟 油猴脚本~
 - [isno/theByteBook](https://github.com/isno/theByteBook) - ⭐ 【出版书籍】京东购买链接 https://item.jd.com/14531549.html  深入讲解内核网络、Kubernetes、ServiceMesh、容器等云原生相关技术。经历实践检验的“大规模分布式系统”开发指南。
@@ -991,7 +992,7 @@
 - [xiao-zaiyi/illa-helper](https://github.com/xiao-zaiyi/illa-helper) - 浸入式学语言助手 (Immersive Language Learning Assistant)
 - [jackluson/sync-your-cookie](https://github.com/jackluson/sync-your-cookie) - A browser extension for syncing cookies and localStorage to Cloudflare KV or GitHub Gist
 - [isixe/LinkChecker](https://github.com/isixe/LinkChecker) - A tool for checking the validity of URLs in your website.
-- [francoischalifour/medium-zoom](https://github.com/francoischalifour/medium-zoom) - Lightweight Medium-style image zoom for the web. Zero dependencies, any framework, React component via shadcn.
+- [francoischalifour/medium-zoom](https://github.com/francoischalifour/medium-zoom) - 🔎🖼️ Lightweight image zoom for the web. Zero dependencies, any framework, React via shadcn.
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
 - [AmoyLab/Unla](https://github.com/AmoyLab/Unla) - 🧩 MCP Gateway - A lightweight gateway service that instantly transforms existing MCP Servers and APIs into MCP servers with zero code changes. Features Docker deployment and management UI, requiring n
 - [apify/apify-mcp-server](https://github.com/apify/apify-mcp-server) - The Apify MCP server enables your AI agents to extract data from social media, search engines, maps, e-commerce sites, or any other website using thousands of ready-made scrapers, crawlers, and automa
