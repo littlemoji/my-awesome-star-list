@@ -135,6 +135,7 @@
 - [javascript](#javascript)
 - [jekyll](#jekyll)
 - [jenkins](#jenkins)
+- [jetpack-compose](#jetpack-compose)
 - [jquery](#jquery)
 - [js](#js)
 - [json](#json)
@@ -291,6 +292,7 @@
 - [openedclaude/claude-reviews-claude](https://github.com/openedclaude/claude-reviews-claude) - Claude reads its own source code — 17-chapter architectural deep-dive  into Claude Code v2.1.88. EN/ZH bilingual.
 - [alibaba/page-agent](https://github.com/alibaba/page-agent) - JavaScript in-page GUI agent. Control web interfaces with natural language.
 - [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents) - 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程
+- [a2ui-project/a2ui](https://github.com/a2ui-project/a2ui) - Open-source generative UI framework: agents stream layout data, and apps render it with native components in React, Angular, Lit, Flutter, SwiftUI and Jetpack Compose.
 - [Blushyes/coro-code](https://github.com/Blushyes/coro-code) - Open-source CLI coding agent, a free alternative to Claude Code. Generate, debug, and manage code seamlessly.
 - [FudanSELab/Agent4SE-Paper-List](https://github.com/FudanSELab/Agent4SE-Paper-List) - Repository for the paper "Large Language Model-Based Agents for Software Engineering: A Survey". Keep updating.
 - [2noise/ChatTTS](https://github.com/2noise/ChatTTS) - A generative speech model for daily dialogue.
@@ -381,7 +383,7 @@
 
 - [ForceInjection/AI-fundamentals](https://github.com/ForceInjection/AI-fundamentals) - AI 基础知识 - GPU 架构、CUDA 编程、大模型基础及AI Agent 相关知识。
 - [Karovia/fullstack-ai-agent-roadmap](https://github.com/Karovia/fullstack-ai-agent-roadmap) - 🎯 从零基础到 AI Agent 全栈工程师 · 110 个详细教程 · 58 万字 · 400+ GitHub 项目精选 · Obsidian 友好 · 中文
-- [adongwanai/AgentGuide](https://github.com/adongwanai/AgentGuide) - https://adongwanai.github.io/AgentGuide | AI Agent开发指南 | LangGraph实战 | 高级RAG | 转行大模型 | 大模型面试 | 算法工程师 | 面试题库 | 强化学习｜数据合成
+- [adongwanai/AgentGuide](https://github.com/adongwanai/AgentGuide) - AI Agent 开发指南 | Agent Harness | 上下文工程 | 高级 RAG | MCP | Agentic RL 强化学习 | LangGraph 实战 | 1.2 万+ 大模型面试题 | 算法岗 / 开发岗求职 | 转行大模型
 - [makecindy/cindy](https://github.com/makecindy/cindy) - Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。
 - [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) - A reliable coding agent for complex software engineering tasks.
 - [chengzuopeng/stock-sdk](https://github.com/chengzuopeng/stock-sdk) - 为前端设计的无需 Python、无需后端服务、零依赖的获取股票数据 JavaScript SDK。
@@ -467,6 +469,7 @@
 ## angular 
 
 - [Simon-He95/markstream-vue](https://github.com/Simon-He95/markstream-vue) - Multi-framework streaming Markdown renderers for AI apps: Vue/Nuxt, React/Next.js, Octane, SolidJS, Svelte, Angular, and Vue 2. Mermaid, KaTeX, streaming code blocks, SSR, and virtualized histories.
+- [a2ui-project/a2ui](https://github.com/a2ui-project/a2ui) - Open-source generative UI framework: agents stream layout data, and apps render it with native components in React, Angular, Lit, Flutter, SwiftUI and Jetpack Compose.
 - [tsparticles/tsparticles](https://github.com/tsparticles/tsparticles) - tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use component
 - [BuilderIO/mitosis](https://github.com/BuilderIO/mitosis) - Write components once, run everywhere. Compiles to React, Vue, Qwik, Solid, Angular, Svelte, and more.
 - [BuilderIO/figma-html](https://github.com/BuilderIO/figma-html) - Convert any website to editable Figma designs
@@ -797,6 +800,7 @@
 ## claude-code 
 
 - [FlorianBruniaux/claude-code-ultimate-guide](https://github.com/FlorianBruniaux/claude-code-ultimate-guide) - The most comprehensive Claude Code guide: agentic workflows, hooks, skills, MCP servers, quizzes, and production-ready templates. 430K+ lines.
+- [adongwanai/AgentGuide](https://github.com/adongwanai/AgentGuide) - AI Agent 开发指南 | Agent Harness | 上下文工程 | 高级 RAG | MCP | Agentic RL 强化学习 | LangGraph 实战 | 1.2 万+ 大模型面试题 | 算法岗 / 开发岗求职 | 转行大模型
 - [makecindy/cindy](https://github.com/makecindy/cindy) - Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。
 - [KKKKhazix/khazix-skills](https://github.com/KKKKhazix/khazix-skills) - 数字生命卡兹克开源的 AI Skills 合集 | Agent Skills: leader（帮你定义目标）, neat-freak 洁癖, hv-analysis, khazix-writer & more — Claude Code, Codex & 40+ agents
 - [kyegomez/OpenMythos](https://github.com/kyegomez/OpenMythos) - A theoretical reconstruction of the Claude Mythos architecture, built from first principles using the available research literature.
@@ -1293,6 +1297,7 @@
 
 ## flutter 
 
+- [a2ui-project/a2ui](https://github.com/a2ui-project/a2ui) - Open-source generative UI framework: agents stream layout data, and apps render it with native components in React, Angular, Lit, Flutter, SwiftUI and Jetpack Compose.
 - [ente/ente](https://github.com/ente/ente) - 💚 End-to-end encrypted cloud for everything.
 - [authpass/authpass](https://github.com/authpass/authpass) - AuthPass - Password Manager based on Flutter for all platforms. Keepass 2.x (KDBX 3 and KDBX 4) compatible.
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
@@ -1829,6 +1834,10 @@
 
 - [opsre/awesome-ops](https://github.com/opsre/awesome-ops) - 🧰 记录每一个与运维相关的优秀项目，⚗️ 项目内表格通过 GitHub Action 自动生成，📥 当前收录项目 656 个。
 
+## jetpack-compose 
+
+- [a2ui-project/a2ui](https://github.com/a2ui-project/a2ui) - Open-source generative UI framework: agents stream layout data, and apps render it with native components in React, Angular, Lit, Flutter, SwiftUI and Jetpack Compose.
+
 ## jquery 
 
 - [xifangczy/cat-catch](https://github.com/xifangczy/cat-catch) - 猫抓 浏览器资源嗅探扩展 / cat-catch Browser Resource Sniffing Extension
@@ -1976,7 +1985,7 @@
 - [Karovia/fullstack-ai-agent-roadmap](https://github.com/Karovia/fullstack-ai-agent-roadmap) - 🎯 从零基础到 AI Agent 全栈工程师 · 110 个详细教程 · 58 万字 · 400+ GitHub 项目精选 · Obsidian 友好 · 中文
 - [beir-cellar/beir](https://github.com/beir-cellar/beir) - A Heterogeneous Benchmark for Information Retrieval. Easy to use, evaluate your models across 15+ diverse IR datasets.
 - [Electricitysheep/dsh-handbook](https://github.com/Electricitysheep/dsh-handbook) - DeepSeek Harness (dsh) 从 0 到 1 深度手册：安装/插件开发/性能调优/实测案例/同模型多 Agent 实测对比（中文 + 英文 PDF）
-- [adongwanai/AgentGuide](https://github.com/adongwanai/AgentGuide) - https://adongwanai.github.io/AgentGuide | AI Agent开发指南 | LangGraph实战 | 高级RAG | 转行大模型 | 大模型面试 | 算法工程师 | 面试题库 | 强化学习｜数据合成
+- [adongwanai/AgentGuide](https://github.com/adongwanai/AgentGuide) - AI Agent 开发指南 | Agent Harness | 上下文工程 | 高级 RAG | MCP | Agentic RL 强化学习 | LangGraph 实战 | 1.2 万+ 大模型面试题 | 算法岗 / 开发岗求职 | 转行大模型
 - [makecindy/cindy](https://github.com/makecindy/cindy) - Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。
 - [KKKKhazix/khazix-skills](https://github.com/KKKKhazix/khazix-skills) - 数字生命卡兹克开源的 AI Skills 合集 | Agent Skills: leader（帮你定义目标）, neat-freak 洁癖, hv-analysis, khazix-writer & more — Claude Code, Codex & 40+ agents
 - [TokenRhythm/opensquilla](https://github.com/TokenRhythm/opensquilla) - OpenSquilla — Token-Efficient AI Agent with same budget, higher intelligence density
@@ -1991,6 +2000,7 @@
 - [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents) - 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程
 - [upstash/context7](https://github.com/upstash/context7) - Context7 Platform -- Up-to-date docs for AI agents
 - [Simon-He95/markstream-vue](https://github.com/Simon-He95/markstream-vue) - Multi-framework streaming Markdown renderers for AI apps: Vue/Nuxt, React/Next.js, Octane, SolidJS, Svelte, Angular, and Vue 2. Mermaid, KaTeX, streaming code blocks, SSR, and virtualized histories.
+- [a2ui-project/a2ui](https://github.com/a2ui-project/a2ui) - Open-source generative UI framework: agents stream layout data, and apps render it with native components in React, Angular, Lit, Flutter, SwiftUI and Jetpack Compose.
 - [google/langextract](https://github.com/google/langextract) - A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.
 - [ZeroTang05/VideoAdGuard](https://github.com/ZeroTang05/VideoAdGuard) - 哔哩哔哩浏览器插件：基于大语言模型，对B站视频中的植入广告进行检测。一键跳过视频中的植入/口播广告。
 - [fenxer/llm-things](https://github.com/fenxer/llm-things) - A collection of LLM memes
@@ -2129,6 +2139,7 @@
 - [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode,DeepSeek Harness and more. Only official website: ccswitch.io
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 - [upstash/context7](https://github.com/upstash/context7) - Context7 Platform -- Up-to-date docs for AI agents
+- [a2ui-project/a2ui](https://github.com/a2ui-project/a2ui) - Open-source generative UI framework: agents stream layout data, and apps render it with native components in React, Angular, Lit, Flutter, SwiftUI and Jetpack Compose.
 - [AmoyLab/Unla](https://github.com/AmoyLab/Unla) - 🧩 MCP Gateway - A lightweight gateway service that instantly transforms existing MCP Servers and APIs into MCP servers with zero code changes. Features Docker deployment and management UI, requiring n
 - [apify/apify-mcp-server](https://github.com/apify/apify-mcp-server) - The Apify MCP server enables your AI agents to extract data from social media, search engines, maps, e-commerce sites, or any other website using thousands of ready-made scrapers, crawlers, and automa
 - [yzfly/Awesome-MCP-ZH](https://github.com/yzfly/Awesome-MCP-ZH) - MCP 资源精选， MCP指南，Claude MCP，MCP Servers, MCP Clients
@@ -2455,7 +2466,6 @@
 - [toon-format/spec](https://github.com/toon-format/spec) - Official specification for Token-Oriented Object Notation (TOON)
 - [LingyiChen-AI/DeepDiagram](https://github.com/LingyiChen-AI/DeepDiagram) - An open-source AI visualization tool that transforms natural language into Mind Maps, Mermaid diagrams, and Echarts. Turn your ideas into structured visuals instantly.
 - [TangSY/edge-next-starter](https://github.com/TangSY/edge-next-starter) - An out‑of‑the‑box Next.js + Cloudflare full‑stack starter integrating Edge Runtime, D1 database, R2 storage, KV cache, Analytics Engine hooks, and a complete CI/CD pipeline.一个开箱即用的 Next.js + Cloudflar
-- [a2ui-project/a2ui](https://github.com/a2ui-project/a2ui) - 
 - [WooHooDai/linkding-cn](https://github.com/WooHooDai/linkding-cn) - 开源、自托管的网页管理&阅读工具（书签管理器 + 稍后读工具），基于 linkding 二次开发。支持高亮批注、收藏数据看板、随机列表、自定义快照爬取脚本等特有功能。
 - [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful
 - [steveklabnik/jujutsu-tutorial](https://github.com/steveklabnik/jujutsu-tutorial) - trying to figure out this jujutsu thing
@@ -2986,7 +2996,7 @@
 ## rag 
 
 - [beir-cellar/beir](https://github.com/beir-cellar/beir) - A Heterogeneous Benchmark for Information Retrieval. Easy to use, evaluate your models across 15+ diverse IR datasets.
-- [adongwanai/AgentGuide](https://github.com/adongwanai/AgentGuide) - https://adongwanai.github.io/AgentGuide | AI Agent开发指南 | LangGraph实战 | 高级RAG | 转行大模型 | 大模型面试 | 算法工程师 | 面试题库 | 强化学习｜数据合成
+- [adongwanai/AgentGuide](https://github.com/adongwanai/AgentGuide) - AI Agent 开发指南 | Agent Harness | 上下文工程 | 高级 RAG | MCP | Agentic RL 强化学习 | LangGraph 实战 | 1.2 万+ 大模型面试题 | 算法岗 / 开发岗求职 | 转行大模型
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with explicit control over retrieval, routing, m
 - [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents) - 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程
 - [ItzCrazyKns/Vane](https://github.com/ItzCrazyKns/Vane) - Vane is an AI-powered answering engine.
@@ -3353,6 +3363,7 @@
 ## swiftui 
 
 - [productdevbook/port-killer](https://github.com/productdevbook/port-killer) - A powerful cross-platform port management tool for developers. Monitor ports, manage Kubernetes port forwards, integrate Cloudflare Tunnels, and kill processes with one click.
+- [a2ui-project/a2ui](https://github.com/a2ui-project/a2ui) - Open-source generative UI framework: agents stream layout data, and apps render it with native components in React, Angular, Lit, Flutter, SwiftUI and Jetpack Compose.
 - [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Keep your Mac and PC clean, light, and running like new. Fast open-source CLI, plus native Mac and Windows apps.
 - [milanvarady/Applite](https://github.com/milanvarady/Applite) - A native macOS app store for software that isn't on the App Store, backed by Homebrew Cask
 - [Cay-Zhang/RSSBud](https://github.com/Cay-Zhang/RSSBud) - An RSS feed discovery app for iOS/macOS that works particularly well with RSSHub, a popular feed generation service. Available on the App Store.
