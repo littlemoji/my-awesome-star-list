@@ -1408,7 +1408,7 @@
 - [howie6879/weekly](https://github.com/howie6879/weekly) - 老胡的信息技术周刊❤️记录我本周看到的有价值的信息，针对优秀项目、软件、教程资料、网站等。
 - [LHRUN/bubble](https://github.com/LHRUN/bubble) - Let's start changing your profile. (Readme Profile Collection)
 - [XIU2/UserScript](https://github.com/XIU2/UserScript) - 🐵 自用的一些乱七八糟 油猴脚本~
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Mend Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [npmhub/npmhub](https://github.com/npmhub/npmhub) - 🔎 A browser extension to explore npm dependencies on GitHub repos
 - [EnixCoda/Gitako](https://github.com/EnixCoda/Gitako) - 🐙 File tree extension for GitHub on Chrome & Firefox & Edge
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
@@ -2347,7 +2347,7 @@
 - [tsparticles/tsparticles](https://github.com/tsparticles/tsparticles) - tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use component
 - [akgondber/npm-check-extras](https://github.com/akgondber/npm-check-extras) - CLI app to check for outdated and unused dependencies, run update/delete action over selected ones, time travel from history and more
 - [jaywcjlove/reference](https://github.com/jaywcjlove/reference) - 面向开发者的技术速查清单（Cheat Sheets）集合，整理常见技术、工具与开发流程，帮助快速查阅关键信息，提高开发效率。
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Mend Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [ruyadorno/ntl](https://github.com/ruyadorno/ntl) - Node Task List: Interactive cli to list and run package.json scripts
 - [th0r/npm-upgrade](https://github.com/th0r/npm-upgrade) - Interactive CLI utility to easily update outdated NPM dependencies
 - [npmhub/npmhub](https://github.com/npmhub/npmhub) - 🔎 A browser extension to explore npm dependencies on GitHub repos
