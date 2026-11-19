@@ -1113,7 +1113,7 @@
 - [unadlib/mutative](https://github.com/unadlib/mutative) - Efficient immutable updates, about 3-6x faster than Immer.
 - [Thinkmill/manypkg](https://github.com/Thinkmill/manypkg) - ☔️ An umbrella for your monorepo
 - [niieani/nesity](https://github.com/niieani/nesity) - Monorepo of various JavaScript tools and utilities
-- [dlepaux/realtime-bpm-analyzer](https://github.com/dlepaux/realtime-bpm-analyzer) - Tempo (BPM) detection for the browser with the Web Audio API and an AudioWorklet: files, streams, the microphone or any audio node, live as the audio plays. Also runs in Node, Bun and Deno. TypeScript
+- [dlepaux/realtime-bpm-analyzer](https://github.com/dlepaux/realtime-bpm-analyzer) - Tempo (BPM) detection for the browser with the Web Audio API: files, streams, the microphone or any audio node, live as the audio plays. Also runs in Node, Bun and Deno, from a CLI and an MCP server, 
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 - [styled-components/styled-components](https://github.com/styled-components/styled-components) - Fast, expressive styling for React. Server components, client components, streaming SSR, React Native—one API.
 - [missive/emoji-mart](https://github.com/missive/emoji-mart) - 🏪 One component to pick them all
