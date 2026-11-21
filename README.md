@@ -6,7 +6,6 @@
 ## Contents
 
 - [Astro](#astro)
-- [Bikeshed](#bikeshed)
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
@@ -47,10 +46,6 @@
 ## Astro 
 
 - [bestofjs/javascript-risingstars](https://github.com/bestofjs/javascript-risingstars) - :stars: An overview of the JavaScript landscape in 2025: trends about frontend, Node.js, fullstack frameworks, build tools, testing, Vue.js, React, state management...
-
-## Bikeshed 
-
-- [w3c/csswg-drafts](https://github.com/w3c/csswg-drafts) - CSS Working Group Editor Drafts
 
 ## C 
 
@@ -217,6 +212,7 @@
 - [phodal/fe](https://github.com/phodal/fe) - 《我的职业是前端工程师》 - Ebook：I'm a FrontEnd Developer
 - [ElemeFE/node-interview](https://github.com/ElemeFE/node-interview) - How to pass the Node.js interview of ElemeFE.
 - [jstherightway/js-the-right-way](https://github.com/jstherightway/js-the-right-way) - An easy-to-read, quick reference for JS best practices, accepted coding standards, and links around the Web
+- [w3c/csswg-drafts](https://github.com/w3c/csswg-drafts) - CSS Working Group Editor Drafts
 - [Jed-Z/computer-networking-lab](https://github.com/Jed-Z/computer-networking-lab) - 中山大学计算机网络实验 (2019 春)：配置实验、编程实验、“小溪网”理论练习题
 - [atotic/event-loop](https://github.com/atotic/event-loop) - Deep dive into JavaScript event loop
 - [bobbyiliev/introduction-to-bash-scripting](https://github.com/bobbyiliev/introduction-to-bash-scripting) - Free Introduction to Bash Scripting eBook
